@@ -1,0 +1,5 @@
+markdown: rdiscount
+pygments: true
+permalink: /blog/:year/:month/:day/:title
+post_defaults:
+          layout: default
