@@ -1,7 +1,9 @@
 ---
 layout: default
-title: Book Review: The Myth of Sisyphus
+title: Book Review\: The Myth of Sisyphus
 ---
+
+# Book Review: The Myth of Sisyphus
 
 
 ## “误解”
