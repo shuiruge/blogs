@@ -1,9 +1,7 @@
 ---
-layout: default
+layout: blog-post
 title: Book Review\: The Myth of Sisyphus
 ---
-
-# Book Review: The Myth of Sisyphus
 
 
 ## “误解”
