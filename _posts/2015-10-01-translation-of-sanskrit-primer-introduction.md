@@ -1,10 +1,12 @@
 ---
 layout: blog-post
-comment: true
+comments: true
 title: Translation of Sanskrit Primer - Introduction
 ---
 
 This is an experiment!
+
+To be continued!
 
 <hr>
 
