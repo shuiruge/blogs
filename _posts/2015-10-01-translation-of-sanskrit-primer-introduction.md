@@ -1,7 +1,7 @@
 ---
 layout: blog-post
 comment: true
-title: Translation of _Sanskrit Primer_\: Introduction
+title: Translation of Sanskrit Primer - Introduction
 ---
 
 This is an experiment!
