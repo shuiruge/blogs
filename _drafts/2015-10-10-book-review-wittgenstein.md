@@ -88,37 +88,19 @@ title: Book Review: Wittgenstein
 4.1 说谎者悖论的表示需要两个定义：其一为说谎者悖论本身，记为`L`；其二为真伪的定义（的“Upvalue of L”），记为`true-or-false`。具体地，
     
     def L
-        true-or-false ( L ) == False
+        true-or-false ( L ) = False
     
-注意到这个定义是递归的，但这个递归的定义没有通常递归定义的“基本情况”。现在问，evaluate
+注意到这个定义是递归的，但这个递归的定义没有通常递归定义的“基本情况”。这个定义看上去很像定义一个_Upvalue_。现在问，evaluate
     
     true-or-false ( L )
     
-会返回什么？根据定义，它是
+会返回什么？根据`L`的定义，有
     
-    true-or-false ( true-or-false ( L ) == False )
+    true-or-false ( L ) = False
     
-进而是
-    
-    true-or-false ( true-or-false ( true-or-false ( L ) == False ) == False ) )
-    
-进而是……这个evaluate无法停止——无法停机！
+即，返回`False`。
 
-4.2 考虑“我说的这句话是真话”，记其为`H`。同理，
+4.11 如果不从Upvalue的角度来考虑，那么这个evaluation会无法停止（停机）。即
     
-    def H
-        true-or-false ( H ) == True
+    true-or-false ( true-or-false (true-or-false ( …… ) = False ) = False )
     
-注意到这个定义是递归的，但这个递归的定义没有通常递归定义的“基本情况”。现在问，evaluate
-    
-    true-or-false ( H )
-    
-会返回什么？根据定义，它是
-    
-    true-or-false ( true-or-false ( H ) == True )
-    
-进而是
-    
-    true-or-false ( true-or-false ( true-or-false ( H ) == True ) == True ) )
-    
-进而是……这个evaluate同样无法停机。
