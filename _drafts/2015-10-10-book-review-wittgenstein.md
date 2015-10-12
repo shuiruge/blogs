@@ -111,3 +111,7 @@ title: Book Review: Wittgenstein
     true-or-false ( true-or-false (true-or-false ( …… ) = False ) = False )
     
 4.4 这里，定义可以是没有尽头的。我们似乎看到了“暗礁”。
+
+我们能用A来定义A自身吗？
+
+甚至，“定义”一词是如何定义的？这句话不正是带有递归（自指）性质的吗？即，当我们问“是如何定义的”时，我们已经在使用“定义”一词了！
