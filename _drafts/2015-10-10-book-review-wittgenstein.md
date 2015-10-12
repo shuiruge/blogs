@@ -90,17 +90,24 @@ title: Book Review: Wittgenstein
     def L
         true-or-false ( L ) = False
     
-注意到这个定义是递归的，但这个递归的定义没有通常递归定义的“基本情况”。这个定义看上去很像定义一个_Upvalue_。现在问，evaluate
+注意到这个定义是递归的，但这个递归的定义没有通常递归定义的“基本情况”。
+
+4.2 这个定义看上去很像定义一个_upvalue_。现在问，evaluate
     
     true-or-false ( L )
     
-会返回什么？根据`L`的定义，有
+会返回什么？根据`L`的定义，若将其看作upvalue，则有
     
     true-or-false ( L ) = False
     
-即，返回`False`。
+即，返回`False`。把它以upvalue定义，并没有产生任何问题。但这*并不是“说谎者悖论”*：它只是“谎话”一词的定义！
 
-4.11 如果不从Upvalue的角度来考虑，那么这个evaluation会无法停止（停机）。即
+4.3 “说谎者悖论”的关键点在于其递归性质，在于`L`就是`true-or-false ( L ) = False`。那么
+    
+    true-or-false ( L )
+    
+这个evaluation是无法停止（停机）的：
     
     true-or-false ( true-or-false (true-or-false ( …… ) = False ) = False )
     
+4.4 这里，定义可以是没有尽头的。我们似乎看到了“暗礁”。
