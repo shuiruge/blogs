@@ -114,9 +114,13 @@ title: Book Review: Wittgenstein
     
     true-or-false ( L )
     
-这个evaluation是无法停止（停机）的：
+这个evaluation是无法停止（停机）.
+
+4.31 注意到，`true-or-false`按其定义有如下性质：
     
-    true-or-false ( true-or-false (true-or-false ( …… ) = False ) = False )
+    true-or-false ( A = False ) = true-or-false ( A ) == False
+    
+如此，这个对`L`的evaluation就退化成了对`L`（这个`L`是在之前的`L`的定义中的！）的evaluation。如此，这个evaluation过程是无法停机的。
     
 4.4 这里，定义可以是没有尽头的。我们似乎看到了“暗礁”。
 
