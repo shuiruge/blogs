@@ -4,7 +4,6 @@ comments: true
 title: On Travelling
 ---
 
-# On Travelling
 
 “旅”指客居他乡，“行”指行走。“旅行”因此是行走于他乡的意思。（“游”指游玩，“旅游”因此是在他处游玩的意思。不同于旅行。）
 
