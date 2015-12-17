@@ -27,5 +27,23 @@ top: blog-post
 
 </div>
 
+<!-- LaTeX -->
+<script type="text/javascript" src="javascript.js">
+  MathJax.Hub.Config({
+  tex2jax: {
+  skipTags: ['script', 'noscript', 'style', 'textarea', 'pre']
+  }
+  });
+
+  MathJax.Hub.Queue(function() {
+  var all = MathJax.Hub.getAllJax(), i;
+  for(i=0; i < all.length; i += 1) {
+	       all[i].SourceElement().parentNode.className += ' has-jax';
+	       }
+	       });
+</script>
+
+code.has-jax {font: inherit; font-size: 100%; background: inherit; border: inherit;}
+
 <!-- End Page -->
 
