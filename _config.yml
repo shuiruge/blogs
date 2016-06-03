@@ -1,4 +1,3 @@
-markdown: rdiscount
 highlighter: rouge
 permalink: /blog/:year/:month/:day/:title
 post_defaults:
