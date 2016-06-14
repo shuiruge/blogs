@@ -18,11 +18,9 @@ The algorithm of constructing EFT is simple, as follow. (Remark that this algori
 and may also s.t.:
 	4. the action is invariant in its form.
 	
-(For interpretation of this step, see the "P.S. for 3 and 4" in the following.)
-
 4. By 3, the energy-scale of the physical process the theory describes (which is of the order of the UV cut-off) does *not* appear explicitly in the action. But, the coefficients in the action now is implicitly UV cut-off dependent. This dependence can effect which terms dominate the theory and which are negligible under a given energy-scale of physical process. (For different energy-scale, it maybe different terms that dominate.)
 
-This is how you construct and reduce your theory. Next is how to determine your theory further by experiments.
+	This is how you construct and reduce your theory. Next is how to determine your theory further by experiments.
 
 5. First pick out the dominate term, neglecting others; do calculation with it; comparing your results with experiments, fixing the parameters (now you have the least number of parameters).
 
