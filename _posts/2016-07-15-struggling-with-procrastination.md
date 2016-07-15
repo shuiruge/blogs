@@ -22,6 +22,8 @@ Practically, you can list out what you will do tomorrow before sleeping, detaile
 
 Exhaust your willpower in struggling with procrastination is far from wise, since it's valuable. The only place of allocating your willpower is watching out procrastination cues, such as "I'm suffering from tension, with which I cannot studying well. So, it's time to watch a movie".
 
+If you stride forward the first step, then you will find that following steps are not that hard!
+
 ### Work out the hardest task in the morning.
 
 Well, you know the reason if you're procrastinating.
