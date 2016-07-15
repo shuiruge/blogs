@@ -1,7 +1,13 @@
 ---
 layout: blog-post
-title: Test
+title: Hello World
 ---
+
+Hello, Absurd world!
+
+<hr>
+
+Followings are tests:
 
 
 LaTeX: $\alpha$
