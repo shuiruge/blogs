@@ -15,8 +15,10 @@ LaTeX:
 $\alpha$, $$ \frac{1}{2} $$. And equation:
 
 \begin{equation}
-	( E-\hat{H}_0 ) \Psi = \hat{H}_{\rm{int}} \Psi
+	( E-\hat{H}_0 ) \Psi = \hat{H}_{\rm{int}} \Psi \;,
 \end{equation}
+
+where markdown conflicts with LaTeX, since they both use underline, but in different ways.
 
 I still have no idea on how to show LaTeX directly in Jekyll. So:
 
