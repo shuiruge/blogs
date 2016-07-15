@@ -10,12 +10,12 @@ Hello, Absurd world!
 Followings are tests:
 
 
-LaTeX: $\alpha$
+LaTeX:
 
-$$ \frac{1}{2} $$
+$\alpha$, $$ \frac{1}{2} $$. And equation:
 
 \begin{equation}
-	\mathbb{R}
+	( E-\hat{H}_0 ) \Psi = \hat{H}_{\rm{int}} \Psi
 \end{equation}
 
 I still have no idea on how to show LaTeX directly in Jekyll. So:
