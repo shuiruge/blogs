@@ -1,4 +1,3 @@
-github: [metadata]
- gems:
-   - jekyll-coffeescript
-   - jekyll-paginate
+name: shuiruge's blog
+markdown: kramdown
+highlighter: rouge
