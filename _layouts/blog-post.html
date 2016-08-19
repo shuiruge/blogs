@@ -1,31 +1,18 @@
 ---
 layout: default
-top: blog-post
 ---
 
+<article>
+        <header>
+            <h2>{{ page.title }}</h2>
+            <span><i class="icon-clock"></i><time datetime="{{page.date|date:"%F"}}">{{page.date|date:"%b %d, %Y"}}</time></span><br/>
+            <span class="category"><i class="icon-tag"></i> {{ page.categories | category_links }}</span><br/>
+            <span class="author"><i class="icon-user"></i> {% if page.author %}{{page.author}}{% else %}{{site.author}}{% endif%}</span>
+        </header>
 
-<div id="page">
+        <div class="entry">{{ content }}</div>
 
+        <footer><!-- additional info --></footer>
 
-    {{ content }}
-
-
-    {% if page.comments %}
-
-        {% include disqus.html %}
-
-    {% endif %}
-
-
-    <hr>
-
-    <address class="signature">
-        By shuiruge
-	<span class="date">{{ page.date | date_to_long_string }}</span>
-	<span class="location">{{ page.location }}</span>
-    </address>
-
-</div>
-
-<!-- End Page -->
+</article>
 
