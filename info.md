@@ -14,7 +14,7 @@ I'm a linux user. I also use a lisp-like language, _Mathematica_. I am learning 
 
 I usually write blogs in Chinese, but sometimes in English.
 
-<hr>
+<br />
 
 > Writting is good, thinking is better;
 > 
