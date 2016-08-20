@@ -2,6 +2,7 @@
 layout: blog-post
 comments: true
 title: Surrounded by Mountains
+category: wanderlust
 ---
 
 I am in Deqin, Yunnan, surrounded by mountains.

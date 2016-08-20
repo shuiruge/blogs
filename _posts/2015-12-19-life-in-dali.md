@@ -2,6 +2,7 @@
 layout: blog-post
 comments: true
 title: Life in Dali
+category: wanderlust
 ---
 
 

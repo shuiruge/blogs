@@ -2,6 +2,7 @@
 layout: blog-post
 comments: true
 title: The Hometown
+category: wanderlust
 ---
 
 # The Hometown

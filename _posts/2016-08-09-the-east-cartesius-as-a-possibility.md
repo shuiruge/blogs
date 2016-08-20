@@ -2,6 +2,7 @@
 layout: blog-post
 comments: true
 title: The East Cartesius -- as a Possibility
+category: book-review
 ---
 
 这是《故道白云》的书评。

@@ -2,6 +2,7 @@
 layout: blog-post
 comments: true
 title: Book Review -- The Myth of Sisyphus
+category: book-review
 ---
 
 
