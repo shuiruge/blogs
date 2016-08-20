@@ -1,5 +1,5 @@
 ---
-layout: blog-post
+layout: page
 title: INFO
 ---
 
@@ -13,6 +13,8 @@ I was a student studying astrophysics, cosmology. I am learning Sanskrit, so as 
 I'm a linux user. I also use a lisp-like language, _Mathematica_. I am learning HTML/CSS/JS.
 
 I usually write blogs in Chinese, but sometimes in English.
+
+**If you want to e-mail to me, my address is 'shuiruge@hotmail.com'.**
 
 <br />
 
