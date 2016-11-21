@@ -3,6 +3,11 @@ layout: default
 title: Home
 ---
 
+        <header>
+            <h1><a href="{{site.baseurl}}/">Welcome to {{ site.name }}</a></h1>
+                <h4>{{ site.description }}</h4>
+        </header>
+
 <!-- Show last 5 posts here -->
 {% for post in paginator.posts %}
 	<article>
