@@ -4,6 +4,10 @@ comments: true
 title: It is Boring, if......
 ---
 
+**Update: This is manifestly wrong.**
+
+---
+
 
 The algorithm of constructing EFT is simple, as follow. (Remark that this algorithm holds not only for fields, but also for any other physical object which has a _spectrum_.)
 
