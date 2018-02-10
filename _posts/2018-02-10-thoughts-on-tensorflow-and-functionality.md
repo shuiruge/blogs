@@ -126,4 +126,4 @@ In the end, a piece of codes declares what I mean:
 
 which returns `[array([4.], dtype=float32), array([5.], dtype=float32)]`, as expected. You can simply copy-and-paste, and then run it. With running in terminal `tensorboard --logdir=logs`, can you visualize the graph, showing up what I said forsooth.
 
-PS: About the style, the (official documentation](https://www.tensorflow.org/community/style_guide#python_operations) is highly suggested. It leaks nothing but one point, that is the usage of `tf.convert_to_tensor`. It convert trainable tensor to non-trainable, which is not preferable.
+PS: About the style, the [official documentation](https://www.tensorflow.org/community/style_guide#python_operations) is highly suggested. It leaks nothing but one point, that is the usage of `tf.convert_to_tensor`. It convert trainable tensor to non-trainable, which is not preferable.
