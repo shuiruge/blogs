@@ -9,7 +9,7 @@ Recently, I've read the [`learning-to-learn`](https://github.com/deepmind/learni
 
 The idea herein is simple. First we construct a trainable (rather than a fixed as usual) optimizer, naturally a recurrent neural network (RNN), since optimization process is sequential. The parameters of the RNN are opened up and trainable. Next, we construct a performance (or say, loss), which, also naturally, is the total loss along the optimization sequence. Verily, a better optimizer expects a smaller total loss. Then all is done. We train the parameters in the optimizer as a RNN by gradient descent as usual. They did so on dataset like CIFAR-10 with some specific model. As a result, it is found that the trained optimizer can be roubustly generalized to other datasets and models.
 
-Let `f(theta, D)` the loss of some specific model with parameter `theta`, and `D` some dataset. Let `m(phi)` the trainable optimizer, as a RNN, with `phi` its paramters, trainable. It accepts a gradient of `f` and returns a difference of `theta`, telling how `theta` should be updated in the optimization proess. The total loss `L`, as the loss for training `m`, is
+Let `f(theta, D)` the loss of some specific model with parameter `theta`, and `D` some dataset. Let `m(phi)` the trainable optimizer, as a RNN, with `phi` its paramters, trainable. It accepts a gradient of `f` and returns the difference of `theta`, telling how `theta` should be updated in the optimization proess. The total loss `L`, as the loss for training `m`, is
 
     n_iters = ...  # The number of iterations of the optimization of `f`.
 
@@ -20,7 +20,8 @@ Let `f(theta, D)` the loss of some specific model with parameter `theta`, and `D
         total_loss = f(theta, D)
         
         for i in range(n_iters):
-            theta += m(phi)(theta)
+            gradiant = compute_gradient( f(theta, D), theta )
+            theta += m(phi)(gradient)
             total_loss += f(theta, D)
 
         return total_loss
