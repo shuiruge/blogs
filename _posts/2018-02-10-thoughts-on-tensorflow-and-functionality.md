@@ -34,7 +34,7 @@ This looks simple and dull, but challangeable in TensorFlow. Indeed, in TensorFl
 
     graph = ...
 
-    with tf.graph.as_default():
+    with graph.as_default():
 
       model = ...
       
