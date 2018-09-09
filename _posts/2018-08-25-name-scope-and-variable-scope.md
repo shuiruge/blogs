@@ -9,12 +9,9 @@ category: programming
 ```python
 import collections
 import tensorflow as tf
-```
 
 
-```python
 # Util
-
 def get_dependent_variables(tensor):
   """Returns all variables that the tensor `tensor` depends on.
   
