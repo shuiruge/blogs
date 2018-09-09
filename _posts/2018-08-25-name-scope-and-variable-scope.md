@@ -148,7 +148,7 @@ Let's check reason explicitly:
 
 
 ```python
-get_dependent_variables(z_1)
+print(get_dependent_variables(z_1))
 ```
 
 
@@ -161,7 +161,7 @@ get_dependent_variables(z_1)
 
 
 ```python
-get_dependent_variables(z_2)
+print(get_dependent_variables(z_2))
 ```
 
 
@@ -202,7 +202,7 @@ z_2 = h(_f)(x)
 
 
 ```python
-get_dependent_variables(z_1)
+print(get_dependent_variables(z_1))
 ```
 
 
@@ -215,7 +215,7 @@ get_dependent_variables(z_1)
 
 
 ```python
-get_dependent_variables(z_2)
+print(get_dependent_variables(z_2))
 ```
 
 
@@ -223,6 +223,18 @@ get_dependent_variables(z_2)
 
     [<tf.Variable 'f/dense/bias:0' shape=(1,) dtype=float32_ref>,
      <tf.Variable 'f/dense/kernel:0' shape=(64, 1) dtype=float32_ref>]
+
+
+
+
+```python
+print(get_dependent_variables(z_1) == get_dependent_variables(z_2))
+```
+
+    True
+
+
+Now as expected forsooth.
 
 
 
