@@ -6,13 +6,15 @@ category: programming
 ---
 
 
-
 ```python
 import collections
 import tensorflow as tf
+```
 
 
+```python
 # Util
+
 def get_dependent_variables(tensor):
   """Returns all variables that the tensor `tensor` depends on.
   
@@ -46,7 +48,7 @@ def get_dependent_variables(tensor):
   return dependent_vars
 ```
 
-## When Using Variable-scope
+## Implicit Variables
 
 In TensorFlow, the parameters are implicitly involved in a function. For instance, the weights and biases in `tf.layers.dense`. Now suppose you have defined a function by composition of `tf.layers.dense`, like
 
@@ -81,6 +83,8 @@ get_dependent_variables(y)
      <tf.Variable 'dense/kernel:0' shape=(64, 256) dtype=float32_ref>]
 
 
+
+## When Using Variable-scope
 
 Sometimes we want to reuse the variables. The implicitness of them forces the non-triviality of the reuse. Indeed, we have to employ a `tf.variable_scope`:
 
@@ -171,7 +175,7 @@ get_dependent_variables(z_2)
 
 
 
-As it's seen, the additional variable-scopes of `'h'` and `'g'` are pre-pended to the variable-scope of `'f'`, and then renamed the variables. When the computer tried to reuse the variables named `'f/dense/...'`, but now with `'g/'` pre-pended, later in operator `h()`, it found different names (i.e. `'h/f/dense/...'`). By the definition of `tf.get_variable()`, it created new variables instead of reusing the created.
+As it's seen, the additional variable-scopes of "h" and "g" are pre-pended to the variable-scope of "f", and then renamed the variables. When the computer tried to reuse the variables named "f/dense/...", but now with "g/" pre-pended, later in operator `h()`, it found different names (i.e. "h/f/dense/..."). By the definition of `tf.get_variable()`, it created new variables instead of reusing the created.
 
 In this case, we shall use `tf.name_scope` to group together the node in the graph, instead of using `tf.variable_scope`:
 
@@ -234,3 +238,4 @@ print(get_dependent_variables(z_1) == get_dependent_variables(z_2))
 
 
 Now as expected forsooth.
+
