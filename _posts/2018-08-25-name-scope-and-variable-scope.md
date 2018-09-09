@@ -172,7 +172,7 @@ print(get_dependent_variables(z_2))
 
 
 
-As it's seen, the additional variable-scopes of "h" and "g" are pre-pended to the variable-scope of "f", and then renamed the variables. When the computer tried to reuse the variables named "f/dense/...", but now with "g/" pre-pended, later in operator `h()`, it found different names (i.e. "h/f/dense/..."). By the definition of `tf.get_variable()`, it created new variables instead of reusing the created.
+As it's seen, the additional variable-scopes of `'h'` and `'g'` are pre-pended to the variable-scope of `'f'`, and then renamed the variables. When the computer tried to reuse the variables named `'f/dense/...'`, but now with `'g/'` pre-pended, later in operator `h()`, it found different names (i.e. `'h/f/dense/...'`). By the definition of `tf.get_variable()`, it created new variables instead of reusing the created.
 
 In this case, we shall use `tf.name_scope` to group together the node in the graph, instead of using `tf.variable_scope`:
 
@@ -235,16 +235,3 @@ print(get_dependent_variables(z_1) == get_dependent_variables(z_2))
 
 
 Now as expected forsooth.
-
-
-
-
-```python
-print(get_dependent_variables(z_1) == get_dependent_variables(z_2))
-```
-
-    True
-
-
-Now as expected forsooth.
-
