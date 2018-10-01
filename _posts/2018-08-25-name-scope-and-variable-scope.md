@@ -2,7 +2,7 @@
 layout: blog-post
 comments: true
 title: Name Scope and Variable Scope
-category: programming
+category: programming, machine-learning
 ---
 
 
