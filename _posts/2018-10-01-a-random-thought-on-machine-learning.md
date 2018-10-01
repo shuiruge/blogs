@@ -2,7 +2,7 @@
 layout: blog-post
 comments: true
 title: A Random Thought on Machine Learning
-category: programming,machine-learning
+category: machine-learning
 ---
 
 
