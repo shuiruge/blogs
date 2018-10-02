@@ -5,13 +5,10 @@ title: Autumn Rain
 ---
 
 
-<p>
 Autumn rain, Autumn rain
-</p>
-<p>
+
 Falling through the coloured plane
-</p>
+
 Wild in peace, soft in pain
-<p>
+
 Colours fade in the cold cold gray.
-</p>

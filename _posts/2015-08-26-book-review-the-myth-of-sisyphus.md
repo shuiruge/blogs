@@ -1,7 +1,7 @@
 ---
 layout: blog-post
 comments: true
-title: Book Review -- The Myth of Sisyphus
+title: The Myth of Sisyphus 读后感
 category: book-review
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: blog-post
 comments: true
-title: Exploration
+title: 探寻
 category: physics
 ---
 

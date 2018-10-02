@@ -1,7 +1,7 @@
 ---
 layout: blog-post
 comments: true
-title: Life in Dali
+title: 大理生活
 category: wanderlust
 ---
 

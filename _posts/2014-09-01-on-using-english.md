@@ -4,12 +4,9 @@ comments: true
 title: On Using English
 ---
 
-<p>
-I decide to write blogs <i>only</i> in English. This is a good way for me to imporve my English skill quickly and firmly.
-</p>
-<p>
+
+I decide to write blogs _only_ in English. This is a good way for me to imporve my English skill quickly and firmly.
+
 Writing like a kid, this must be the first step!
-</p>
-<p>
+
 And, I think, the soul under the words shall never fade for changing the language delivering it.
-</p>
