@@ -10,14 +10,14 @@ title: Mindfulness and Meditation
 
 ## 定义
 
-Mindfulness：即良知[^良知]，即性光[^性光]，即 sati[^sati]。
-Meditation：即致良知，即回光守中，即 satipaṭṭhāna，也就是保持 sati 的技术。
+- Mindfulness：即良知[^nwit]，即性光[^light]，即 sati[^sati]。
+- Meditation：即致良知，即回光守中，即 satipaṭṭhāna，也就是保持 sati 的技术。
 
-[^良知]: 《孟子》，尽心篇：
+[^nwit]: 《孟子》，尽心篇：
 
     > 人之所不学而能者，其良能也；所不虑而知者，其良知也。
 
-[^性光]: 《太乙金华宗旨》，性光识光第十：
+[^light]: 《太乙金华宗旨》，性光识光第十：
 
     > 凡人視物，任眼一照去，不及分別，此為性光，如鏡之無心而照也，如水之無心而鑒也。少刻即為「識光」，以其分別也。
 
