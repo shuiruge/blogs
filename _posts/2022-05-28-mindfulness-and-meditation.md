@@ -105,3 +105,5 @@ A：要点不在把其它事物或念头排除在觉知（conscious access）之
 1. 《The Heart of Buddhist Meditation》，Nyanaponika Thera 著，2014 版。
 1. 《The Power of Mindfulness》，Nyanaponika Thera 著。
 1. 《Consciousness and the Brain》，Stanislas Dehaene 著，2014 版。
+
+---
