@@ -64,6 +64,8 @@ A：如果很用力，就无法长久保持。所以，需要自然而然、effo
 1. 《The Power of Mindfulness》，Nyanaponika Thera 著。
 1. 《Consciousness and the Brain》，Stanislas Dehaene 著，2014 版。
 
+---
+
 [^良知]: 《孟子》，尽心篇：
 
     > 人之所不学而能者，其良能也；所不虑而知者，其良知也。
