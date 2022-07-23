@@ -1,6 +1,4 @@
 markdown: kramdown
-kramdown:
-  extensions: [footnotes]
 highlighter: rouge
 
 
