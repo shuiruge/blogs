@@ -109,7 +109,6 @@ A：如果很用力，就无法长久保持。所以，需要自然而然、effo
     自发的念头：
 
     > In fact, organized spontaneous activity is omnipresent in the nervous system. Anyone who has ever seen an EEG knows this: the two hemispheres constantly generate massive high-frequency electrical waves, whether the person is awake or asleep. This spontaneous excitation is so intense that it dominates the landscape of brain activity. By comparison, the activation evoked by an external stimulus is barely detectable, and much averaging is needed before it can be observed. Stimulus-evoked activity accounts for only a very small amount of the total energy consumed by the brain, probably less than 5 percent. The nervous system primarily acts as an autonomous device that generates its own thought patterns. Even in the dark, while we rest and “think of nothing,” our brain constantly produces complex and ceaselessly changing arrays of neuronal activity.
-
     自发的想法（directed thoughts）会占用觉知（conscious access）：
 
     > Furthermore, this internal stream competes with the external world. During moments of high default-mode activity, the presentation of an unexpected stimulus such as a picture no longer evokes a large P3 brain wave, as it does in an attentive subject. Endogenous states of consciousness interfere with our ability to become aware of external events. Spontaneous brain activity invades the global workspace and, if absorbing, can block access to other stimuli for extended periods of time. We met a variant of this phenomenon in Chapter 1 under the name of “inattentional blindness.”
