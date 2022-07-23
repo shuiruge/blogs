@@ -1,4 +1,6 @@
 markdown: kramdown
+kramdown:
+  extensions: [footnotes]
 highlighter: rouge
 
 
@@ -21,8 +23,8 @@ author_email: shuiruge@hotmail.com
 # Uncomment if you are planning to run the blog in a subdirectory
 # Note - if you enable this, and attempt to view your site locally you have to use the baseurl in your local path.
 # Example, you must use https://localhost:4000/path/to/blog
-#baseurl: /path/to/blog 
-#baseurl: 
+#baseurl: /path/to/blog
+#baseurl:
 
 # The URL of your actual domain. This will be used to make absolute links in the RSS feed.
 url: https://shuiruge.github.io
