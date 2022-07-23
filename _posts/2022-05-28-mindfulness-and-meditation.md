@@ -1,10 +1,15 @@
+---
+layout: blog-post
+title: Mindfulness and Meditation
+---
+
 # Mindfulness and Meditation
 
 本文意在于给予 mindfulness 和 meditation 明确的定义，阐明其动机，并从原理上说明如何实践。
 
 ## 定义
 
-- Mindfulness：即良知[^良知]，即性光[^性光]，即 sati[^sati]。
+- Mindfulness：即良知[^nwit]，即性光[^light]，即 sati[^sati]。
 - Meditation：即致良知，即回光守中，即 satipaṭṭhāna，也就是保持 sati 的技术。
 
 ### 举例
@@ -54,11 +59,11 @@ A：如果很用力，就无法长久保持。所以，需要自然而然、effo
 1. 《The Power of Mindfulness》，Nyanaponika Thera 著。
 1. 《Consciousness and the Brain》，Stanislas Dehaene 著，2014 版。
 
-[^良知]: 《孟子》，尽心篇：
+[^nwit]: 《孟子》，尽心篇：
 
     > 人之所不学而能者，其良能也；所不虑而知者，其良知也。
 
-[^性光]: 《太乙金华宗旨》，性光识光第十：
+[^light]: 《太乙金华宗旨》，性光识光第十：
 
     > 凡人視物，任眼一照去，不及分別，此為性光，如鏡之無心而照也，如水之無心而鑒也。少刻即為「識光」，以其分別也。
 
