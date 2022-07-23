@@ -59,6 +59,8 @@ A：如果很用力，就无法长久保持。所以，需要自然而然、effo
 1. 《The Power of Mindfulness》，Nyanaponika Thera 著。
 1. 《Consciousness and the Brain》，Stanislas Dehaene 著，2014 版。
 
+---
+
 [^definition]:  定义是将已知的词的含义，赋给未知的词。此处列举同义词若干，知晓任一含义即可。
 
 [^nwit]: 《孟子》，尽心篇：
