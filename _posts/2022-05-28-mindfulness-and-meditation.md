@@ -3,7 +3,6 @@ layout: blog-post
 title: Mindfulness and Meditation
 ---
 
-# Mindfulness and Meditation
 
 本文意在于给予 mindfulness 和 meditation 明确的定义，阐明其动机，并从原理上说明如何实践。
 
