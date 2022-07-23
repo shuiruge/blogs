@@ -7,7 +7,7 @@ title: Mindfulness and Meditation
 
 本文意在于给予 mindfulness 和 meditation 明确的定义，阐明其动机，并从原理上说明如何实践。
 
-## 定义
+## 定义[^definition]
 
 - Mindfulness：即良知[^nwit]，即性光[^light]，即 sati[^sati]。
 - Meditation：即致良知，即回光守中，即 satipaṭṭhāna，也就是保持 sati 的技术。
@@ -58,6 +58,8 @@ A：如果很用力，就无法长久保持。所以，需要自然而然、effo
 1. 《The Heart of Buddhist Meditation》，Nyanaponika Thera 著，2014 版。
 1. 《The Power of Mindfulness》，Nyanaponika Thera 著。
 1. 《Consciousness and the Brain》，Stanislas Dehaene 著，2014 版。
+
+[^definition]:  定义是将已知的词的含义，赋给未知的词。此处列举同义词若干，知晓任一含义即可。
 
 [^nwit]: 《孟子》，尽心篇：
 
