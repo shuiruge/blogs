@@ -43,11 +43,21 @@ A：目的是为了保持 mindfulness，使得我们能够充分地了解事物�
 
 A：Meditation 看上去像是在训练专注力，但其实两者区别很大。对于我们日常所说的专注力，例如专注于读小说、看电影等等，当我们保持专注时，对注意力并未有觉察。这种情况下，我们容易成为注意力的仆从，陷入其中却不自知。与之相对地，meditation 所培养的专注力，是一种有意识的对注意力——觉知（conscious access）——保持察觉和引导的能力，此时，我们是注意力的监督者和引导者，将其引向对事物的敏锐洞察和深刻理解。
 
-### 把觉知保持在事物上时，仍有其它事物或念头进入到觉知中
+### 为何既需察觉又需引导
 
-A：确实如此，把觉知保持在呼吸上时，仍可以感知到室外的蝉鸣。但要点不在于屏蔽感知（实际上这也是不可能也不好的，比如突发事件）。而是在于**此时我们无法对蝉鸣进行思索（directed thoughts）。**即便觉知被突发事件吸引过去，也可以**借由技巧性的引导，避免不可控的思索。**
+Q：对觉知（conscious access）把控和占用，为何既需察觉又需引导？
+
+A：如果只是察觉而没有引导，觉知（conscious access）没有安定下来，仍旧飘忽不定，便很难保持察觉。反之，如果只是引导而没有察觉，不清楚觉知当下在何处，那只能是胡乱的引导。所以二者相辅相成，才能保持对觉知的把控和占用。
+
+### 有其它事物或念头进入到觉知中
+
+Q：把觉知（conscious access）保持在事物上时，仍有其它事物或念头进入到觉知中，这是否有问题？
+
+A：确实如此，把觉知（conscious access）保持在呼吸上时，仍可以感知到室外的蝉鸣。但要点不在于屏蔽感知（实际上这也是不可能也不好的，例如突发事件）。而是在于**此时我们无法对蝉鸣进行思索（directed thoughts），并有效限制进入觉知的对象，以便于察觉。**即便觉知被突发事件吸引过去，也可以**立刻察觉，并借由技巧性的引导，避免不可控的思索。**
 
 ### 保持觉知需要很用力
+
+Q：保持觉知需要很用力，这样做对不对？
 
 A：如果很用力，就无法长久保持。所以，需要自然而然、effortless，而不是使用强力。引导觉知颇类似于引导宠物，使用强力容易适得其反。应当了解其习性，运用技巧，使之自然地滑向目标事物。
 
@@ -57,8 +67,6 @@ A：如果很用力，就无法长久保持。所以，需要自然而然、effo
 1. 《The Heart of Buddhist Meditation》，Nyanaponika Thera 著，2014 版。
 1. 《The Power of Mindfulness》，Nyanaponika Thera 著。
 1. 《Consciousness and the Brain》，Stanislas Dehaene 著，2014 版。
-
----
 
 [^definition]:  定义是将已知的词的含义，赋给未知的词。此处列举同义词若干，知晓任一含义即可。
 
@@ -117,6 +125,7 @@ A：如果很用力，就无法长久保持。所以，需要自然而然、effo
     自发的念头：
 
     > In fact, organized spontaneous activity is omnipresent in the nervous system. Anyone who has ever seen an EEG knows this: the two hemispheres constantly generate massive high-frequency electrical waves, whether the person is awake or asleep. This spontaneous excitation is so intense that it dominates the landscape of brain activity. By comparison, the activation evoked by an external stimulus is barely detectable, and much averaging is needed before it can be observed. Stimulus-evoked activity accounts for only a very small amount of the total energy consumed by the brain, probably less than 5 percent. The nervous system primarily acts as an autonomous device that generates its own thought patterns. Even in the dark, while we rest and “think of nothing,” our brain constantly produces complex and ceaselessly changing arrays of neuronal activity.
+
     自发的想法（directed thoughts）会占用觉知（conscious access）：
 
     > Furthermore, this internal stream competes with the external world. During moments of high default-mode activity, the presentation of an unexpected stimulus such as a picture no longer evokes a large P3 brain wave, as it does in an attentive subject. Endogenous states of consciousness interfere with our ability to become aware of external events. Spontaneous brain activity invades the global workspace and, if absorbing, can block access to other stimuli for extended periods of time. We met a variant of this phenomenon in Chapter 1 under the name of “inattentional blindness.”
