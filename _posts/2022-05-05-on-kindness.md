@@ -1,7 +1,7 @@
 ---
 layout: blog-post
 comments: true
-title: On Kindness
+title: 善于不善
 category: life
 ---
 
