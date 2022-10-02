@@ -5,7 +5,7 @@ title: Mindfulness and Meditation 2
 
 ## Mindfulness
 
-**Mindfulness 即这样的注意力——它可以无有遮蔽地察知事物、收集信息。使信息得以整全。** 它是周全思考和合理行动的必要条件。
+**Mindfulness 即这样的注意力——它可以没有遮蔽地察知事物、收集信息。使信息得以整全。** 它是周全思考和合理行动的必要条件。
 
 注意力有所遮蔽的原因有二：
 
@@ -17,11 +17,11 @@ title: Mindfulness and Meditation 2
 
   - 例如，无法觉察起心动念。
 
-这两者是相辅相成的。如果注意力“费力”（effortful）、沉重（rigid）、单向（narrow），便不能敏锐；反之，如果注意力不能敏锐，就会有所忽视（例如忽视起心动念），那些被忽视了的，会在不觉之中“占领”注意力，驱使注意力，便不能自然。
+这两者是相辅相成的。如果注意力费力（effortful）、沉重（rigid）、单向（narrow），便不能敏锐。同样，如果注意力不能敏锐，就会有所忽视（例如忽视起心动念），那些被忽视了的，会在不觉之中“占领”注意力，驱使注意力，便不能自然。
 
 ## Meditation
 
-所以，**下手处在于在于养成自然的注意习惯，和锻炼注意力的敏锐度，这就是 meditation。**
+所以，**下手处在于，养成自然的注意习惯，和锻炼注意力的敏锐度，这就是 meditation。**
 
 Meditation 的具体方法，参见（按阅读难易度，从易至难排序）：《Satipaṭṭhāna Vipassāna》；或《The Heart of Buddhist Meditation》，第五章 _The Buermese Satipaṭṭhāna Method_；或《Manual of Insight》，第五章 _Practical Instructions_。
 
