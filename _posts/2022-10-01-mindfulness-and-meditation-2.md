@@ -7,7 +7,7 @@ title: Mindfulness and Meditation 2
 
 **Mindfulness 即这样的注意力——它可以没有遮蔽地察知事物、收集信息。使信息得以整全。** 它是周全思考和合理行动的必要条件。
 
-事物既包含外部，即所见、所闻、所触、所感之物，也包含内部，即感受、情绪、心念。例如，当我们看到一张桌子时，不但看到桌子，紧接着可能会产生认识“这是桌子”，也可能产生想要触碰它的念头，也可能会激发出一串回忆，进而产生某些情绪。这些都是必要的信息，会对我们产生潜在的影响。
+事物既包含外部，即所见、所闻、所触、所感之物，也包含内部，即感受、情绪、心念。例如，当我们看到一个盒子时，盒子进入我们的视觉，紧接着会认识到（concept）“这是一个盒子”，可能会产生想要打开盒子的意念（intention），也可能会激起一串回忆，产生某些情绪。这些都是必要的信息，会对我们产生潜在的影响。
 
 注意力有所遮蔽的原因有二：
 
@@ -25,7 +25,19 @@ title: Mindfulness and Meditation 2
 
 所以，**下手处在于，养成自然的注意习惯，和锻炼注意力的敏锐度，这就是 meditation。**
 
-Meditation 的具体方法，参见（按阅读难易度，从易至难排序）：《Satipaṭṭhāna Vipassāna》；或《The Heart of Buddhist Meditation》，第五章 _The Buermese Satipaṭṭhāna Method_；或《Manual of Insight》，第五章 _Practical Instructions_。
+Meditation 的具体方法，参见：
+
+1. 《Satipaṭṭhāna Vipassāna》；
+    - 详细地讲解了原理和实践方法。
+    - 文风偏口语化，流畅且不失逻辑性。方便入门。
+
+2. 《The Heart of Buddhist Meditation》，第五章 The Burmese Satipaṭṭhāna Method，尤其是 The Programme of Practice 一节；
+    - 详细地讲解了实践方法，附有实例。
+    - 文风精炼、简明。方便反复查阅。
+
+3. 《Manual of Insight》，第五章 Practical Instructions。
+    - 系统地讲解了原理、实践方法、实践过程以及诸多可能会遇到的问题。可谓大而全。
+    - 文风偏学术化，严谨。适合参考。
 
 基本原理是循序渐进地、彻底地锻炼这种能力。这与我们学习任何学科（数学、英语）的方式是一致的。
 
