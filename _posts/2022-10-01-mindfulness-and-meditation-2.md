@@ -11,7 +11,7 @@ title: Mindfulness and Meditation 2
 
 注意力有所遮蔽的原因有二：
 
-- 注意力太过于集中，不够自然（effortless）、轻盈（soften）、开放（spacious）[^effortless]。
+- 注意力太过于集中，不够自然（effortless）、轻盈（soften）、开放（spacious）。[^effortless]
 
   - 例如，生气或者思索（directed thoughts）时，容易不自觉地只集中在生气或思索的对象上，而忽视“我在生气”或“我在思索”的状态。
 
@@ -25,7 +25,7 @@ title: Mindfulness and Meditation 2
 
 所以，**下手处在于，养成自然的注意习惯，和锻炼注意力的敏锐度，这就是 meditation。**
 
-基本原理是循序渐进地、彻底地锻炼这种能力。这与我们学习任何学科（例如英语）的方式是一致的。
+基本原理是循序渐进地、彻底地[^thoroughly]锻炼这种能力。这与我们学习任何学科（例如英语）的方式是一致的。
 
 首先注意呼吸，但又不将注意力集中在呼吸上，只是知道当下是在吸气还是在呼气，无需费力（effortlessly）。正如抛锚的船只，虽然随着海浪摇晃，但总不会离得太远。同样地，保持对当下呼吸的觉察，注意力就不会被事物带跑，便可保持自然中正的状态。
 
@@ -104,3 +104,5 @@ TODO: 增加 Tejaniya 的著作。
 1. 《Practical Insight Meditation》，Mahāsi Sayadaw 著。
 
 [^effortless]: 这三者之中，自然（effortless）为首。一个自然的注意力，它本身就是轻盈的（soften）、开放的（spacious）。这是注意力的本性。所以，为了行文简洁，后面以“自然（effortless）”统领。
+
+[^thoroughly]: “彻底”的意思是，经常地、反复地实践，直到可以自动完成。就像匠人的手艺一样。
