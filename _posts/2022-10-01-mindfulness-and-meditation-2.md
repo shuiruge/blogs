@@ -11,7 +11,7 @@ title: Mindfulness and Meditation 2
 
 注意力有所遮蔽的原因有二：
 
-- 注意力太过于集中，不够自然（effortless）、轻盈（soften）、开放（spacious）。[^effortless]
+- 注意力太过于集中，不够自然（effortless）、轻盈（soften）、开放（spacious）；[^effortless]
 
   - 例如，生气或者思索（directed thoughts）时，容易不自觉地只集中在生气或思索的对象上，而忽视“我在生气”或“我在思索”的状态。
 
@@ -63,7 +63,7 @@ Mindfulness 在于收集信息，所以它并不是全部，还有其它必要�
 
     > 凡人視物，任眼一照去，不及分別，此為性光，如鏡之無心而照也，如水之無心而鑒也。少刻即為「識光」，以其分別也。
 
-- 良知；
+- 良知。
 
   - 《孟子·尽心篇》：
 
@@ -89,7 +89,7 @@ Mindfulness 在于收集信息，所以它并不是全部，还有其它必要�
   - 详细地讲解了原理和实践方法。
   - 文风偏口语化，流畅且不失逻辑性。方便入门。
 
-- 《Dhamma Everywhere》。
+- 《Dhamma Everywhere》；
   - 详细地讲解了原理、实践方法以及诸多常见问题，附有很多实例。
   - 文风非常口语化，甚至颇为幽默，方便入门，或作为参考。
 
@@ -97,7 +97,7 @@ Mindfulness 在于收集信息，所以它并不是全部，还有其它必要�
   - 详细地讲解了实践方法，附有实例。
   - 文风精炼、简明。方便反复查阅。
 
-- 《Manual of Insight》，第五章 Practical Instructions；
+- 《Manual of Insight》，第五章 Practical Instructions。
   - 系统地讲解了原理、实践方法、实践过程以及诸多可能会遇到的问题。可谓大而全。
   - 文风偏学术化，严谨。适合参考。
 
