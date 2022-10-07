@@ -84,8 +84,8 @@ Mindfulness 在于收集信息，所以它并不是全部，还有其它必要�
   - 文风偏口语化，流畅且不失逻辑性。方便入门。
 
 - 《Dhamma Everywhere》。
-  - 详细地讲解了原理、实践方法以及诸多常见问题。比较全面。
-  - 文风非常口语化，方便入门，或作为参考。
+  - 详细地讲解了原理、实践方法以及诸多常见问题，附有很多实例。
+  - 文风非常口语化，甚至颇为幽默，方便入门，或作为参考。
 
 - 《The Heart of Buddhist Meditation》，第五章 The Burmese Satipaṭṭhāna Method，尤其是 The Programme of Practice 一节；
   - 详细地讲解了实践方法，附有实例。
