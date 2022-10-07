@@ -79,19 +79,21 @@ Mindfulness 在于收集信息，所以它并不是全部，还有其它必要�
 
 ### Meditation 的参考文献？
 
-1. 《Satipaṭṭhāna Vipassāna》；
-    - 详细地讲解了原理和实践方法。
-    - 文风偏口语化，流畅且不失逻辑性。方便入门。
+- 《Satipaṭṭhāna Vipassāna》；
+  - 详细地讲解了原理和实践方法。
+  - 文风偏口语化，流畅且不失逻辑性。方便入门。
 
-2. 《The Heart of Buddhist Meditation》，第五章 The Burmese Satipaṭṭhāna Method，尤其是 The Programme of Practice 一节；
-    - 详细地讲解了实践方法，附有实例。
-    - 文风精炼、简明。方便反复查阅。
+- 《Dhamma Everywhere》。
+  - 详细地讲解了原理、实践方法以及诸多常见问题。比较全面。
+  - 文风非常口语化，方便入门，或作为参考。
 
-3. 《Manual of Insight》，第五章 Practical Instructions。
-    - 系统地讲解了原理、实践方法、实践过程以及诸多可能会遇到的问题。可谓大而全。
-    - 文风偏学术化，严谨。适合参考。
+- 《The Heart of Buddhist Meditation》，第五章 The Burmese Satipaṭṭhāna Method，尤其是 The Programme of Practice 一节；
+  - 详细地讲解了实践方法，附有实例。
+  - 文风精炼、简明。方便反复查阅。
 
-TODO: 增加 Tejaniya 的著作。
+- 《Manual of Insight》，第五章 Practical Instructions；
+  - 系统地讲解了原理、实践方法、实践过程以及诸多可能会遇到的问题。可谓大而全。
+  - 文风偏学术化，严谨。适合参考。
 
 ## 参考文献
 
@@ -102,6 +104,7 @@ TODO: 增加 Tejaniya 的著作。
 1. [《Satipaṭṭhāna Vipassāna》](https://www.accesstoinsight.org/lib/authors/mahasi/wheel370.html#circle=on)，Mahāsi Sayadaw 著。
 1. 《Manual of Insight》，Mahāsi Sayadaw 著。
 1. 《Practical Insight Meditation》，Mahāsi Sayadaw 著。
+1. [《Dhamma Everywhere》](https://ashintejaniya.org/books-dhamma-everywhere)，Sayadaw U Tejaniya 著。
 
 [^effortless]: 这三者之中，自然（effortless）为首。一个自然的注意力，它本身就是轻盈的（soften）、开放的（spacious）。这是注意力的本性。所以，为了行文简洁，后面以“自然（effortless）”统领。
 
