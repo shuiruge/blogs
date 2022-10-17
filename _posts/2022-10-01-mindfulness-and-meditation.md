@@ -1,6 +1,6 @@
 ---
 layout: blog-post
-title: Mindfulness and Meditation 2
+title: Mindfulness and Meditation
 ---
 
 ## Mindfulness
