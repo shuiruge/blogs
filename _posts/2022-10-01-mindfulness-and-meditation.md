@@ -100,7 +100,7 @@ Mindfulness 在于收集信息，所以它并不是全部，还有其它必要�
 1. 《Practical Insight Meditation》，Mahāsi Sayadaw 著。
 1. [《Dhamma Everywhere》](https://ashintejaniya.org/books-dhamma-everywhere)，Sayadaw U Tejaniya 著。
 
-[^definition]: _斜体字_表示对专有名词的定义。例如"_事物_ ......”是说该句（或上下文）是对“事物”这一**专有名词**的定义；后文中，“事物”一词将不再是通常的事物（things）涵义。
+[^definition]: _斜体字_ 表示对专有名词的定义。例如“_事物_ ......”是说该句（或上下文）是对“事物”这一**专有名词**的定义；后文中，“事物”一词将不再是通常的事物（things）涵义。
 
 [^attachment]: “执着于某事物”，即“注意力持续地集中在某事物上”。“Attach”有贴、附的意思。
 
