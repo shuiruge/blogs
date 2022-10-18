@@ -3,9 +3,11 @@ layout: blog-post
 title: Mindfulness and Meditation
 ---
 
-## Mindfulness[^definition]
+# Mindfulness and Meditation
 
-**_Mindfulness_ 即这样的注意力——它可以没有遮蔽地察知事物、收集信息。使信息得以整全。** 它是周全思考和合理行动的必要条件。
+## Mindfulness
+
+**_Mindfulness_[^definition] 即这样的注意力——它可以没有遮蔽地察知事物、收集信息。使信息得以整全。** 它是周全思考和合理行动的必要条件。
 
 _事物_ 既包含外部，即所见、所闻、所触、所感之物，也包含内部，即感受、情绪、心念。例如，当我们看到一个盒子时，盒子进入我们的视觉，紧接着会认识到（concept）“这是一个盒子”，可能会产生想要打开盒子的意念（intention），也可能会激起一串回忆，产生某些情绪。这些都是必要的信息，会对我们产生潜在的影响。
 
@@ -100,7 +102,7 @@ Mindfulness 在于收集信息，所以它并不是全部，还有其它必要�
 1. 《Practical Insight Meditation》，Mahāsi Sayadaw 著。
 1. [《Dhamma Everywhere》](https://ashintejaniya.org/books-dhamma-everywhere)，Sayadaw U Tejaniya 著。
 
-[^definition]: _斜体字_ 表示对专有名词的定义。例如“_事物_ ......”是说该句（或上下文）是对“事物”这一**专有名词**的定义；后文中，“事物”一词将不再是通常的事物（things）涵义。
+[^definition]: _斜体字_ 表示对专有名词的定义。例如“……_好天气_……”是说：该句（或上下文）是对“好天气”这一**专有名词**的定义；后文中，“好天气”一词将不再是通常的好天气涵义。
 
 [^attachment]: “执着于某事物”，即“注意力持续地集中在某事物上”。“Attach”有贴、附的意思。
 
