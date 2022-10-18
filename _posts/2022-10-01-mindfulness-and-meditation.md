@@ -3,7 +3,7 @@ layout: blog-post
 title: Mindfulness and Meditation
 ---
 
-## Mindfulness
+## Mindfulness[^definition]
 
 **_Mindfulness_ 即这样的注意力——它可以没有遮蔽地察知事物、收集信息。使信息得以整全。** 它是周全思考和合理行动的必要条件。
 
