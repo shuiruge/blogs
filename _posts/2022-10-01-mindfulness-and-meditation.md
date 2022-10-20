@@ -5,7 +5,7 @@ title: Mindfulness and Meditation
 
 ## Mindfulness
 
-**_Mindfulness_[^definition] 即这样的注意力——它可以没有遮蔽地察知事物、收集信息。使信息得以整全。** 它是周全思考和合理行动的必要条件。
+**_Mindfulness_[^definition] 即这样的注意力——它可以没有遮蔽地察知事物、收集信息。使信息得以整全。** 它是周全思考和合理行动的必要条件，帮助我们获得对事物的洞察（insights/wisdom）。
 
 _事物_ 既包含外部，即所见、所闻、所触、所感之物，也包含内部，即感受、情绪、心念。例如，当我们看到一个盒子时，盒子进入我们的视觉，紧接着会认识到（concept）“这是一个盒子”，可能会产生想要打开盒子的意念（intention），也可能会激起一串回忆，产生某些情绪。这些都是必要的信息，会对我们产生潜在的影响。
 
@@ -35,9 +35,9 @@ Mindfulness 在于收集信息，所以它并不是全部，还有其它必要�
 
 - sammā-sati（正确的觉知，或正确的注意力，也译作“正念”）；
 
-  - 《观呼吸》，第十三章：
+  - 《Mindfulness In Plain English》，第十三章：
 
-    > 当你初次认识某些事物时，就在你将它概念化或确认之前，有短暂的纯粹觉知。那是一种觉知的状态，通常这个状态只维持很短的时间，就在你把眼睛与心集中在事物上的那一瞬间，在你把它具体化、在心里锁定它、从其他事物中抽离出来之前。它在你开始想起来，以及你的心里说“哦，那是一只狗”之前就发生了。那个焦点柔和、瞬间流动的纯粹觉知就是正念……你经验到瞬间即逝的纯粹经验，那是与其余实相互相联结，而非分离的。正念很像是以眼角余光看事情，那有别于正眼所见。然而，这个柔软与非集中的瞬间觉知，却包含一种非常深入的认识，那是你把心集中并将对象具体化后所缺乏的。
+    > When you first become aware of something, there is a fleeting instant of pure awareness just before you conceptualize the thing, before you identify it. That is a stage of Mindfulness. Ordinarily, this stage is very short. It is that flashing split second just as you focus your eyes on the thing, just as you focus your mind on the thing, just before you objectify it, clamp down on it mentally and segregate it from the rest of existence. It takes place just before you start thinking about it -- before your mind says, "Oh, it's a dog." That flowing, soft-focused moment of pure awareness is Mindfulness......You experience a softly flowing moment of pure experience that is interlocked with the rest of reality, not separate from it. Mindfulness is very much like what you see with your peripheral vision as opposed to the hard focus of normal or central vision. yet this moment of soft, unfocused awareness contains a very deep sort of knowing that is lost as soon as you focus your mind and objectify the object into a thing.
 
 - Bare Attention；
 
@@ -71,6 +71,10 @@ Mindfulness 在于收集信息，所以它并不是全部，还有其它必要�
 
 我们既说主动练习，又说无需费力（effortless），看似相互矛盾。其实，不费力也可以是主动的。例如，当被告知要“放松面部肌肉”时，我们是主动去放松的，但该过程又是无需费力的，只是恢复肌肉自然松弛的状态而已。我们说的不费力，就是这个意思。
 
+### 如何从事思考性的活动？
+
+以阅读为例。用 meditation 的方式阅读，将此作为一个了解思维过程的机会。
+
 ### Meditation 的参考文献？
 
 - 《Satipaṭṭhāna Vipassāna》；
@@ -89,11 +93,22 @@ Mindfulness 在于收集信息，所以它并不是全部，还有其它必要�
   - 系统地讲解了原理、实践方法、实践过程以及诸多可能会遇到的问题。可谓大而全。
   - 文风偏学术化，严谨。适合参考。
 
+### 与 Burmese Satipaṭṭhāna Method 之间的异同？
+
+根据《The Heart of Buddhist Meditation》第五章，Burmese Satipaṭṭhāna Method 包括两个部分：
+
+- training in general mindfulness；
+  - 尝试在日常中保持没有遮蔽的注意力。
+- main practice with selected subjects。
+  - 以呼吸等作为锚点，练习 TODO
+
+Meditation 是二者的直接结合，即在任意时刻，二者兼备。
+
 ## 参考文献
 
 1. [《太乙金华宗旨》](https://ctext.org/wiki.pl?if=gb&res=546934)，吕岩著。
 1. 《传习录注疏》，邓艾民注，2012 版。
-1. 《观呼吸》，德宝法师著，2009 版。
+1. 《Mindfulness In Plain English》，Bhante Henepola Gunaratana 著，2011 版。
 1. 《The Heart of Buddhist Meditation》，Nyanaponika Thera 著，2014 版。
 1. [《Satipaṭṭhāna Vipassāna》](https://www.accesstoinsight.org/lib/authors/mahasi/wheel370.html#circle=on)，Mahāsi Sayadaw 著。
 1. 《Manual of Insight》，Mahāsi Sayadaw 著。
