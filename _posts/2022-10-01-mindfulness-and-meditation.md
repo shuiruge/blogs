@@ -13,17 +13,24 @@ All things are perceived through the six sense organs, called the _Six Sense Doo
 
 **_Meditation_ is the progressive practice aiming to train the attention to become mindful.**
 
+We suggest two articles written by Mahāsi Sayādaw:
+
+1. [Satipaṭṭhāna Vipassāna](https://www.accesstoinsight.org/lib/authors/mahasi/wheel370.htm), and in advance,
+2. [The Progress of Insight](https://accesstoinsight.org/lib/authors/mahasi/progress.html).
+
+They are sufficient for illustrating how meditation is performed in detailed.
+
 ## FAQ
 
 ### Comparing with Concentration
 
 _Concentration_ is the attention that is extremely focused on some selected objects. It locks the conscious access, reducing the things passing through the Six Sense Doors. But it also reduces the raising of insight.
 
-[^door]: As in [_The Progress of Insight_](https://www.accesstoinsight.org/lib/authors/mahasi/progress.html), as Nyanaponika Thera noted,
+[^door]: As in [_The Progress of Insight_](https://www.accesstoinsight.org/lib/authors/mahasi/progress.html), Nyanaponika Thera noted,
 
     > "Door" is a figurative expression for the sense organs (which, including the mind, are sixfold), because they provide, as it were, the access to the world of objects.
 
-[^Tejaniya]: In the last paragraph of the book _When Awareness Becomes Natural_, Sayadaw Tejaniya provided a concise declaration:
+[^Tejaniya]: At the end of the book _When Awareness Becomes Natural_, Sayādaw U Tejaniya provided a concise declaration:
 
     > Your work is to be gently aware of what is being perceived at all your sense doors in this moment. That is all!
 
