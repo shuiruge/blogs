@@ -15,7 +15,7 @@ All things are perceived through the six sense organs, called the _Six Sense Doo
 
 We suggest two articles written by Mahāsi Sayādaw:
 
-1. [Satipaṭṭhāna Vipassāna](https://www.accesstoinsight.org/lib/authors/mahasi/wheel370.htm), and in advance,
+1. [Satipaṭṭhāna Vipassāna](https://www.accesstoinsight.org/lib/authors/mahasi/wheel370.html), and in advance,
 2. [The Progress of Insight](https://accesstoinsight.org/lib/authors/mahasi/progress.html).
 
 They are sufficient for illustrating how meditation is performed in detailed.
