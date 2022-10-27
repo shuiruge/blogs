@@ -26,7 +26,7 @@ They are sufficient for illustrating how meditation is performed in detailed.
 
 _Concentration_ is the attention that is extremely focused on some selected objects. It locks the conscious access, reducing the things passing through the Six Sense Doors. But it also reduces the raising of insight.
 
-[^door]: As in [_The Progress of Insight_](https://www.accesstoinsight.org/lib/authors/mahasi/progress.html), Nyanaponika Thera noted,
+[^door]: As in [_The Progress of Insight_](https://www.accesstoinsight.org/lib/authors/mahasi/progress.html#fn-6), Nyanaponika Thera noted,
 
     > "Door" is a figurative expression for the sense organs (which, including the mind, are sixfold), because they provide, as it were, the access to the world of objects.
 
