@@ -7,7 +7,7 @@ title: Mindfulness & Meditation
 
 All things are perceived through the six sense organs, called the _six sense doors_. They are eye, ear, nose, tongue, body, and mind.[^door]
 
-When something is perceived, it affects us. [^be-perceived] The more it affects us, the more prominent it is perceived. When something is perceived but is unaware of, it is _hindered_. In this situation, we are affected by what is unaware of.
+When something is perceived, it affects[^affect] us. [^be-perceived] The more it affects us, the more prominent it is perceived. When something is perceived but is unaware of, it is _hindered_. In this situation, we are affected by what is unaware of.
 
 **_Mindfulness_ is the attention that can be aware of what is being perceived at all the six sense doors in every moment.**[^Tejaniya] It is effortless, spacious, and sharp, effectively collecting information with nothing hindered, based on which insight[^insight] comes to arise.[^by-product]
 
@@ -26,6 +26,8 @@ _Concentration_ is the attention that is extremely focused on some selected obje
 [^door]: As in [_The Progress of Insight_](https://www.accesstoinsight.org/lib/authors/mahasi/progress.html#fn-6), Nyanaponika Thera noted,
 
     > "Door" is a figurative expression for the sense organs (which, including the mind, are sixfold), because they provide, as it were, the access to the world of objects.
+
+[^affect]: When something affects us, it transits us into a new body-mind state.
 
 [^be-perceived]: Indeed, when a sound is perceived, claiming that we heard nothing will be a lie; and an intention to walk makes the body start walking. Contrarily, when the mind is highly concentrated, so that sound cannot be perceived, it leaves no effect on us.
 
