@@ -3,8 +3,6 @@ layout: blog-post
 title: Mindfulness & Meditation
 ---
 
-# Mindfulness & Meditation
-
 ## Mindfulness
 
 All things are perceived through the six sense organs, called the _six sense doors_. They are eye, ear, nose, tongue, body, and mind.[^door]
