@@ -3,14 +3,14 @@ layout: default
 ---
 
 <article>
-        <header>
-            <h2>{{ page.title }}</h2>
-            <span><i class="icon-clock"></i><time datetime="{{page.date|date:"%F"}}">{{page.date|date:"%b %d, %Y"}}</time></span><br/>
-            <span class="category"><i class="icon-tag"></i> {{ page.categories | category_links }}</span><br/>
-        </header>
+    <header>
+        <h2>{{ page.title }}</h2>
+        <span><i class="icon-clock"></i><time datetime="{{page.date|date:"%F"}}">{{page.date|date:"%b %d, %Y"}}</time></span><br/>
+        <span class="category"><i class="icon-tag"></i> {{ page.categories | category_links }}</span><br/>
+    </header>
 
-        <div class="entry">{{ content }}</div>
+    <div class="entry">{{ content }}</div>
 
-        <footer><!-- additional info --></footer>
+    <footer><!-- additional info --></footer>
 
 </article>
