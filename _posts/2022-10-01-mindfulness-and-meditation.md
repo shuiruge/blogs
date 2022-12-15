@@ -21,7 +21,11 @@ The article [Satipaṭṭhāna Vipassāna](https://www.accesstoinsight.org/lib/a
 
 ### Comparing with Concentration
 
-_Concentration_ is the attention that is extremely focused on some selected objects. It locks the mind, reducing the things perceived through the six sense doors. But it also reduces the raising of insight.
+_Concentration_ is the attention that is extremely focused on some selected objects. It locks the mind, reducing the things perceived at the six sense doors. But it also reduces the raising of insight.
+
+### Main obstacles during meditation
+
+There are two main obstacles during meditation practice. The first is your will. Once you determine to rest in the position of observation or noticing, the second main obstacles may raise, which is stray thoughts. Because the mind-door is much closer to us than any other sense doors, it's much easier to be unaware of the thoughts perceived at the mind-door than, e.g., to be unaware of the sounds perceived at ear-door, even though both are prominent. Also, thoughts are autonomous and active. So, they keep raising but we are unaware. We stray into them, as if thinking is I.
 
 [^door]: As in [_The Progress of Insight_](https://www.accesstoinsight.org/lib/authors/mahasi/progress.html#fn-6), Nyanaponika Thera noted,
 
@@ -31,7 +35,7 @@ _Concentration_ is the attention that is extremely focused on some selected obje
 
 [^be-perceived]: Indeed, when a sound is perceived, claiming that we heard nothing will be a lie; and an intention to walk makes the body start walking. Contrarily, when the mind is highly concentrated, so that sound cannot be perceived, it leaves no effect on us.
 
-[^be-aware-of]: When we are aware of something, we simply know it, realizing its appearance. A more rigorous definition is provided in the book _The Heart of Buddhist Meditation_, where Nyanaponika Thera named it as _Bare Attention_:
+[^be-aware-of]: When we are aware of something, we simply know it, realizing its appearance, as if saying "Ah! It comes". It's effortless. A more rigorous definition is provided in the book _The Heart of Buddhist Meditation_, where Nyanaponika Thera named it as _Bare Attention_:
 
     > Bare Attention is the clear and single-minded awareness of what actually happens to us and in us, at the successive moments of perception. It is called ‘bare’, because it attends just to the bare facts of a perception as presented either through the five physical senses or through the mind which, for Buddhist thought, constitutes the sixth sense. When attending to that sixfold sense impression, attention or mindfulness is kept to a bare registering of the facts observed without reacting to them by deed, speech or by mental comment which may be one of self-reference (like, dislike, etc.), judgement or reflection. If during the time, short or long, given to the practice of Bare Attention, any such comments arise in one's mind, they themselves are made objects of Bare Attention, and are neither repudiated nor pursued, but are dismissed, after a brief mental note has been made of them.
 
