@@ -15,13 +15,13 @@ When something is perceived, it affects[^affect] us.[^be-perceived] The more it 
 
 **_Meditation_ is the progressive practice aiming to train the attention to become mindful.**
 
-The article [Satipaṭṭhāna Vipassāna](https://www.accesstoinsight.org/lib/authors/mahasi/wheel370.html) by by Mahāsi Sayādaw sufficiently illustrates how meditation is performed in detail. Briefly, meditation practice rests us in a constant state of observation or noticing on what is prominently perceived at the six sense doors. With this, our attention are concentrated on nothing but the observation. Also with this constant state, attention gains constant training, becoming shaper and shaper naturally.
+The article [Satipaṭṭhāna Vipassāna](https://www.accesstoinsight.org/lib/authors/mahasi/wheel370.html) by by Mahāsi Sayādaw sufficiently illustrates how meditation is performed in detail. Briefly, meditation practice rests us in a constant state of observation or noticing on what is prominently perceived at the six sense doors. It starts with the most prominent ones and progressively proceeds to the subtle. With this, our attention are concentrated on nothing but the observation. Also with this constant state, attention gains constant training, becoming shaper and shaper naturally.
 
 ## FAQ
 
-### Comparing with Concentration
+### Relations between Mindfulness and Concentration
 
-_Concentration_ is the attention that is extremely focused on some selected objects. It locks the mind, reducing the things perceived at the six sense doors. But it also reduces the raising of insight.
+When we concentrate on something, our attention is constantly kept on it without digression. Mindfulness is a kind of concentration, but the thing we concentrated on is one and unique. That is, concentrating on awareness of what is being perceived at all the six sense doors.
 
 ### Main obstacles during meditation
 
