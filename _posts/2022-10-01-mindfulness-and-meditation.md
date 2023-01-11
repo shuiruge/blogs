@@ -7,9 +7,9 @@ title: Mindfulness & Meditation
 
 All things are perceived through the six sense organs, called the _six sense doors_. They are eye, ear, nose, tongue, body, and mind.[^door]
 
-When something is perceived, it affects[^affect] us.[^be-perceived] The more it affects us, the more prominent it is perceived. When something is perceived but is unaware of, it is _hindered_. In this situation, we are affected by what is unaware of.
+When something is perceived, it affects[^affect] us.[^be-perceived-and-affected] The more it affects us, the more prominent it is perceived.
 
-**_Mindfulness_ is the attention that can be aware of[^be-aware-of] what is being perceived at all the six sense doors in every moment.**[^Tejaniya] It is effortless, spacious, and sharp, effectively collecting information with nothing hindered, based on which insight[^insight] comes to arise.[^by-product]
+**_Mindfulness_ is the attention that can be aware of[^be-aware-of] what is being perceived at all the six sense doors in every moment.**[^Tejaniya] It's effortless, spacious, and sharp. It effectively collects information without missing anything that affects us; and with the integrated perspective, insight[^insight] comes to arise.[^by-product]
 
 ## Meditation
 
@@ -33,7 +33,7 @@ There are two main obstacles during meditation practice. The first is your will.
 
 [^affect]: When something affects us, it transits us into a new body-mind state.
 
-[^be-perceived]: Indeed, when a sound is perceived, claiming that we heard nothing will be a lie; and an intention to walk makes the body start walking. Contrarily, when the mind is highly concentrated, so that sound cannot be perceived, it leaves no effect on us.
+[^be-perceived-and-affected]: Indeed, when a sound is perceived, claiming that we heard nothing will be a lie; and an intention to walk makes the body start walking. Contrarily, when the mind is highly concentrated, so that sound cannot be perceived, it leaves no effect on us.
 
 [^be-aware-of]: When we are aware of something, we simply know it, realizing its appearance, as if saying "Ah! It comes". It's effortless. A more rigorous definition is provided in the book _The Heart of Buddhist Meditation_, where Nyanaponika Thera named it as _Bare Attention_:
 
