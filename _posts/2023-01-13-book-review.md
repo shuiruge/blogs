@@ -3,6 +3,8 @@ layout: blog-post
 title: 《Living Untethered》读后感
 ---
 
+昨天读完了 Micheal A Singer 的新书[《Living Untethered》](https://www.goodreads.com/book/show/59552636-living-untethered)。和他之前的[《The Untethered Soul》](https://www.goodreads.com/book/show/1963638.The_Untethered_Soul)内容有部分重复。
+
 ## 主体与客体
 
 作者在一开始，讨论主体是什么，也就是：你是谁？
@@ -23,4 +25,4 @@ title: 《Living Untethered》读后感
 
 根据能量流模型，要点在与处理印象，使之消散。当能量流过已有印象方法在于静观（臣服）。静观即主体觉知客体，而不执着于客体。因为不再执着，不会产生新的印象。当被外界事件的触发，能量流经印象时，印象的能量被释放，因为不再执着，印象便消散了。（通常情况下，因为执着，释放了的印象的能量会像一开始那样形成漩涡，所以不会消散。）如此一来，旧的印象消散，新的印象不会产生，能量便能顺畅地流动了。
 
-顺畅的能量流不会产生内心的冲突，所以自然而然地产生了和谐，这是一种“不论见何物，无往而不美”的美好状态。
+顺畅的能量流不会产生内心的冲突，所以自然地产生了和谐，这是一种“不论见何物，无往而不美”的美好状态。
