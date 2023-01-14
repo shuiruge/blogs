@@ -37,7 +37,7 @@ However, the brain can learn if and only if it's aware of what transforms us and
 
     > "Door" is a figurative expression for the sense organs (which, including the mind, are sixfold), because they provide, as it were, the access to the world of objects.
 
-[^be-perceived-and-transformed]: Indeed, when a sound is perceived, it leaves an imprint in our mind; and an intention to walk makes the body start walking. Contrarily, when the mind is highly concentrated, so that sound cannot be perceived, it leaves no effect on us.
+[^be-perceived-and-transformed]: Indeed, when a sound is perceived, we become capable of thinking about the sound; and an intention to walk makes the body start walking. Contrarily, when the mind is highly concentrated, so that sound cannot be perceived, it leaves no effect on us.
 
 [^be-aware-of]: When we are aware of something, we simply know it, realizing its appearance, as if saying "Ah! It comes". It's effortless. A more rigorous definition is provided in the book _The Heart of Buddhist Meditation_, where Nyanaponika Thera named it as _Bare Attention_:
 
