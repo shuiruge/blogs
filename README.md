@@ -6,5 +6,5 @@ My personal blog.
 
 ```sh
 nix-shell  # setup the Nix environment.
-bundle exec jekyll serve  # build and run the blog service.
+sh serve.sh  # build and run the blog service.
 ```
