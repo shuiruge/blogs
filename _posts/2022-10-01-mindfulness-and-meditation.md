@@ -29,17 +29,17 @@ There are two main obstacles during meditation practice. The first is your will.
 
 ### What's Insight and Why it Raises
 
-Human brain is a great simulator. Indeed, it can effortlessly simulate a world and a whole story therein, which we call dream.[^brain-capability] It, thus, can effectively learn conditional relationships, which predict what will happen if somethings are taken, that is, simulations of reality. This fact forms the basis of insight arising. And insight is the learned brain.
+Human brain is a great simulator. Indeed, it can effortlessly simulate a world and a whole story therein, which we call dream.[^brain-capability] It, thus, can effectively learn conditional relationships, which predict what will happen if somethings are taken, that is, simulations of reality.[^brain-learning] This fact forms the basis of insight arising. And insight is the learned brain.
 
-However, the brain can learn if and only if it knows what has been perceived, both inside and outside, and the results in reality. So, mindfulness is the essential and sufficient condition of insight arising.
+But, the brain can learn if and only if it knows what has been perceived, both inside and outside, and the results in reality. So, mindfulness is the essential and sufficient condition of insight arising.
 
 #### Example
 
-Suppose you are a first year graduate student. You found an interesting academic paper, and started reading. At first, you read slowly and carefully, word by word. Several pages later, you began reading faster, since you found you cannot understand what the authors wrote. This is easy to understand. At first, we will not encounter much unfamiliar concepts. But the more content you have read, the more unfamiliar concepts will you meet. You will feel confused once it exceeds a threshold. In this situation, it's a waste of time to continue reading. However, this is not that obvious for a first year graduate student. Finally, late at night, we gave up.
+Suppose you are a first year graduate student. You found an interesting academic paper, and started reading. At first, you read slowly and carefully, word by word. Several pages later, you began reading faster, since you found you cannot understand what the authors wrote. This is easy to understand. At first, you will not encounter much unfamiliar concepts. But the more content you have read, the more unfamiliar concepts will you meet. You will feel confused once it exceeds a threshold. In this situation, it's a waste of time to continue reading. Nevertheless, this is not that obvious for a first year graduate student. Finally, late at night, you gave up.
 
 If you were mindful, you would be aware of the body-mind process, the impatience, the thoughts of complaint, your scratching of head. It's a hint of re-considering the strategy, of re-evaluating the value of this paper. In the end, the brain would learn this. In the next time, you would be more experienced and know when to pause and adjust.
 
-However, if you were trapped in the anxious feeling, or in the complaints, you would not be aware of what's going on in your body and mind. In this situation, the brain wouldn't learn. And in the next time, you would repeat this failure.
+Contrarily, if you were trapped in the anxious feeling, or in the complaints, you would not be aware of what's going on in your body and mind. In this situation, the brain wouldn't learn. And in the next time, you would repeat this failure.
 
 [^convention]: Use italics for proper nouns when they first appear in the text. These words have different meanings than they do in everyday speech.
 
@@ -64,3 +64,7 @@ However, if you were trapped in the anxious feeling, or in the complaints, you w
 [^insight]: For what is insight and why it raises, see FAQ.
 
 [^brain-capability]: The capability of human brain has been discussed by François Roustang in his book _What is Hypnosis?_. TODO: which chapter?
+
+[^brain-learning]: It's the experiential materials that human brain can learn automatically and effectively. Textual materials, however, can't be so, since they are absent during the evolution of human brain. For example, as we all know, the best way of learning a new language is encoding them to experiential materials.
+
+---
