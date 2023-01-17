@@ -55,7 +55,7 @@ There are two main obstacles during meditation practice. The first is your will.
 
 [^brain-learning]: It's the experiential materials that human brain can learn automatically and effectively. Textual materials, however, can't be so, since they are absent during the evolution of human brain. For example, as we all know, the best way of learning a new language is encoding them to experiential materials.
 
-[^brain-capability]: This capability of human brain has been discussed by François Roustang in his book _What is Hypnosis?_, chapter 1, _The Precondition_. It illustrates the capability by discussing dream and imagination and how baby interacts with the world.
+[^brain-capability]: This capability of human brain has been discussed by François Roustang in his book _What is Hypnosis?_, chapter 1, _The Precondition_. The author illustrates it by discussing dream, imagination and how baby interacts with the real world.
 
 [^mindfulness-insight-example]: Here's an example illustrating the relation between mindfulness and insight arising:
 
