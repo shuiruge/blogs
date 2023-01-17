@@ -1,6 +1,6 @@
 ---
 layout: blog-post
-title: Mindfulness, Insight and Meditation
+title: Mindfulness, Insight, and Meditation
 ---
 
 ## Mindfulness[^convention]
