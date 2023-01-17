@@ -63,7 +63,7 @@ Contrarily, if you were trapped in the anxious feeling, or in the complaints, yo
 
 [^insight]: For what is insight and why it raises, see FAQ.
 
-[^brain-capability]: The capability of human brain has been discussed by François Roustang in his book _What is Hypnosis?_. TODO: which chapter?
+[^brain-capability]: The capability of human brain has been discussed by François Roustang in his book _What is Hypnosis?_, chapter 1, _The Precondition_.
 
 [^brain-learning]: It's the experiential materials that human brain can learn automatically and effectively. Textual materials, however, can't be so, since they are absent during the evolution of human brain. For example, as we all know, the best way of learning a new language is encoding them to experiential materials.
 
