@@ -13,9 +13,9 @@ We can only perceive things through our eyes, ears, nose, tongue, body, and mind
 
 ## Insight
 
-Human brain is a great simulator. Indeed, it can effortlessly simulate a world and a whole story therein, which we call dream. It, thus, can efficiently learn conditional relationships, which predict what will happen if somethings are taken, that is, simulations of reality.[^brain-learning] [^brain-capability] **_Insight_ is the learned brain.** And this very fact of human brain forms the basis of insight arising.
+Human brain is a great simulator. Indeed, without any effort, it simulates a world and a whole story therein, which we call dream. With the same capacity, automatically and effortlessly, it learns conditional relationships, which predict what will happen if somethings are taken, that is, simulations of reality.[^brain-learning] [^brain-capability] **_Insight_ is the learned brain.** And this very fact of human brain forms the basis of insight arising.
 
-If all that have been perceived are known, then the brain will, by itself, learn what are conditions and what are conditioned by, filtering out what are irrelevant. Contrarily, if something relevant goes unnoticed, then either the brain won't learn, or the learned brain is biased since the materials are partial. So, **mindfulness is the essential and sufficient condition of insight arising.**[^mindfulness-insight-example]
+If all that have been perceived are known, then the brain will learn what are conditions and what are conditioned by, filtering out what are irrelevant. Contrarily, if something relevant[^what-is-relevant] goes unnoticed, then either the brain won't learn, or the learned brain is biased since the materials are partial. So, **mindfulness is the essential and sufficient condition of insight arising.**[^mindfulness-insight-example]
 
 ## Meditation
 
@@ -53,9 +53,11 @@ There are two main obstacles during meditation practice. The first is your will.
 
     > Your work is to be gently aware of what is being perceived at all your sense doors in this moment. That is all!
 
-[^brain-learning]: It's the experiential materials that human brain can learn automatically and efficiently. Textual materials, however, can't be so, since they are absent during the evolution of human brain. For example, as we all know, the best way of learning a new language is encoding them to experiential materials.
+[^brain-learning]: It's the experiential materials that human brain learns automatically and efficiently. Textual materials, however, can't be so, since they are absent during the evolution of human brain. For example, as we all know, the best way of learning a new language is encoding them to experiential materials.
 
 [^brain-capability]: This capability of human brain has been discussed by François Roustang in his book _What is Hypnosis?_, chapter 1, _The Precondition_. The author illustrates it by discussing dream, imagination and how baby interacts with the real world.
+
+[^what-is-relevant]: Notice that it's the learned brain that can figure out what is relevant. Before learning, everything that is perceived has the potential to be relevant.
 
 [^mindfulness-insight-example]: Here's an example illustrating the relation between mindfulness and insight arising:
 
