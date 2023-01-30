@@ -35,7 +35,7 @@ There are two main obstacles during meditation practice. The first is your will.
 
 [^convention]: Use italics for proper nouns when they first appear in the text. These words have different meanings than they do in everyday speech.
 
-[^be-perceived-and-affected]: Indeed, when a sound is perceived, we become capable of thinking about the sound; an intention to walk makes the body start walking; and walking leads to a constant changing of posture. Contrarily, when the mind is highly concentrated, so that sound cannot be perceived, it leaves no effect on us.
+[^be-perceived-and-affected]: Indeed, when a sound is perceived, we become capable of thinking about the sound; an intention to walk makes the body start walking; and walking leads to a constant changing of posture. Contrarily, when we plug the ears, so that sound cannot be perceived, it leaves no effect on us.
 
 [^body-and-mind]: Body involves movements and feelings. And mind involves emotions and thoughts. They are more broad and more subtle than the other sense organs.
 
