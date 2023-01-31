@@ -5,7 +5,7 @@ title: Mindfulness, Insight, and Meditation
 
 ## Mindfulness[^convention]
 
-When something is perceived, it affects us.[^be-perceived-and-affected] The more it affects us, the more prominent it is perceived.
+When something is perceived, it affects[^affect] us.[^be-perceived-and-affected] The more it affects us, the more prominent it is perceived.
 
 We can only perceive things through our eyes, ears, nose, tongue, body, and mind.[^body-and-mind] These six sense organs are, thus, called the _six sense doors_.[^doors]
 
@@ -34,6 +34,8 @@ When we concentrate on something, our attention is constantly kept on it without
 There are two main obstacles during meditation practice. The first is your will. Once you determine to rest in the position of observation or noticing, the second main obstacles may raise, which is stray thoughts. Because the mind-door is much closer to us than any other sense doors, it's much easier to be unaware of the thoughts perceived at the mind-door than, e.g., to be unaware of the sounds perceived at ear-door, even though both are prominent. Also, thoughts are autonomous and active. So, they keep raising but we are unaware. We stray into them, as if thinking is I.
 
 [^convention]: Use italics for proper nouns when they first appear in the text. These words have different meanings than they do in everyday speech.
+
+[^affect]: When something affects us, it transforms us to a new body-mind state.
 
 [^be-perceived-and-affected]: Indeed, when a sound is perceived, we become capable of thinking about the sound; an intention to walk makes the body start walking; and walking leads to a constant changing of posture. Contrarily, when we plug the ears, so that sound cannot be perceived, it leaves no effect on us.
 
