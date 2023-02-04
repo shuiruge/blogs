@@ -29,9 +29,17 @@ The article [Satipaṭṭhāna Vipassāna](https://www.accesstoinsight.org/lib/a
 
 When we concentrate on something, our attention is constantly kept on it without digression. Mindfulness is a kind of concentration, but the thing we concentrated on is one and unique. That is, concentrating on awareness of what is being perceived at all the six sense doors.
 
-### Main obstacles during meditation
+### Main Obstacles during Meditation
 
 There are two main obstacles during meditation practice. The first is your will. Once you determine to rest in the position of observation or noticing, the second main obstacles may raise, which is stray thoughts. Because the mind-door is much closer to us than any other sense doors, it's much easier to be unaware of the thoughts perceived at the mind-door than, e.g., to be unaware of the sounds perceived at ear-door, even though both are prominent. Also, thoughts are autonomous and active. So, they keep raising but we are unaware. We stray into them, as if thinking is I.
+
+### How to Gain Mindfulness (TO-DO)
+
+When attention is tightly focused on something, it cannot be aware of the others. Contrarily, when it's widely diffused without focus, it becomes dim; and the mind slides into a stupor. So, mindfulness shall be the balanced one, which is neither tightly focused nor widely diffused, but stable and softly focused on anything to which it's directed.[^normal-distribution] It's spacious and effortless.
+
+**_Meditation_ is the progressive practice aiming to train the attention to sustain a soft focus.** Explicitly, we deliberately select an object as the center of focus, e.g. our breath. Direct the attention to it; be natural and soft. Then, periodically check whether it's still so, or has been distracted by something else. If it's found that it's tightly focused on something, let it go; and re-direct the attention back to the initial state. (If it's hard to let go, then make it the center of focus temporally.) With this practice, the checking-in will naturally become automatic so that the attention won't be tightly focused on anything. Neither will it be widely diffused since it always have an object to focus on. Thus, the attention has nothing to do but keep a soft focus on anything to which it's directed.
+
+Under the current capacity or "vision field", this stable and softly focused attention is the closest one to mindfulness. The question is whether the attention can be trained to reach the mindfulness instead of just close to it, for which awareness covers **all** the six sense doors.
 
 [^convention]: Use italics for proper nouns when they first appear in the text. These words have different meanings than they do in everyday speech.
 
@@ -67,6 +75,8 @@ There are two main obstacles during meditation practice. The first is your will.
 
     If you were mindful, you would be aware of the body-mind process, the impatience, the thoughts of complaint, your scratching of head. It's a hint of re-considering the strategy, of re-evaluating the value of this paper. In the end, the brain would learn this. In the next time, you would be more experienced and know when to pause and adjust.
 
-    Contrarily, if you were trapped in the anxious feeling, or in the complaints, you would not be aware of what's going on in your body and mind. In this situation, the brain wouldn't learn. And in the next time, you would repeat this failure.
+    Contrarily, if you were trapped in the anxious feeling, or in the complaints, you would not be aware of what's going on in your body and mind. In this situation, the brain wouldn't learn. And, in the next time, you would repeat this failure.
+
+[^normal-distribution]: It's like normal distribution. The attention that is tightly focused corresponds to sharp normal distribution. The attention that is widely diffused corresponds to very flat normal distribution. Mindfulness is the one with an unit standard derivative. And, the shape is stable, even though the center changed between inner or outer objects.
 
 ---
