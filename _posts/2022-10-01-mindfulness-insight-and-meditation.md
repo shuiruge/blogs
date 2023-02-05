@@ -9,7 +9,7 @@ When something is perceived, it affects[^affect] us.[^be-perceived-and-affected]
 
 We can only perceive things through our eyes, ears, nose, tongue, body, and mind.[^body-and-mind] These six sense organs are, thus, called the _six sense doors_.[^doors]
 
-**_Mindfulness_ is the attention that can be aware of[^be-aware-of] what is being perceived at all the six sense doors in every moment.**[^Tejaniya] It's effortless, spacious, and sharp. It efficiently collects information without missing anything that affects us.
+**_Mindfulness_ is the attention that can be aware of[^be-aware-of] what is being perceived at all the six sense doors in every moment.**[^Tejaniya] It's stable, effortless, spacious, and sharp. It efficiently collects information without missing anything that affects us.
 
 ## Insight
 
@@ -35,11 +35,11 @@ There are two main obstacles during meditation practice. The first is your will.
 
 ### How to Gain Mindfulness (TO-DO)
 
-When attention is tightly focused on something, it cannot be aware of the others. Contrarily, when it's widely diffused without focus, it becomes dim; and the mind slides into a stupor. So, mindfulness shall be the balanced one, which is neither tightly focused nor widely diffused, but stable and softly focused on anything to which it's directed.[^normal-distribution] It's spacious and effortless.
+When attention is tightly focused on something, it cannot be aware of the others. Contrarily, when it's widely diffused without focus, it becomes dim; and the mind slides into a stupor. So, mindfulness shall be the balanced one, which is neither tightly focused nor widely diffused, but softly focused on anything to which it's directed.[^normal-distribution] And, this soft focus of attention is constantly sustained, no matter which object it switches to. It's stable, effortless, and spacious. With the current capacity or "sharpness" of attention, it's the closest one to mindfulness.
 
-**_Meditation_ is the progressive practice aiming to train the attention to sustain a soft focus.** Explicitly, we deliberately select an object as the center of focus, e.g. our breath. Direct the attention to it; be natural and soft. Then, periodically check whether it's still so, or has been distracted by something else. If it's found that it's tightly focused on something, let it go; and re-direct the attention back to the initial state. (If it's hard to let go, then make it the center of focus temporally.) With this practice, the checking-in will naturally become automatic so that the attention won't be tightly focused on anything. Neither will it be widely diffused since it always have an object to focus on. Thus, the attention has nothing to do but keep a soft focus on anything to which it's directed.
+**_Meditation_ is the progressive practice aiming to train the attention to sustain a soft focus.** Explicitly, when attention is directed to something, direct it to be softly focused. In this situation, you can be aware of other things simultaneously by "peripheral vision". Then, periodically check whether it's still so, or has been attracted by something else. If it's found that the attention is tightly focusing on something, let go and re-direct the attention back to the initial state. (If it's hard to let go, then make it the center of focus temporally.) With repeated practice, the check naturally becomes automatic so that the attention won't tightly focus on anything. Neither will it be widely diffused since it always have an object to focus on. Thus, the attention has nothing to do but keep a soft focus on anything to which it's directed.
 
-Under the current capacity or "vision field", this stable and softly focused attention is the closest one to mindfulness. The question is whether the attention can be trained to reach the mindfulness instead of just close to it, for which awareness covers **all** the six sense doors.
+The question is whether the attention can be trained to reach the mindfulness instead of just close to it, for which awareness covers **all** the six sense doors simultaneously.
 
 [^convention]: Use italics for proper nouns when they first appear in the text. These words have different meanings than they do in everyday speech.
 
