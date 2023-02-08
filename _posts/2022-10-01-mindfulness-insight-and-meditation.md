@@ -19,9 +19,9 @@ If all that have been perceived are known, then the brain will learn what are co
 
 ## Meditation
 
-**_Meditation_ is the progressive practice aiming to train the attention to become mindful.**
+**_Meditation_ is the progressive practice aiming to train the attention to become mindful.** The working principle here is the very fact that human brain cannot perceive two distinct objects at the same time.[^brain-perception] Once the awareness becomes continuous, there's no place for things that are perceived without awareness.
 
-The article [Satipaṭṭhāna Vipassāna](https://www.accesstoinsight.org/lib/authors/mahasi/wheel370.html) by Mahāsi Sayādaw sufficiently illustrates how meditation is performed in detail. Briefly, meditation practice rests us in a constant state of observation or noticing on what is prominently perceived at the six sense doors. With this, our attention are concentrated on nothing but the observation. Also with this constant state, attention gains constant training, becoming shaper and shaper naturally.
+Briefly, meditation rests us in a continuous state of observation or noticing on what is prominently perceived at the six sense doors, such that there's no period during which awareness is absent.[^mental-label] With repeated practice, awareness becomes continuous without any effort. No matter what you are doing, attending to the objects to be noticed, awareness appears as if falling upon these objects, as if striking at them, without a break. In this situation, the mind won't miss anything that comes to it (through the six sense doors); and the details of things are revealed to mind on their own. The little book _Practical Insight Meditation_ by Mahasi Sayadaw[^practical-insight-meditation] concisely and sufficiently illustrates how meditation is performed in detail.
 
 ## FAQ
 
@@ -31,15 +31,7 @@ When we concentrate on something, our attention is constantly kept on it without
 
 ### Main Obstacles during Meditation
 
-There are two main obstacles during meditation practice. The first is your will. Once you determine to rest in the position of observation or noticing, the second main obstacles may raise, which is stray thoughts. Because the mind-door is much closer to us than any other sense doors, it's much easier to be unaware of the thoughts perceived at the mind-door than, e.g., to be unaware of the sounds perceived at ear-door, even though both are prominent. Also, thoughts are autonomous and active. So, they keep raising but we are unaware. We stray into them, as if thinking is I.
-
-### How to Gain Mindfulness (TO-DO)
-
-When attention is tightly focused on something, it cannot be aware of the others. It's hindered by what it's tightly focused on. Contrarily, when it's widely diffused without focus, the mind can do nothing but slides into a stupor. So, mindfulness shall be the balanced one, which is neither tightly focused nor widely diffused, but softly focused on anything to which it's directed. And, the softness of focus is constantly sustained, no matter how the object of focus changes. It's stable, effortless, and spacious. With the current capacity or "sharpness" of attention, it's the closest one to mindfulness.
-
-**_Meditation_ is the progressive practice aiming to train the attention to sustain a soft focus.** Explicitly, when attention is directed to something, loosen it to be softly focused so that it, centered on what it's directed to, can be aware of other things simultaneously by "peripheral vision", without any effort.[^vision-analogy] Then, periodically check whether it's still so, or has been distracted by something else. If it's found that the attention is distracted and tightly focusing on something, let things go and re-direct the attention back to the soften state. With repeated practice, the check and re-direct process naturally becomes automatic so that the attention won't tightly focus on anything.[^automation-process] Neither will it be widely diffused since it always have an object to focus on. Thus, the attention has nothing to do but sustains a soft focus on anything to which it's directed.
-
-The question is whether the attention can be trained to reach the mindfulness instead of just close to it, for which awareness covers **all** the six sense doors simultaneously.
+There are two main obstacles during meditation. The first is your will. Once you determine to rest in the position of observation or noticing, the second main obstacles may raise, which is stray thoughts. Because the mind-door is much closer to us than any other sense doors, it's much easier to be unaware of the thoughts perceived at the mind-door than, e.g., to be unaware of the sounds perceived at ear-door, even though both are prominent. Also, thoughts are autonomous and active. So, they keep raising but we are unaware. We stray into them, as if thinking is I.
 
 [^convention]: Use italics for proper nouns when they first appear in the text. These words have different meanings than they do in everyday speech.
 
@@ -53,13 +45,11 @@ The question is whether the attention can be trained to reach the mindfulness in
 
     > "Door" is a figurative expression for the sense organs (which, including the mind, are sixfold), because they provide, as it were, the access to the world of objects.
 
-[^be-aware-of]: When we are aware of something, we simply know it, realizing its appearance, as if saying "Ah! It comes". It's effortless. A more rigorous definition is provided in the book _The Heart of Buddhist Meditation_, where Nyanaponika Thera named it as _Bare Attention_:
+[^be-aware-of]: When we are aware of something, we simply know it, realizing its appearance, as if saying "Ah! It comes". It's effortless.
 
-    > Bare Attention is the clear and single-minded awareness of what actually happens to us and in us, at the successive moments of perception. It is called ‘bare’, because it attends just to the bare facts of a perception as presented either through the five physical senses or through the mind which, for Buddhist thought, constitutes the sixth sense. When attending to that sixfold sense impression, attention or mindfulness is kept to a bare registering of the facts observed without reacting to them by deed, speech or by mental comment which may be one of self-reference (like, dislike, etc.), judgement or reflection. If during the time, short or long, given to the practice of Bare Attention, any such comments arise in one's mind, they themselves are made objects of Bare Attention, and are neither repudiated nor pursued, but are dismissed, after a brief mental note has been made of them.
+    A rigorous definition can be given by a thought experiment. When something is perceived at the six sense doors, a demon who knows everything in the world suddenly pops up. It asks you whether you know the thing is happening or just appeared. If you answer yes, you are aware of it; otherwise you are not.
 
-    Indeed, the comments are, by themselves, objects in the mind-door.
-
-[^Tejaniya]: At the end of the book _When Awareness Becomes Natural_, Sayādaw U Tejaniya provided a concise declaration:
+[^Tejaniya]: At the end of the book _When Awareness Becomes Natural_, Sayadaw U Tejaniya provided a concise declaration:
 
     > Your work is to be gently aware of what is being perceived at all your sense doors in this moment. That is all!
 
@@ -77,8 +67,10 @@ The question is whether the attention can be trained to reach the mindfulness in
 
     Contrarily, if you were trapped in the anxious feeling, or in the complaints, you would not be aware of what's going on in your body and mind. In this situation, the brain wouldn't learn. And, in the next time, you would repeat this failure.
 
-[^vision-analogy]: An analogy is the softly gazed vision. By simply loosening the muscles around your eyes, your vision naturally becomes softly gazed. Then, a wide peripheral vision is gained, without any effort.
+[^practical-insight-meditation]: ISBN: [9552400899](https://isbnsearch.org/isbn/9552400899). You can download the PDF from [internet](https://www.bps.lk/olib/bp/bp503s_Mahasi_Practical-Insight-Meditation.pdf).
 
-[^automation-process]: This process is similar to keeping your shoulders relaxed. Suppose that your shoulders have some issue caused by habitual tension. To solve the problem, you have to periodically check if the shoulders have been in tension. If so, loosen it. Minutes later, they may become tensioned again. Check and loosen again. With repeated practice, your shoulders will be kept relaxed; and your issue dissolves.
+[^brain-perception]: TODO: Add materials for reference.
+
+[^mental-label]: At the beginning stage, to guarantee awareness, mental labeling what is aware of will be helpful. But this technique is not essential; and if you feel uncomfortable with it, simply keep awareness without any mental label. Being aware is what is essential.
 
 ---
