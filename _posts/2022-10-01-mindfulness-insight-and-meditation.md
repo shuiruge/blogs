@@ -19,7 +19,7 @@ If all that have been perceived are known, then the brain will learn what are co
 
 ## Meditation
 
-**_Meditation_ is the progressive practice aiming to train the attention to become mindful.** The working principle here is the very fact that human brain cannot perceive two distinct things at the same time.[^brain-perception] Once the awareness becomes continuous, there's no place for things that are perceived without awareness.
+**_Meditation_ is the progressive practice aiming to train the attention to become mindful.** The working principle here is the very fact that human brain cannot perceive two distinct objects at the same time.[^brain-perception] Once the awareness becomes continuous, there's no place for things that are perceived without awareness.
 
 Briefly, meditation rests us in a continuous state of observation or noticing on what is prominently perceived at the six sense doors, such that there's no period during which awareness is absent.[^mental-label] With repeated practice, awareness becomes continuous without any effort. No matter what you are doing, attending to the objects to be noticed, awareness appears as if falling upon these objects, as if striking at them, without a break. In this situation, the mind won't miss anything that comes to it (through the six sense doors); and the details of things are revealed to mind on their own. The little book _Practical Insight Meditation_ by Mahasi Sayadaw[^practical-insight-meditation] concisely and sufficiently illustrates how meditation is performed in detail.
 
