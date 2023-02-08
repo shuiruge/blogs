@@ -21,7 +21,7 @@ If all that have been perceived are known, then the brain will learn what are co
 
 **_Meditation_ is the progressive practice aiming to train the attention to become mindful.** The working principle here is the very fact that human brain cannot perceive two distinct objects at the same time.[^brain-perception] Once the awareness becomes continuous, there's no place for things that are perceived without awareness.
 
-Briefly, meditation rests us in a continuous state of observation or noticing on what is prominently perceived at the six sense doors, such that there's no period during which awareness is absent.[^mental-label] With repeated practice, awareness becomes continuous without any effort. No matter what you are doing, attending to the objects to be noticed, awareness appears as if falling upon these objects, as if striking at them, without a break. In this situation, the mind won't miss anything that comes to it (through the six sense doors); and the details of things are revealed to mind on their own. The little book _Practical Insight Meditation_ by Mahasi Sayadaw[^practical-insight-meditation] concisely and sufficiently illustrates how meditation is performed in detail.
+Briefly, meditation rests us in a continuous state of observation or noticing on what is prominently perceived at the six sense doors, such that there's no period during which awareness is absent.[^mental-label] With repeated practice, awareness becomes continuous without any effort. No matter what you are doing, attending to the objects to be noticed, awareness appears as if falling upon these objects, as if striking at them, without a break. In this situation, the mind won't miss anything that comes to it (through the six sense doors); and the details of things are revealed to mind on their own. The little book [_Practical Insight Meditation_](https://isbnsearch.org/isbn/9552400899) by Mahasi Sayadaw[^practical-insight-meditation-pdf] concisely and sufficiently illustrates how meditation is performed in detail.
 
 ## FAQ
 
@@ -67,10 +67,10 @@ There are two main obstacles during meditation. The first is your will. Once you
 
     Contrarily, if you were trapped in the anxious feeling, or in the complaints, you would not be aware of what's going on in your body and mind. In this situation, the brain wouldn't learn. And, in the next time, you would repeat this failure.
 
-[^brain-perception]: This fact is discussed in the Pali canon _Abhidhamma Pitaka_. For instance, see TODO: add materials. See also the modern paper ["Is perception discrete or continuous?"](https://www.sciencedirect.com/science/article/abs/pii/S1364661303000950) by Rufin VanRullen and Christof Koch, 2003.
+[^brain-perception]: This fact is discussed in the Pali canon _Abhidhamma Pitaka_. For instance, see In the chapter "Analysis of Thought-Processes" of [_A Manual of Abhidhamma_](https://isbnsearch.org/isbn/9679920429), translated by Narada Maha Thera, a Theravada Buddhist perspective to this fact was explained. A very accessible illustraction can be. S also the modern paper ["Is perception discrete or continuous?"](https://www.sciencedirect.com/science/article/abs/pii/S1364661303000950) by Rufin VanRullen and Christof Koch, 2003.
 
 [^mental-label]: At the beginning stage, to guarantee awareness, mental labeling what is aware of will be helpful. But this technique is not essential; and if you feel uncomfortable with it, simply keep awareness without any mental label. Being aware is what is essential.
 
-[^practical-insight-meditation]: ISBN: [9552400899](https://isbnsearch.org/isbn/9552400899). You can download the PDF from [internet](https://www.bps.lk/olib/bp/bp503s_Mahasi_Practical-Insight-Meditation.pdf).
+[^practical-insight-meditation-pdf]: You can download the PDF from [internet](https://www.bps.lk/olib/bp/bp503s_Mahasi_Practical-Insight-Meditation.pdf).
 
 ---
