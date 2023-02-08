@@ -67,10 +67,10 @@ There are two main obstacles during meditation. The first is your will. Once you
 
     Contrarily, if you were trapped in the anxious feeling, or in the complaints, you would not be aware of what's going on in your body and mind. In this situation, the brain wouldn't learn. And, in the next time, you would repeat this failure.
 
-[^practical-insight-meditation]: ISBN: [9552400899](https://isbnsearch.org/isbn/9552400899). You can download the PDF from [internet](https://www.bps.lk/olib/bp/bp503s_Mahasi_Practical-Insight-Meditation.pdf).
-
-[^brain-perception]: TODO: Add materials for reference.
+[^brain-perception]: This fact is discussed in the Pali canon _Abhidhamma Pitaka_. For instance, see TODO: add materials. See also the modern paper ["Is perception discrete or continuous?"](https://www.sciencedirect.com/science/article/abs/pii/S1364661303000950) by Rufin VanRullen and Christof Koch, 2003.
 
 [^mental-label]: At the beginning stage, to guarantee awareness, mental labeling what is aware of will be helpful. But this technique is not essential; and if you feel uncomfortable with it, simply keep awareness without any mental label. Being aware is what is essential.
+
+[^practical-insight-meditation]: ISBN: [9552400899](https://isbnsearch.org/isbn/9552400899). You can download the PDF from [internet](https://www.bps.lk/olib/bp/bp503s_Mahasi_Practical-Insight-Meditation.pdf).
 
 ---
