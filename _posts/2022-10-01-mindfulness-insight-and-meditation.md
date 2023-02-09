@@ -15,7 +15,7 @@ We can only perceive things through our eyes, ears, nose, tongue, body, and mind
 
 Human brain is a great simulator. Indeed, without any effort, it simulates a world and a whole story therein, which we call dream. With the same capacity, autonomously and effortlessly, it learns conditional relationships, which predict what will happen if somethings are taken, that is, simulations of reality.[^brain-learning] [^brain-capability] **_Insight_ is the learned brain.** And this very fact of human brain forms the basis of insight arising.
 
-If all that have been perceived are known, then the brain will learn what are conditions and what are conditioned by, filtering out what are irrelevant. Contrarily, if something relevant[^what-is-relevant] goes unnoticed, then either the brain won't learn, or the learned brain is biased since the materials are partial. So, **mindfulness is the essential and sufficient condition of insight arising.**[^mindfulness-insight-example]
+If all that have been perceived are known, then the brain will learn what are conditions and what are conditioned by, filtering out what are irrelevant. Contrarily, if something relevant[^what-is-relevant] goes unnoticed, then either the brain won't learn, or the learned brain is biased since the materials are partial. So, **mindfulness is the essential and sufficient condition of insight arising.**[^mindfulness-insight-example] [^Dehaene]
 
 ## Meditation
 
@@ -33,6 +33,15 @@ When we concentrate on something, our attention is constantly kept on it without
 
 There are two main obstacles during meditation. The first is your will. Once you determine to rest in the position of observation or noticing, the second main obstacles may raise, which is stray thoughts. Because the mind-door is much closer to us than any other sense doors, it's much easier to be unaware of the thoughts perceived at the mind-door than, e.g., to be unaware of the sounds perceived at ear-door, even though both are prominent. Also, thoughts are autonomous and active. So, they keep raising but we are unaware. We stray into them, as if thinking is I.
 
+## References
+
+- _Progress of Insight_, by Mahasi Sayadaw, translated and noted by Nyanaponika Thera. ISBN: [9552400902](https://isbnsearch.org/isbn/9552400902).
+- _When Awareness Becomes Natural_, by Sayadaw U Tejaniya. ISBN: [1611803071](https://isbnsearch.org/isbn/1611803071).
+- _What is Hypnosis?_, by François Roustang, translated by Anne Vila.
+- _A Manual of Abhidhamma_, translated by Narada Maha Thera. ISBN: [9679920429](https://isbnsearch.org/isbn/9679920429).
+- _The Mind Illuminated_, by John Yates, Matthew Immergut, and Jeremy Graves. ISBN: [1501156985](https://isbnsearch.org/isbn/1501156985).
+- _Consciousness and the Brain_, by Stanislas Dehaene. ISBN: [9780670025435](https://isbnsearch.org/isbn/9780670025435).
+
 [^convention]: Use italics for proper nouns when they first appear in the text. These words have different meanings than they do in everyday speech.
 
 [^affect]: When something affects us, it transforms us to a new body-mind state.
@@ -41,7 +50,7 @@ There are two main obstacles during meditation. The first is your will. Once you
 
 [^body-and-mind]: Body involves movements and feelings. And mind involves emotions and thoughts. They are more broad and more subtle than the other sense organs.
 
-[^doors]: As in [_The Progress of Insight_](https://www.accesstoinsight.org/lib/authors/mahasi/progress.html#fn-6), Nyanaponika Thera noted,
+[^doors]: As in _The Progress of Insight_, Nyanaponika Thera noted,
 
     > "Door" is a figurative expression for the sense organs (which, including the mind, are sixfold), because they provide, as it were, the access to the world of objects.
 
@@ -67,7 +76,9 @@ There are two main obstacles during meditation. The first is your will. Once you
 
     Contrarily, if you were trapped in the anxious feeling, or in the complaints, you would not be aware of what's going on in your body and mind. In this situation, the brain wouldn't learn. And, in the next time, you would repeat this failure.
 
-[^brain-perception]: This fact is discussed in the Pali canon _Abhidhamma Pitaka_. For instance, see In the chapter "Analysis of Thought-Processes" of [_A Manual of Abhidhamma_](https://isbnsearch.org/isbn/9679920429), translated by Narada Maha Thera, a Theravada Buddhist perspective to this fact was explained. A very accessible illustraction can be. S also the modern paper ["Is perception discrete or continuous?"](https://www.sciencedirect.com/science/article/abs/pii/S1364661303000950) by Rufin VanRullen and Christof Koch, 2003.
+[^Dehaene]: In the book _Consciousness and the Brain_, Stanislas Dehaene provided a model for subliminal and consciousness, based on a series of decisive neuroscience experiments. Subliminal perceives and do statistics on what are perceived. These processes are restircted in local networks of human brain. While consciousness realizes what has been perceived in subliminal and integrates them together. This triggers a global synchronization across different parts of human brain. In this perspective, mindfulness can be viewed as an efficient way of integration or connection of information perceived in different parts of human brain.
+
+[^brain-perception]: In the chapter "Analysis of Thought-Processes" of _A Manual of Abhidhamma_, a Theravada Buddhist perspective to this fact was explained. A very accessible illustration can be found in the chapter "The Moments of Consciousness Model" of the book _The Mind Illuminated_.
 
 [^mental-label]: At the beginning stage, to guarantee awareness, mental labeling what is aware of will be helpful. But this technique is not essential; and if you feel uncomfortable with it, simply keep awareness without any mental label. Being aware is what is essential.
 
