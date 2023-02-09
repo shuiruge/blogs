@@ -19,9 +19,9 @@ If all that have been perceived are known, then the brain will learn what are co
 
 ## Meditation
 
-**_Meditation_ is the progressive practice aiming to train the attention to become mindful.** The working principle here is the very fact that human brain cannot perceive two distinct objects at the same time.[^brain-perception] Once the awareness becomes continuous, there's no place for things that are perceived without awareness.
+**_Meditation_ is the progressive practice aiming to train the attention to become mindful.** The working principle here is the very fact that human brain cannot perceive two distinct objects at the same time.[^brain-perception] Once the awareness becomes continuous, there's no place for things that are perceived without awareness. [^model]
 
-Briefly, meditation rests us in a continuous state of observation or noticing on what is prominently perceived at the six sense doors, such that there's no period during which awareness is absent. With repeated practice, awareness becomes continuous without any effort. No matter what you are doing, attending to the objects to be noticed, awareness appears as if falling upon these objects, as if striking at them, without a break. In this situation, the mind won't miss anything that comes to it (through the six sense doors); and the details of things are revealed to mind on their own. The little book [_Practical Insight Meditation_](https://isbnsearch.org/isbn/9552400899) by Mahasi Sayadaw[^practical-insight-meditation-pdf] concisely and sufficiently illustrates how meditation is performed in detail.
+Briefly, meditation rests us in a continuous state of observation or noticing on what is prominently perceived at the six sense doors, such that there's no period during which awareness is absent. With repeated practice, awareness becomes continuous without any effort. No matter what you are doing, attending to the objects to be noticed, awareness appears as if falling upon these objects, as if striking at them, without a break. In this situation, the mind won't miss anything that comes to it (through the six sense doors); and the details of things are revealed to mind on their own. The little book _Practical Insight Meditation_ by Mahasi Sayadaw concisely and sufficiently illustrates how meditation is performed in detail.
 
 ## FAQ
 
@@ -33,7 +33,7 @@ When we concentrate on something, our attention is constantly kept on it without
 
 There are two main obstacles during meditation. The first is your will. Once you determine to rest in the position of observation or noticing, the second main obstacles may raise, which is stray thoughts. Because the mind-door is much closer to us than any other sense doors, it's much easier to be unaware of the thoughts perceived at the mind-door than, e.g., to be unaware of the sounds perceived at ear-door, even though both are prominent. Also, thoughts are autonomous and active. So, they keep raising but we are unaware. We stray into them, as if thinking is I.
 
-### Perception versus Awareness
+### Perception versus Awareness (TODO)
 
 In _Consciousness and the Brain_, Stanislas Dehaene provided a model for perception and awareness, based on a series of decisive neuroscience experiments. Subliminal perceives and do statistics on what are perceived. These processes are restircted in local parts of human brain. And consciousness realizes what has been perceived in subliminal and integrates them together. This triggers a global synchronization across different parts of human brain.
 
@@ -45,11 +45,12 @@ At the beginning stage of meditation, to guarantee awareness, mental labeling wh
 
 ## References
 
-- _Progress of Insight_, by Mahasi Sayadaw, translated and noted by Nyanaponika Thera. ISBN: [9552400902](https://isbnsearch.org/isbn/9552400902).
+- _Progress of Insight_, by Mahasi Sayadaw, translated and noted by Nyanaponika Thera. ISBN: [9552400902](https://isbnsearch.org/isbn/9552400902). You can find it on [internet](https://www.accesstoinsight.org/lib/authors/mahasi/progress.html).
 - _When Awareness Becomes Natural_, by Sayadaw U Tejaniya. ISBN: [1611803071](https://isbnsearch.org/isbn/1611803071).
 - _What is Hypnosis?_, by François Roustang, translated by Anne Vila.
-- _A Manual of Abhidhamma_, translated by Narada Maha Thera. ISBN: [9679920429](https://isbnsearch.org/isbn/9679920429).
+- _A Manual of Abhidhamma_, translated by Narada Maha Thera. ISBN: [9679920429](https://isbnsearch.org/isbn/9679920429). You can download the PDF from [internet](http://www.buddhanet.net/pdf_file/abhidhamma.pdf).
 - _The Mind Illuminated_, by John Yates, Matthew Immergut, and Jeremy Graves. ISBN: [1501156985](https://isbnsearch.org/isbn/1501156985).
+- _Practical Insight Meditation_, by Mahasi Sayadaw, translated by U Pe Thin and Myanaung U Tin. ISBN: [9552400899](https://isbnsearch.org/isbn/9552400899). You can download the PDF from [internet](https://www.bps.lk/olib/bp/bp503s_Mahasi_Practical-Insight-Meditation.pdf).
 - _Consciousness and the Brain_, by Stanislas Dehaene. ISBN: [9780670025435](https://isbnsearch.org/isbn/9780670025435).
 
 [^convention]: Use italics for proper nouns when they first appear in the text. These words have different meanings than they do in everyday speech.
@@ -88,6 +89,18 @@ At the beginning stage of meditation, to guarantee awareness, mental labeling wh
 
 [^brain-perception]: In the chapter "Analysis of Thought-Processes" of _A Manual of Abhidhamma_, a Theravada Buddhist perspective to this fact was explained. A very accessible illustration can be found in the chapter "The Moments of Consciousness Model" of _The Mind Illuminated_.
 
-[^practical-insight-meditation-pdf]: You can download the PDF from [internet](https://www.bps.lk/olib/bp/bp503s_Mahasi_Practical-Insight-Meditation.pdf).
+[^model]: For illustrating the continuous awareness, consider a (maybe over-) simplified model. Since human brain cannot perceive two distinct objects at the same time, perception of objects must be a temperal sequence with each element a single object, as 
+
+        ⋯ → object A → object A → object B → object C → ⋯.
+    
+    Continuous awareness is, thus, like
+    
+        ⋯ → object A → aware of A → object A → aware of A → object B → aware of B → ⋯,
+
+    as if being a monitor of perception. This very fact of human brain excludes the pattern
+    
+        ⋯ → object A → aware of A + object B → object C → ⋯,
+
+    where the `aware of A` and the `object B` happen at the same time, so that the later is unaware.
 
 ---
