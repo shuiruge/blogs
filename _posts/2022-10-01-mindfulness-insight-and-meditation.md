@@ -94,6 +94,6 @@ At the beginning stage of meditation, to guarantee awareness, mental labeling wh
     
         ⋯ → object A → aware of A + object B → object C → ⋯,
 
-    where the "aware of A" and the "object B" happen at the same time (unit), so that the later is unaware.
+    where the "aware of A" and the "object B" are perceived at the same time (unit), so that the later is unaware.
 
 ---
