@@ -39,6 +39,7 @@ At the beginning stage of meditation, to guarantee awareness, mental labeling wh
 
 ## References
 
+- _Consciousness and the Brain_, by Stanislas Dehaene. ISBN: [9780670025435](https://isbnsearch.org/isbn/9780670025435).
 - _Progress of Insight_, by Mahasi Sayadaw, translated and noted by Nyanaponika Thera. ISBN: [9552400902](https://isbnsearch.org/isbn/9552400902). You can find it on [internet](https://www.accesstoinsight.org/lib/authors/mahasi/progress.html).
 - _When Awareness Becomes Natural_, by Sayadaw U Tejaniya. ISBN: [1611803071](https://isbnsearch.org/isbn/1611803071).
 - _What is Hypnosis?_, by François Roustang, translated by Anne Vila.
@@ -46,11 +47,13 @@ At the beginning stage of meditation, to guarantee awareness, mental labeling wh
 - _The Mind Illuminated_, by John Yates, Matthew Immergut, and Jeremy Graves. ISBN: [1501156985](https://isbnsearch.org/isbn/1501156985).
 - _Practical Insight Meditation_, by Mahasi Sayadaw, translated by U Pe Thin and Myanaung U Tin. ISBN: [9552400899](https://isbnsearch.org/isbn/9552400899). You can download the PDF from [internet](https://www.bps.lk/olib/bp/bp503s_Mahasi_Practical-Insight-Meditation.pdf).
 
-[^convention]: Use italics for proper nouns when they first appear in the text. These words have different meanings than they do in everyday speech.
+[^convention]: Use italics for proper nouns when they first appear in the text. These words have different meanings than they do in everyday speech. Books listed in the references are always in italics.
 
 [^affect]: When something affects us, it transforms us to a new body-mind state.
 
 [^be-perceived-and-affected]: Indeed, when a sound is perceived, we become capable of thinking about the sound; an intention to walk makes the body start walking; and walking leads to a constant changing of posture. Contrarily, when we plug the ears, so that sound cannot be perceived, it leaves no effect on us.
+
+    In fact, as claimed in the chapter "What Is Consciousness Good For?" of _Consciousness and the Brain_, there're two kinds of perception. One is purely subliminal, such as unconditioned reflex. The other involves consciousness. Both of them can leave effect on us. But, since subliminal is transient and locally restricted in human brain, leaving no impression on memory, it's incapable of making decision, such as intending to walk, and implastic. So, throughout this note, we only consider the perception that involves consciousness.
 
 [^body-and-mind]: Body involves movements and feelings. And mind involves emotions and thoughts. They are more broad and more subtle than the other sense organs.
 
@@ -82,7 +85,7 @@ At the beginning stage of meditation, to guarantee awareness, mental labeling wh
 
 [^brain-perception]: In the chapter "Analysis of Thought-Processes" of _A Manual of Abhidhamma_, a Theravada Buddhist perspective to this fact was explained. A very accessible illustration can be found in the chapter "The Moments of Consciousness Model" of _The Mind Illuminated_.
 
-[^model]: For illustrating the continuous awareness, consider a (maybe over-) simplified model. Since human brain cannot perceive two distinct objects at the same time, perception of objects must be a temperal sequence of single object, as 
+[^model]: For illustrating the continuous awareness, consider a (maybe over-) simplified model. Since human brain cannot perceive two distinct objects at the same time, perception of objects must be a temporal sequence of single object, as 
 
         ⋯ → object A → object A → object B → object C → ⋯.
     
