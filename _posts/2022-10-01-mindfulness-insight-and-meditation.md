@@ -5,7 +5,7 @@ title: Mindfulness, Insight, and Meditation
 
 ## Mindfulness[^convention]
 
-When something is perceived, it affects[^affect] us.[^be-perceived-and-affected] The more it affects us, the more prominent it is perceived.
+When something is _perceived_, it affects[^affect] us.[^be-perceived-and-affected] The more it affects us, the more prominent it is perceived.
 
 We can only perceive things through our eyes, ears, nose, tongue, body, and mind.[^body-and-mind] These six sense organs are, thus, called the _six sense doors_.[^doors]
 
@@ -47,13 +47,16 @@ At the beginning stage of meditation, to guarantee awareness, mental labeling wh
 - _The Mind Illuminated_, by John Yates, Matthew Immergut, and Jeremy Graves. ISBN: [1501156985](https://isbnsearch.org/isbn/1501156985).
 - _Practical Insight Meditation_, by Mahasi Sayadaw, translated by U Pe Thin and Myanaung U Tin. ISBN: [9552400899](https://isbnsearch.org/isbn/9552400899). You can download the PDF from [internet](https://www.bps.lk/olib/bp/bp503s_Mahasi_Practical-Insight-Meditation.pdf).
 
-[^convention]: Use italics for proper nouns when they first appear in the text. These words have different meanings than they do in everyday speech. Books listed in the references are always in italics.
+[^convention]: Throughout this note, italics is employed in two cases:
+  
+    - for books and articles, which are listed in the "References" section;
+    - for defining proper nouns, usually at the place where they first appear in the text. Note that these words have different meanings than they do in everyday speech.
 
-[^affect]: When something affects us, it transforms us to a new body-mind state.
+[^affect]: When something _affects_ us, it transforms us to a new body-mind state.
 
 [^be-perceived-and-affected]: Indeed, when a sound is perceived, we become capable of thinking about the sound; an intention to walk makes the body start walking; and walking leads to a constant changing of posture. Contrarily, when we plug the ears, so that sound cannot be perceived, it leaves no effect on us.
 
-    In fact, as claimed in the chapter "What Is Consciousness Good For?" of _Consciousness and the Brain_, there're two kinds of perception. One is purely subliminal, such as unconditioned reflex. The other involves consciousness. Both of them can leave effect on us. But, since subliminal is transient and locally restricted in human brain, leaving no impression on memory, it's incapable of making decision, such as intending to walk, and implastic. So, throughout this note, we only consider the perception that involves consciousness.
+    As claimed in the chapter "What Is Consciousness Good For?" of _Consciousness and the Brain_, at the level of neuroscience, there're two types of perception. One is purely subliminal, such as unconditioned reflex. The other involves consciousness. Both of them can affect us. But, since subliminal is transient and locally restricted in human brain, leaving no impression on memory, it's incapable of making decision, such as intending to walk, and implastic. So, throughout this note, we only consider the things that are perceived with consciousness involved.
 
 [^body-and-mind]: Body involves movements and feelings. And mind involves emotions and thoughts. They are more broad and more subtle than the other sense organs.
 
@@ -62,8 +65,6 @@ At the beginning stage of meditation, to guarantee awareness, mental labeling wh
     > "Door" is a figurative expression for the sense organs (which, including the mind, are sixfold), because they provide, as it were, the access to the world of objects.
 
 [^be-aware-of]: When we are aware of something, we simply know it, realizing its appearance, as if saying "Ah! It comes". It's effortless.
-
-    A rigorous definition can be given by a thought experiment. When something is perceived at the six sense doors, a demon who knows everything in the world suddenly pops up. It asks you whether you know the thing is happening or just appeared. If you answer yes, you are aware of it; otherwise you are not.
 
 [^Tejaniya]: At the end of _When Awareness Becomes Natural_, Sayadaw U Tejaniya provided a concise declaration:
 
