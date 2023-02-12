@@ -52,7 +52,7 @@ At the beginning stage of meditation, to guarantee awareness, mental labeling wh
 
     As claimed in the chapter "What Is Consciousness Good For?" of _Consciousness and the Brain_, at the level of neuroscience, there're two types of perception. One is purely subliminal, such as unconditioned reflex. The other involves consciousness. Both of them can affect us. But, since subliminal is transient and locally restricted in human brain, leaving no impression on memory, it's incapable of making decision, such as intending to walk, and implastic. So, throughout this note, we only consider the things that are perceived with consciousness involved.
 
-    So, things that are perceived affect us in the following ways. They first affect our mental or conscious state, which in turn arouses bodily or/and mental activities.
+    So, when something is perceived, it affects us in the following way. It first affects our mental or conscious state, which in turn arouses bodily or/and mental activities.
 
 [^body-and-mind]: Body involves movements and feelings. And mind involves emotions and thoughts. They are more broad and more subtle than the other sense organs.
 
