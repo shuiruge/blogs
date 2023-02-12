@@ -5,7 +5,7 @@ title: Mindfulness, Insight, and Meditation
 
 ## Mindfulness[^convention]
 
-When something is _perceived_, it affects[^affect] us.[^be-perceived-and-affected] The more it affects us, the more prominent it is perceived.
+When something is _perceived_, it affects us.[^be-perceived-and-affected] The more it affects us, the more prominent it is perceived.
 
 We can only perceive things through our eyes, ears, nose, tongue, body, and mind.[^body-and-mind] These six sense organs are, thus, called the _six sense doors_.[^doors]
 
@@ -29,10 +29,6 @@ Briefly, meditation rests us in a continuous state of observation or noticing on
 
 When we concentrate on something, our attention is constantly kept on it without digression. Mindfulness is a kind of concentration, but the thing we concentrated on is one and unique. That is, concentrating on awareness of what is being perceived at all the six sense doors.
 
-### Main Obstacles during Meditation
-
-There are two main obstacles during meditation. The first is your will. Once you determine to rest in the position of observation or noticing, the second main obstacles may raise, which is stray thoughts. Because the mind-door is much closer to us than any other sense doors, it's much easier to be unaware of the thoughts perceived at the mind-door than, e.g., to be unaware of the sounds perceived at ear-door, even though both are prominent. Also, thoughts are autonomous and active. So, they keep raising but we are unaware. We stray into them, as if thinking is I.
-
 ### Mental Label Technique
 
 At the beginning stage of meditation, to guarantee awareness, mental labeling what is aware of will be helpful. But this technique is not essential; and if you feel uncomfortable with it, simply keep awareness without any mental label. Being aware is what is essential.
@@ -52,11 +48,11 @@ At the beginning stage of meditation, to guarantee awareness, mental labeling wh
     - for books and articles, which are listed in the "References" section;
     - for defining proper nouns, usually at the place where they first appear in the text. Note that these words have different meanings than they do in everyday speech.
 
-[^affect]: When something _affects_ us, it transforms us to a new body-mind state.
-
-[^be-perceived-and-affected]: Indeed, when a sound is perceived, we become capable of thinking about the sound; an intention to walk makes the body start walking; and walking leads to a constant changing of posture. Contrarily, when we plug the ears, so that sound cannot be perceived, it leaves no effect on us.
+[^be-perceived-and-affected]: Indeed, when a sound is perceived, we become capable of thinking about the sound; an intention to walk makes the body start walking; and walking leads to a constant change in posture accompanied by a series of mental activities in order to reach the destination. Contrarily, when we plug the ears, so that sound cannot be perceived, it leaves no effect on us.
 
     As claimed in the chapter "What Is Consciousness Good For?" of _Consciousness and the Brain_, at the level of neuroscience, there're two types of perception. One is purely subliminal, such as unconditioned reflex. The other involves consciousness. Both of them can affect us. But, since subliminal is transient and locally restricted in human brain, leaving no impression on memory, it's incapable of making decision, such as intending to walk, and implastic. So, throughout this note, we only consider the things that are perceived with consciousness involved.
+
+    So, things that are perceived affect us in the following ways. They first affect our mental or conscious state, which in turn arouses bodily or/and mental activities.
 
 [^body-and-mind]: Body involves movements and feelings. And mind involves emotions and thoughts. They are more broad and more subtle than the other sense organs.
 
