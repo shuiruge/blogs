@@ -179,6 +179,28 @@ It has been emphasized during this brief outline of the training that you must c
 
 ## The Stages of Insight
 
+[^1]: The Eight Uposatha Precepts are abstention from (1) killing, (2) stealing, (3) all sexual intercourse, (4) lying, (5) intoxicants, (6) partaking of solid food and certain liquids after twelve o’clock noon, (7) abstention from dance, song, music, shows (attendance and performance), from the use of perfumes, ornaments, etc., (8) and from luxurious beds.
+
+[^2]: There are four noble individuals (*ariya-puggala*). They are those who have obtained the paths and fruits:
+
+    (1) The stream-winner (*sotapanna*) is one who has become free from the first three of the ten fetters which bind beings to the sensuous sphere, namely, personality belief, skeptical doubt, and attachment to mere rules and rituals.
+    
+    (2) The once-returner (*sakadagami*) has weakened the fourth and fifth of the ten fetters, sensuous craving and ill will.
+    
+    (3) The non-returner (*anagami*) becomes fully free from the above-mentioned five lower fetters and is no longer reborn in the sensuous sphere.
+    
+    (4) Through the path of Arahant one further becomes free of the last five fetters: craving for fine-material existence (in celestial worlds), craving for immaterial (purely mental) existence, conceit, restlessness, and ignorance.
+    
+    For a full explanation see *Buddhist Dictionary* by Nyanatiloka Mahathera, or his *Word of the Buddha*.
+
+[^3]: The thirty-two parts of the body, as used in body contemplation, are: head hair, body hair, nails, teeth, skin, flesh, sinews, bones, marrow, kidney, heart, liver, diaphragm, spleen, lungs, intestines, mesentery, stomach, excrement, bile, phlegm, pus, blood, sweat, lymph, tears, serum, saliva, nasal mucus, synovial fluid, urine, brain. For details of this meditation see *The Path of Purification* (*Visuddhimagga*, abbreviated as Vism.) by Acariya Buddhaghosa, translated by Bhikkhu Nanamoli, VIII.8.
+
+[^4]: The meditation instructor will explain the sitting position in detail. See also *The Heart of Buddhist Meditation*, Nyanaponika Thera, BPS, Kandy.
+
+[^5]: Some of these points where the touch sensation may be observed are: where thigh and knee touch, where the hands are placed together, where finger meets finger, where thumb meets thumb, where the eyelids are closed, the tongue inside the mouth, the lips touching when the mouth is closed.
+
+[^6]: *Taruna-udayabbayanana*. On the degrees of insight knowledge, see *The Progress of Insight* by the Ven. Mahasi Sayadaw (BPS, Kandy).
+
 ---
 
 Converting to epub:
