@@ -1,5 +1,3 @@
-# Practical Insight Meditation: Basic and Progressive Stages
-
 The Venerable Mahasi Sayadaw
 
 Translated from the Burmese by U Pe Thin and Myanaung U Tin
@@ -8,7 +6,7 @@ BUDDHIST PUBLICATION SOCIETY
 
 KANDY • SRI LANKA
 
-## Preface
+# Preface
 
 It is a truism that nobody likes suffering and everybody seeks happiness. In this world of ours, human beings make all possible efforts to prevent and alleviate suffering and to enjoy happiness. Nevertheless, their efforts are mainly directed to obtaining their physical well-being by material means. Happiness, however, is conditioned by attitudes of mind, and yet only a few persons give real thought to mental development, while fewer still practice mind-training in earnest.
 
@@ -29,9 +27,9 @@ In conclusion, I would like to say that I deeply appreciate the services of thos
 MAHASI SAYADAW (Bhadanta Sobhana, Aggamahapandita)
 October 1, 1970 Thathana Yeiktha 16, Hermitage Road Rangoon, Burma
 
-## Part I. Basic Practice
+# Part I. Basic Practice
 
-### Preparatory Stage
+## Preparatory Stage
 
 If you sincerely desire to develop contemplation and attain insight in your present life, you must give up worldly thoughts and actions during training. This course of action is for the purification of conduct, the essential preliminary step towards the proper development of contemplation. You must also observe the rules of discipline prescribed for laymen (or for monks, as the case may be), for they are important in gaining insight. For layfolk, these rules comprise the Eight Precepts which Buddhist devotees observe on holidays (*uposatha*) and during periods of meditation.[^1]  An additional rule is not to speak with contempt, in jest, or out of malice to or about any of the Noble Ones who have attained states of sanctity.[^2]  If you have done so, then personally apologize to him or her or make the apology through your meditation instructor. If in the past you have spoken contemptuously to a Noble One who is presently unavailable or deceased, confess this offence to your meditation instructor or introspectively to yourself.
 
@@ -49,7 +47,7 @@ Third, reflect upon the repulsive nature of the body to assist you in diminishin
 The fourth protection for your psychological benefit is to reflect on the phenomenon of ever-approaching death. Buddhist teachings stress that life is uncertain, but death is certain, life is precarious, but death is sure. Life has death as its goal. There is birth, disease, suffering, old age, and eventual death. These are all aspects of the process of existence.
 To begin training, take the sitting posture with legs crossed. You might feel more comfortable if the legs are not interlocked but evenly placed on the ground, without pressing one against the other.[^4] If you find that sitting on the floor interferes with contemplation, then sit in a more comfortable way. Now proceed with each exercise in contemplation as described.
 
-### Basic Exercise I
+## Basic Exercise I
 
 Try to keep your mind (but not your eyes) on the abdomen. You will thereby come to know the movements of rising and falling in this region. If these movements are not clear to you in the beginning, then place both hands on the abdomen to feel these rising and falling movements. After a short time the upward movement of inhalation and the downward movement of exhalation will become clear. Then make a mental note, *rising*, for the upward movement, *falling* for the downward movement. Your mental note of each movement must be made while it occurs. From this exercise you learn the actual manner of the upward and downward movements of the abdomen. You are not concerned with the form of the abdomen. What you actually perceive is the bodily sensation of pressure caused by the heaving movement of the abdomen. So do not dwell on the form of the abdomen but proceed with the exercise. For the beginner it is a very effective method of developing the faculties of attention, concentration of mind, and insight in contemplation. As practice increases, the manner of movement will be clearer.
 
@@ -57,7 +55,7 @@ The ability to know each successive occurrence of the mental and physical proces
 
 Actually it is easy for a beginner to keep his or her mind on these two simple movements. Continue with this exercise in full awareness of the abdomen’s rising and falling movements. Never verbally repeat the words rising, falling, and do not think of rising and falling as words. Be aware only of the actual process of the rising and falling movement of the abdomen. Avoid deep or rapid breathing for the purpose of making the abdominal movements more distinct, because this procedure causes fatigue that interferes with the practice. Just be totally aware of the movements of rising and falling as they occur in the course of normal breathing.
 
-### Basic Exercise II
+## Basic Exercise II
 
 While you are occupied with the exercise of observing each of the abdominal movements, other mental activities may occur between the noting of each rising and falling. Thoughts or other mental functions, such as intentions, ideas, imaginings, etc., are likely to occur between each mental note of rising and falling. They cannot be disregarded. A mental note must be made of each as it occurs.
 
@@ -65,7 +63,7 @@ If you imagine something, you must know that you have done so and make a mental 
 
 Proceed carefully, without slackening. If you intend to swallow saliva while thus engaged, make a mental note *intending*. While in the act of swallowing, *swallowing*. If you intend to spit, *spitting*. Then return to the exercise of rising and falling. Suppose you intend to bend the neck, *intending*. In the act of bending, *bending*. When you intend to straighten the neck, *intending*. In the act of straightening the neck, *straightening*. The neck movements of bending and straightening must be done slowly. After mentally making a note of each of these actions, proceed in full awareness with noticing the movements of the rising and falling abdomen.
 
-### Basic Exercise III
+## Basic Exercise III
 
 Since you must continue contemplating for a long time while in one position, that of sitting or lying down, you are likely to experience an intense feeling of fatigue, stiffness in the body or in the arms and legs. Should this happen, simply keep the knowing mind on that part of the body where such feeling occurs and carry on the contemplation, noting *tired* or *stiff*. Do this naturally, that is, neither too fast nor too slow. These feelings gradually become fainter and finally cease altogether. Should one of these feelings become more intense until the bodily fatigue or stiffness of joints is unbearable, then change your position. However, do not forget to make a mental note of intending, before you proceed to change position. Each detailed movement must be contemplated in its respective order.
 
@@ -161,7 +159,7 @@ While swallowing, should the food be felt touching the sides of the gullet, *tou
 
 Perform contemplation in this manner each time you partake of a morsel of food until you finish the meal. In the beginning of the practice there will be many omissions. Never mind. Do not waver in your effort. You will make fewer omissions if you persist in your practice. When you reach an advanced stage of the practice, you will also be able to notice more details than those stated here.
 
-### Advancement in Contemplation
+## Advancement in Contemplation
 
 After having practiced for a day and night you may find your contemplation considerably improved and that you are able to prolong the basic exercise of noticing the abdominal rising and falling. At this time you will notice that there is generally a break between the movements of rising and falling. If you are in the sitting posture fill in this pause with a mental note on the act of sitting, in this way: *rising, falling, sitting*. When you make a mental note of sitting, keep your mind on the erect position of the upper body. When you are lying down you should proceed with full awareness as follows: *rising, falling, lying*. If you find this easy, continue with noticing these three sections. Should you notice that a pause occurs at the end of the rising as well as the falling movement, then continue in this manner: *rising, sitting, falling, sitting*. Or when lying down: *rising, lying, falling, lying*. Suppose you no longer find it easy to make a mental note of three or four objects in the above manner, then revert to the initial procedure of noting only the two sections, *rising* and *falling*.
 
@@ -169,16 +167,16 @@ While engaged in the regular practice of contemplating bodily movements you need
 
 If you fail to note and dismiss such distinctive sights and sounds as they occur, you may inadvertently fall into reflections about them instead of proceeding with intense attention to rising and falling, which may then become less distinct and clear. It is by such weakened attention that mind-defiling passions breed and multiply. If such reflections do occur, make two or three mental notes, *reflecting*, and again take up the contemplation of rising and falling. If you forget to make a mental note of body, leg, or arm movements, then mentally note *forgetting* and resume your usual contemplation of the abdominal movements. You may feel at times that breathing is slow or that the rising and falling movements of the abdomen are not clearly perceived. When this happens, and you are in the sitting position, simply carry on the attention to *sitting, touching*; if you are lying down, *lying, touching*. While contemplating touching, your mind should not be kept on the same part of the body but on different parts successively. There are several places of touch and at least six or seven should be contemplated.[^5]
 
-### Basic Exercise IV
+## Basic Exercise IV
 
 Up to this point you have devoted quite some time to the training course. You might begin to feel lazy after deciding that you have made inadequate progress. By no means should you give up. Simply note the fact, *lazy*. Before you gain sufficient strength in attention, concentration, and insight, you may doubt the correctness or usefulness of this method of training. In such a case turn to contemplation of the thought, *doubtful*. Do you anticipate or wish for good results? If so, make such thoughts the subject of your contemplation, *anticipating* or *wishing*. Are you attempting to recall the manner in which this training was conducted up to this point? Yes? Then take up contemplation on *recollecting*. Are there occasions when you examine the object of contemplation to determine whether it is mind or matter? If so, then be aware of *examining*. Do you regret that there is no improvement in your contemplation? If so, then attend to that feeling of *regret*. Conversely, are you happy that your contemplation is improving? If you are, then contemplate the feeling of being *happy*.
 
 This is the way in which you make a mental note of every item of mental behavior as it occurs, and if there are no intervening thoughts or perceptions to note, you should revert to the contemplation of rising and falling. During a strict course of meditation, the time of practice is from the first moment you wake up until you fall asleep. To repeat, you must be constantly occupied either with the basic exercise or with mindful attention throughout the day and during those night hours when you are not asleep. There must be no relaxation. Upon reaching a certain stage of progress in contemplation you will not feel sleepy in spite of these prolonged hours of practice. On the contrary, you will be able to continue the contemplation day and night.
 
-### Summary
+## Summary
 
 It has been emphasized during this brief outline of the training that you must contemplate on each mental occurrence good or bad, on each bodily movement large or small, on every sensation (bodily or mental feeling) pleasant or unpleasant, and so on. If, during the course of training, occasions arise when there is nothing special to contemplate upon, be fully occupied with attention to the rising and falling of the abdomen. When you have to attend to any kind of activity that necessitates walking, then, in complete awareness, each step should be briefly noted as *walking, walking* or *left, right*. But when you are taking a walking exercise, contemplate each step in three sections *up, forward, down*. The student who thus dedicates himself to the training day and night will be able in not too long a time to develop concentration to the initial stage of the fourth degree of insight (knowledge of arising and passing away)[^6] and onward to higher stages of insight meditation (*vipassanabhavana*).
 
-## Part II. Progressive Practice
+# Part II. Progressive Practice
 
-### The Stages of Insight
+## The Stages of Insight
