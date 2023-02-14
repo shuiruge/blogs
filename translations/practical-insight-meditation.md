@@ -241,6 +241,23 @@ One must recognize the fact that cherishing an inclination towards such phenomen
 
 ### Mature Insight Knowledge
 
+When the meditator continues to apply mindfulness to body-and-mind, his insight will grow in clarity. He will come to perceive more distinctly the arising and disappearing of the bodily and mental process. He will come to know that each object arises at one place and in that very place it disappears. He will know that the previous occurrence is one thing and the succeeding occurrence is another. So at every act of noticing, he comprehends the characteristics of impermanence, painfulness, and egolessness. After thus contemplating for a considerable time, he may come to believe: “This is surely the best that can be attained. It can’t be better,” and he becomes so satisfied with his progress that he is likely to pause and relax. He should, however, not relax at this stage, but go ahead with his practice of noticing the bodily and mental processes continuously for a still longer time.[^12]
+
+With the improvement of practice and when knowledge becomes more mature, the arising of the objects is no longer apparent to the meditator. He notices only their ceasing. They pass away swiftly. So also do the mental processes of noticing them. For instance, while noticing the *rising* of the abdomen, that movement vanishes in no time. And in the same manner vanishes also the mental process of *noticing* that movement. Thus it will be clearly known to the meditator that both the rising and the noticing vanish immediately one after another. The same applies in the case of the *falling* of the abdomen, of sitting, bending or stretching of an arm or leg, stiffness in the limbs, and so on. The noticing of an object and the knowledge of its ceasing occur in quick succession. Some meditators perceive distinctly three phases: noticing an object, its ceasing, and the passing away of the consciousness that cognizes that ceasing—all in quick succession. However, it is sufficient to know, in pairwise sequence, the dissolution of an object and the passing away of the consciousness of noticing that dissolution.
+
+When a meditator can clearly notice these pairs uninterruptedly, the particular features such as body, head, hand, and leg, are no longer apparent to him, and there appears to him the idea that everything is ceasing and vanishing. At this stage he is likely to feel that his contemplation is not up to the mark. But in fact, it is not so. Mind as a rule takes delight in dwelling on the sight of particular features and forms. Because of their absence, mind is wanting in satisfaction. As a matter of fact, it is the manifestation of the progress of insight. At the beginning, it is features that are clearly noticed first, but now their ceasing is noticed first, because of the progress. Only on repeated reflection, features appear again, but if they are not noticed the fact of dissolution reappears to remain. So one comes to know by direct experience the truth of the wise saying: “When a name or designation arises, a reality lies hidden; when a reality reveals itself, a name or designation disappears.”
+
+When the meditator notices the objects clearly he thinks that his noticings are not close enough. In fact, because the insight is so swift and clear he comes to know even the momentary subconsciousness in between the processes of cognition. He intends to do something, for instance, bending or stretching an arm, and he readily notices that intention which thereby tends to fade away, with the result that he cannot bend or stretch for some time. In that event, he should switch his attention to contemplating the occurrences at one of the sense doors.
+
+If the meditator extends his contemplation over the whole body, as usual, beginning with the noticing of the rising and the falling of the abdomen, he will soon gain momentum, and then he should continue noticing touching and knowing, or seeing and knowing, or hearing and knowing, and so on, as one or the other occurs. While so doing, if he feels that he is either restless or tired, then he should revert to noticing the rising and falling of the abdomen. After some time, when he gains momentum, he should notice any object that arises in the whole body.
+
+When he can contemplate well in such a spread-out manner, even if he does not notice an object with vigor, he knows that what he hears fades away, what he sees dissolves in broken parts, with no continuation between them. This is seeing things as they are. Some meditators do not see clearly what is happening because the vanishing is so swift that they feel their eyesight is getting poorer or they are giddy. It is not so. They are simply lacking the power of cognition to notice what happens before and after, with the result that they do not see the features or forms. At such a time, they should relax and stop contemplating. But the bodily and mental processes continue to appear to them, and consciousness, of its own accord, continues to notice those processes. The meditator may decide to sleep, but he does not fall asleep and yet he remains fit and alert. He need not worry about the loss of sleep, because on this account he will not feel unwell or fall ill. He should go ahead with noticing energetically and he will feel that his mind is quite capable of perceiving the objects fully and clearly.
+
+When engaged in noticing continuously both the dissolution of the objects and the act of knowing, he reflects: “Even for the wink of an eye or a flash of lightning nothing lasts. One did not realize this before. As things ceased and vanished in the past, so will they cease and vanish in the future.” One must notice such a reflection.[^13]
+
+Besides, in the midst of contemplation, the meditator is likely to have an awareness of fearfulness. He reflects: “One enjoys life, not knowing the truth. Now that one knows the truth of continuous dissolution it is truly fearful. At every moment of dissolution one may die. The beginning of this life itself is fearful. So are the endless repetitions of the arisings. Fearful it is to feel that in the absence of real features and forms the arisings appear to be real. So are the efforts to arrest the changing phenomena for the sake of well-being and happiness. To be reborn is fearful in that it will be a recurrence of objects that are ceasing and vanishing always. Fearful indeed it is to be old, to die, to experience sorrow, lamentation, pain, grief and despair.” Such a reflection should be noticed and then dismissed.
+
+Then the meditator sees nothing to depend on and becomes as it were weakened in mind as well as in body. He is seized with dejection. He is no longer bright and spirited. But he should not despair. This condition of his is a sign of the progress of insight. It is nothing more than being unhappy at the awareness of fearfulness. He must notice such a reflection, and as he continues to notice objects as they arise, one after another, this unhappy feeling will disappear soon. However, if he fails to contemplate for some time, then grief will assert itself and fear will overpower him. This kind of fear is not associated with insight. Therefore care must be taken to prevent the oncoming of such undesirable fear, by energetic contemplation.[^14]
 
 [^1]: The Eight Uposatha Precepts are abstention from (1) killing, (2) stealing, (3) all sexual intercourse, (4) lying, (5) intoxicants, (6) partaking of solid food and certain liquids after twelve o’clock noon, (7) abstention from dance, song, music, shows (attendance and performance), from the use of perfumes, ornaments, etc., (8) and from luxurious beds.
 
@@ -273,6 +290,32 @@ One must recognize the fact that cherishing an inclination towards such phenomen
 [^10]: These phenomena are the “ten corruptions of insight,” on which, see *Progress*, p. 10ff.; Vism XX. 105ff. They have the character of “corruptions” only when they cause attachment in the meditator, or lead to conceit, i.e., if, in misjudging these phenomena and overrating his achievements, he believes he has attained to the paths of sanctity. These “corruptions” occur at the stage of “weak knowledge of rise and fall.” see *Progress*, p. 12ff. Vism XX.93ff.
 
 [^11]: This refers to “purification by knowledge and vision of what is path and not-path.” see *Progress*, p. 16; Vism XX.126ff.
+
+[^12]: Reference is here to the “mature knowledge of rise and fall.” see *Progress*, p. 16; Vism XXI.3ff.
+
+[^13]: “Knowledge of dissolution.” see *Progress*, p. 17; Vism XXI 10ff
+
+[^14]: “Knowledge of fearfulness.” see *Progress*, p. 19; Vism XXI.29ff.
+
+[^15]: “Knowledge of misery.” see *Progress*, p. 19; Vism XXI.35ff.
+
+[^16]: “Knowledge of disgust.” See *Progress*, p 20; Vism XXI.43-44.
+
+[^17]: “Knowledge of desire for deliverance.” See *Progress*, p. 20; Vism XXI.45-46.
+
+[^18]: For these forty characteristics, see Vism XX.18f.; Patisambhidamagga, *Vipassana-Katha*. In these texts, ten characteristics of impermanence, twenty-five of suffering, and five of non-self are enumerated.
+
+[^19]: This refers to “knowledge of re-observation (or reflection).” See *Progress*, p. 21f.; Vism XXI.47ff.
+
+[^20]: “Knowledge of equanimity about formations.” See *Progress*, p. 22ff.; Vism XXI.61ff.
+
+[^21]: On the balance of the five faculties, see *The Way of Wisdom*, by Edward Conze (Wheel No. 65/66).
+
+[^22]: At the suggestion of the Venerable Author, the following two references are here quoted, in explanation of the stages in the realization of Nibbana, on the paths of stream-entry, once-returning, etc.:
+
+    1. Vism XXI.126-27: “‘One who sees Nibbana, which merges in the deathless (in the sense of the end) realizes it …’ (Paþis I 35). The seeing of Nibbana at the moment of the first path is realizing as seeing (*dassana*). At the other path moments it is realizing as developing (*bhavana*).”
+
+    2. *Atthasalini* (The Expositor), translated by Maung Tin: “Suppose a man who can see, is travelling along a path on a cloudy night. The path is obscured by the darkness. Lightning flashes and dispels the dark. In the absence of darkness the path becomes clear. This happens on a second journey, and again on a third journey. Here, like the man who can see his setting out on the path, so is the effort of insight put forth by the Aryan disciple for the stream-winning path. Like obliteration of the way in darkness is the darkness covering the truths. Like the moment when the lightning flashes and dispels the darkness is the moment when the light of the stream-winning path arises and dispels the darkness covering the truths. Like the manifestation of the way when darkness clears is the time of the manifestations of the four truths in the stream-winning path: and what is manifest in the path is known to the person who has got it. Like the second journey is the effort of insight to get the once-returning path... Like the third journey is the effort of insight to get the nonreturning path.”
 
 ---
 
