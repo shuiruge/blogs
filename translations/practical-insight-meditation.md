@@ -400,7 +400,7 @@ Here it should be noted that walking and so on are stated in common words instea
 
 ## Rising and Falling Movement of the Abdomen
 
-It is quite in agreement with the Buddha’s teachings to contemplate on the rising and falling movement of the abdomen. Such rising and falling is a physical process (*rapa*) caused by the pressure of the wind-element. The windelement is comprised in the corporeality-group of the five groups of the physical and mental phenomena of existence (*khandha*); in the tactile object of the twelve bases (*ayatana*); in the body-impression of the eighteen elements (*dhatu*); in the wind-element of the four material elements (*mahabhuta*); in the truth of suffering of the Four Noble Truths (*sacca*). The corporeality-group, a tactile object, a body-impression, and the truth of suffering are certainly objects for insight contemplation. Surely they are not otherwise. The rising and falling movement of the abdomen is therefore a proper object for contemplation, and while so contemplating, being aware that it is but a movement of the wind-element, subject to the laws of impermanence, suffering, and unsubstantiality, is quite in agreement with the Buddha’s discourses on *khandhas*, *ayatanas*, *dhatus*, and *saccas*. Relevant Pali passages will be shown in brief.
+It is quite in agreement with the Buddha’s teachings to contemplate on the rising and falling movement of the abdomen. Such rising and falling is a physical process (*rapa*) caused by the pressure of the wind-element. The wind-element is comprised in the corporeality-group of the five groups of the physical and mental phenomena of existence (*khandha*); in the tactile object of the twelve bases (*ayatana*); in the body-impression of the eighteen elements (*dhatu*); in the wind-element of the four material elements (*mahabhuta*); in the truth of suffering of the Four Noble Truths (*sacca*). The corporeality-group, a tactile object, a body-impression, and the truth of suffering are certainly objects for insight contemplation. Surely they are not otherwise. The rising and falling movement of the abdomen is therefore a proper object for contemplation, and while so contemplating, being aware that it is but a movement of the wind-element, subject to the laws of impermanence, suffering, and unsubstantiality, is quite in agreement with the Buddha’s discourses on *khandhas*, *ayatanas*, *dhatus*, and *saccas*. Relevant Pali passages will be shown in brief.
 
 While the abdomen is rising and falling, the pressure and movement experienced thereby is a manifestation of the wind-element which is tactile, and perceiving that rightly as such is quite in consonance with what the Buddha taught, as briefly shown below.
 
@@ -416,9 +416,7 @@ The Mahasatipatthana Sutta (*Khandha Pabba*) states:
 
 The Salayatanavagga Samyutta states:
 
-> 10. “Do you apply your minds thoroughly, bhikkhus,
-to tactile objects and regard their true nature as
-impermanent.” (*Kindred Sayings*, IV, p. 91, § 158)
+> 10. “Do you apply your minds thoroughly, bhikkhus, to tactile objects and regard their true nature as impermanent.” (*Kindred Sayings*, IV, p. 91, § 158)
 >
 > 11. “Bhikkhus, when a brother sees tactile objects which are impermanent as impermanent, this view of his is right view.” (Ibid., p. 91, § 156)
 >
@@ -436,7 +434,7 @@ The Majjhima Nikaya states:
 
 Thus it will be seen that the contemplation of the rising and the falling movement of the abdomen is in accord with the above discourse and also with the Mahasatipatthana Sutta (*Dhatumanasikara Pabba*: Attention to Elements).
 
-Again, the wind-element that causes the movement and pressure of the abdomen, comprised in the corporealitygroup, is the truth of suffering.
+Again, the wind-element that causes the movement and pressure of the abdomen, comprised in the corporeality-group, is the truth of suffering.
 
 The Saccavagga Samyutta states:
 
@@ -448,10 +446,87 @@ Mahasatipatthana Sutta (*Sacca Pabba*) states to the same effect (*Dialogues of 
 
 ## Starting with Materiality
 
+An insight meditator should start with materiality, which is more easily discernible than mentality.
 
+The Visuddhimagga states:
 
+> 18. “But one whose vehicle is insight discerns the four elements.” (Vism XVIII.5)
+>
+> 19. “And as regards those phenomena that are amenable to comprehension a beginning should be made by comprehending those among them that are obvious and easily discernible by the individual (meditator).” (Vism XX.12)
 
+The Maha-Tika, the Visuddhimagga Commentary, states:
 
+> 20. “Insight meditation begins with what is discernible. So a beginning should be made by comprehending those that are discernible. But later what is not easily discernible must somehow be made discernible and comprehended.”
+
+Depending also on the aforesaid commentarial and subcommentarial statements, instructions are given to the meditators to begin with the rising and falling movement of the abdomen with a view to facilitating their meditation. However, when concentration has been developed, contemplation should be made on whatever arises at all the six sense doors. Instructions to this effect are also given to the meditators. As instructed, the meditators can very well carry on with their contemplation. Therefore, no doubt should be entertained whether it will be sufficient to contemplate only on the rising and falling movement of the abdomen.
+
+## Contemplation at the Six Sense Doors
+
+Although contemplation must be made on whatever arises at any of the sense doors, it must not be accompanied by thoughts about it. Only bare attention is to be paid to what arises at one or the other of the six sense doors.
+
+Therefore the Salayatanavagga Samyutta states as follows:
+
+> 21. “Not impassioned is he among forms but having seen form mindfully, he experiences dispassionate mind and is not stuck with clinging. “Not impassioned is he among sounds, smells and tastes, tangibles, dhammas. But having (known) them mindfully he experiences dispassionate mind and is not stuck with clinging.” (*Kindred Sayings*, IV, p.44)
+
+Contemplating on the rising and falling of the abdomen, one who knows its pressure and movement is “not impassioned among forms but having seen form mindfully.”
+
+Again, the Salayatanavagga Samyutta states:
+
+> 22. “Bhikkhus, the all is to be fully known. What ‘all’ is to be fully known? The eye is to be fully known, visual objects are to be fully known, eye-consciousness is to be fully known, eye-contact is to be fully known, that weal or woe or neutral state experienced, which arises owing to eye-contact-that also is to be fully known. The ear is to be fully known, sounds are to be fully known … nose … scent … tongue … savors … body is to be fully known, tangibles are to be fully known … mind is to be fully known, mind-states are to be fully known….” (Ibid., p. 14, § 5)
+
+In the above passage “fully known” means the awareness of the material and mental arisings at the six sense doors. The awareness of the rising and falling movement of the abdomen is comprised in “things tangible are to be fully known.”
+
+> 23. “Bhikkhus, the eye is to be comprehended, visual objects are to be comprehended, … body is to be comprehended, tangibles are to be comprehended, … mind is to be comprehended, mind-states are to be comprehended.” (Ibid., p. 14, § 5)
+
+## Insight Meditation Without Prior Jhana
+
+It is possible to begin straightaway with insight (*vipassana*) meditation without having previously developed full concentration in jhana.
+
+The Majjhima Nikaya Commentary states:
+
+> 24. “Herein, some persons contemplate on the five aggregates of clinging as impermanent and so on without having previously developed tranquillity (*samatha*, i.e., *upacara-* and *appana-samadhi* ). This contemplation is insight meditation.”
+
+This commentarial statement shows that it is possible to start with insight meditation without having striven to achieve access and full concentration. It has been stated that one whose vehicle is insight discerns the four elements, which also goes to show this possibility. Besides, of the twenty-one parts of the Mahasatipatthana Sutta, all except those dealing with mindfulness of breathing, the reflection on the repulsiveness of the body, and the nine cemetery contemplations, show the manner of insight meditation, and so it is obvious that insight meditation is possible thereby. However, as the Commentary observes that these parts deal with access concentration contemplations, it should be understood that access concentration is developed while contemplating on the postures of the body and so on, and having overcome the five hindrances, purity of mind is attained. Therefore, of the said parts, the *Visuddhimagga* treats the reflection on the material elements concerned with insight meditation, under the heading of a meditation subject called “discerning the elements” (*dhatuvavatthana*), and points out that while one is contemplating the four elements, the hindrances are overcome and access concentration is attained. On the strength of this commentarial statement. it should be borne in mind with confidence and firmness that while one is contemplating on either all the four elements or on one, two or three of the four, access concentration can be developed, the hindrances overcome, and purity of mind attained. It is the personal experience of those who practice meditation ardently.
+
+## Purity of Mind by Access Concentration
+
+The *Abhidhammatthasangaha* states:
+
+> 25. “Purity of mind is the twofold concentration of the accessory and the ecstatic stage.” (*Compendium of Philosophy*, p. 212)
+
+The *Visuddhimagga* states:
+
+> 26. “The purification of consciousness, namely, the eight attainments, together with access concentration. …” (Vism XVIII.1)
+
+The *Maha-Tika*, the *Visuddhimagga* Commentary, states:
+
+> 27. “Access concentration being like full concentration, the base of insight meditation is as well purity of mind. That is why the Commentator (the author of *Visuddhimagga*) states ‘together with access concentration.”’
+
+It is clear from both the *Visuddhimagga* and the *Maha-Tika* that access concentration too is purity of mind.
+
+The *Visuddhimagga* again states:
+
+> 28. “When ordinary people and trainers develop it, thinking ‘After emerging from one of the eight meditative attainments we shall exercise insight with concentrated consciousness,’ the development of absorption concentration provides them with the benefit of insight by serving as the proximate cause of insight, and so too does access concentration as a method of arriving at wide open (conditions) in crowded (circumstances).” (Vism XI 123)
+
+The *Maha-Tika*, commenting on this, states:
+
+> 29. “As a method of arriving at ‘wide open’ means as a method of getting an opportunity, the ninth opportunity (the lifetime of the Buddha), for the benefit (of attainment of the path, fruition, and Nibbana). To elaborate: as it is very difficult to come across the dispensation of a Buddha, a person, terror-stricken, is so very eager to gain deliverance from samsara that he, without awaiting the attainment of full concentration, begins insight meditation, basing it only on access concentration.”
+
+These two passages show most clearly that purity of mind can be attained also by access concentration, and insight meditation is possible thereby.
+
+The Khandhavagga Samyutta states:
+
+> 30. “The five grasping groups, friend Kotthita, are the conditions which should be pondered with method by a virtuous brother, as being impermanent, suffering, sick, as an impostor, as a dart, as pain, as ill-health, as alien, as transitory, empty and soulless.
+>
+> “By a brother who is a stream-winner, friend Kotthita, it is the same five groups of grasping that should be so pondered.
+>
+> “By one who is a once-returner, … so pondered.
+> “By one who is a non-returner, … so pondered.
+> “Indeed, friend, it is possible for a virtuous brother methodically pondering these five groups of grasping, to realize the fruits of stream-winning; for a brother who is a stream-winner … to realize the fruits of once-returning; for a brother who is a once-returner … to realize the fruits of non-returning; and for a brother who is a non-returner … to realize the fruits of arahatship.” (*Kindred Sayings*, III, pp. 143-44)
+
+This Discourse on Virtue shows clearly that one who is virtuous can ponder the five grasping-groups and, by so pondering, realize by stages the fruits of stream-winning, once-returning, non-returning, and arahatship. The rising and falling movement of the abdomen is the wind-element comprised in the corporeality group. So it should be borne in mind steadfastly that the technique of meditation based on the rising and falling movement of the abdomen, and the contemplation of the five grasping-groups that arise at the six sense doors, are proper and right, leading up to the realization of the fruits of arahatship.
+
+In conclusion, special attention may be drawn to the fact that it is quite proper to contemplate on whatever is of material nature in any part of the body and that it is equally proper to contemplate on whatever is of the wind-element in any part of the body.
 
 # About the Author
 
@@ -529,11 +604,3 @@ Ven. Mahasi Sayadaw is the author of numerous works on both meditation and the B
     1. Vism XXI.126-27: “‘One who sees Nibbana, which merges in the deathless (in the sense of the end) realizes it …’ (Paþis I 35). The seeing of Nibbana at the moment of the first path is realizing as seeing (*dassana*). At the other path moments it is realizing as developing (*bhavana*).”
 
     2. *Atthasalini* (The Expositor), translated by Maung Tin: “Suppose a man who can see, is travelling along a path on a cloudy night. The path is obscured by the darkness. Lightning flashes and dispels the dark. In the absence of darkness the path becomes clear. This happens on a second journey, and again on a third journey. Here, like the man who can see his setting out on the path, so is the effort of insight put forth by the Aryan disciple for the stream-winning path. Like obliteration of the way in darkness is the darkness covering the truths. Like the moment when the lightning flashes and dispels the darkness is the moment when the light of the stream-winning path arises and dispels the darkness covering the truths. Like the manifestation of the way when darkness clears is the time of the manifestations of the four truths in the stream-winning path: and what is manifest in the path is known to the person who has got it. Like the second journey is the effort of insight to get the once-returning path... Like the third journey is the effort of insight to get the nonreturning path.”
-
----
-
-Converting to epub:
-
-```sh
-pandoc -s practical-insight-meditation.md -o 'Practical Insight Meditation (Mahasi Sayadaw).epub' --metadata title="Practical Insight Meditation: Basic and Progressive Stages" --metadata author="Mahasi Sayadaw" --epub-cover-image=pim-cover.jpg
-```
