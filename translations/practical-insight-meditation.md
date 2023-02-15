@@ -6,6 +6,47 @@ BUDDHIST PUBLICATION SOCIETY
 
 KANDY • SRI LANKA
 
+# Content
+
+<!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=6 orderedList=false} -->
+
+<!-- code_chunk_output -->
+
+- [Content](#-content)
+- [Preface](#-preface)
+- [Part I. Basic Practice](#-part-i-basic-practice)
+  - [Preparatory Stage](#-preparatory-stage)
+  - [Basic Exercise I](#-basic-exercise-i)
+  - [Basic Exercise II](#-basic-exercise-ii)
+  - [Basic Exercise III](#-basic-exercise-iii)
+  - [Advancement in Contemplation](#-advancement-in-contemplation)
+  - [Basic Exercise IV](#-basic-exercise-iv)
+  - [Summary](#-summary)
+- [Part II. Progressive Practice](#-part-ii-progressive-practice)
+  - [The Stages of Insight](#-the-stages-of-insight)
+    - [Analytical Knowledge of Body and Mind](#-analytical-knowledge-of-body-and-mind)
+    - [Knowledge by Discerning Conditionality](#-knowledge-by-discerning-conditionality)
+    - [Knowledge of Comprehension](#-knowledge-of-comprehension)
+    - [The Corruptions of Insight](#-the-corruptions-of-insight)
+    - [Mature Insight Knowledge](#-mature-insight-knowledge)
+  - [How Nibbana is Realized](#-how-nibbana-is-realized)
+    - [Path Knowledge](#-path-knowledge)
+    - [Fruition Knowledge](#-fruition-knowledge)
+    - [Reviewing](#-reviewing)
+    - [How to attain the Higher Paths](#-how-to-attain-the-higher-paths)
+    - [Advice](#-advice)
+    - [A Special Note](#-a-special-note)
+- [Appendix](#-appendix)
+  - [Techniques of Meditation](#-techniques-of-meditation)
+  - [Rising and Falling Movement of the Abdomen](#-rising-and-falling-movement-of-the-abdomen)
+  - [Starting with Materiality](#-starting-with-materiality)
+  - [Contemplation at the Six Sense Doors](#-contemplation-at-the-six-sense-doors)
+  - [Insight Meditation Without Prior Jhana](#-insight-meditation-without-prior-jhana)
+  - [Purity of Mind by Access Concentration](#-purity-of-mind-by-access-concentration)
+- [About the Author](#-about-the-author)
+
+<!-- /code_chunk_output -->
+
 # Preface
 
 It is a truism that nobody likes suffering and everybody seeks happiness. In this world of ours, human beings make all possible efforts to prevent and alleviate suffering and to enjoy happiness. Nevertheless, their efforts are mainly directed to obtaining their physical well-being by material means. Happiness, however, is conditioned by attitudes of mind, and yet only a few persons give real thought to mental development, while fewer still practice mind-training in earnest.
@@ -285,9 +326,9 @@ On the other hand, if may anticipate further advance. He will become so delighte
 
 In spite of such fluctuation in his progress the meditator must not allow himself to be overcome by disappointment or despair. He is now, as it were, at the threshold of the path and fruit. As soon as the five faculties (indriya) of faith, energy, mindfulness, concentration, and wisdom are developed in an even manner, he will soon reach the path and fruit and realize Nibbana.[^21]
 
-### How Nibbana is Realized
+## How Nibbana is Realized
 
-#### Path Knowledge
+### Path Knowledge
 
 The ups and downs of insight knowledge occurring in the aforesaid manner are comparable to a bird let loose from a sea-going ship. In ancient times the captain of a sea-going ship, finding it difficult to know whether the ship was approaching land, released a bird that he had taken with him. The bird flew in all four directions to look for the shore. Whenever it could not find any land, it came back to the ship. So long as insight knowledge is not mature enough to grow into path and fruition knowledge and thereby attain to the realization of Nibbana, it becomes lax and retarded, just as the bird returns to the ship.
 
@@ -307,7 +348,7 @@ Thus far I have described the method of meditation, the progressive stages of in
 
 One who has attained the knowledge of path and fruition is aware of the distinct change of his temperament and mental attitude and feels that his life has changed. His faith or trustful confidence in the Three Sacred Gems becomes very strong and firm. Due to this strengthened faith he also gains in rapture and serenity. There arises in him a spontaneous upsurge of happiness. Because of these ecstatic experiences he cannot notice the objects in a distinct manner even though he endeavors to do so right after the attainment of the path and fruit. However, these experiences wane gradually after some hours or days, and he will then be able again to notice the formations distinctly. In some cases, meditators who have attained the path and fruit feel relieved of a great burden, free and easy, and do not wish to go on contemplating. Their object, the attainment of the path and fruit, has been achieved and their hearts’ contentment is understandable.
 
-#### Fruition Knowledge
+### Fruition Knowledge
 
 If one who has attained the path and fruit wishes to attain the knowledge of fruition (*phala-nana*) and to realize Nibbana once again, he must direct his mind towards that goal and again attend to noticing mindfully the bodily and mental processes. In the course of insight meditation it is only natural that analytical knowledge of body and mind appears first to a worldling (*puthujjana*) and knowledge of arising and passing away appears first to a noble person (*ariya*). Therefore a meditator at this stage, conscious of the bodily and mental processes, will immediately achieve knowledge of arising and passing away, followed soon by the other progressive stages of insight, up to knowledge of equanimity about formations. When this knowledge matures, the cessation of formations, Nibbana, is reached with the resultant knowledge of fruition.
 
@@ -319,7 +360,7 @@ A note of warning may be given here. The meditator should make a prior resolve o
 
 This is a description of the process of fruition knowledge.
 
-#### Reviewing
+### Reviewing
 
 Some meditators pass quickly through the stages of the knowledge of fearfulness, misery, disgust, and desire for deliverance, and consequently have no clear view of them. So, if one wishes to review them, one should review each of them for a fixed time. For example, for half an hour or one hour one should pay heed only to the arising and passing away of the objects, with a resolve on the knowledge of arising and passing away. During that period the knowledge of arising and passing away remains intact, and there will be no further progress of insight. However, when that time is up, knowledge of dissolution arises by itself. If it does not arise then, attention should be given to dissolution with a resolve that knowledge of dissolution should persist for a certain time. During that period what has been resolved upon will occur.
 
@@ -327,7 +368,7 @@ On the expiry of the time fixed, the next higher knowledge will arise by itself.
 
 When one inclines towards the next higher stage, one will experience pains, wish to change postures, and become disturbed by a feeling of dissatisfaction, but will gain knowledge of re-observation. Then, the meditator must turn his mind to the knowledge of equanimity. The momentum of contemplation will go on until there arises smoothly the knowledge of re-observation. In this way, one will find that during the stipulated time, while one is noticing, the particular knowledge one aspires to arises and on its expiry the next higher knowledge arises, as if it were a rise of the barometer. If a review of the above-mentioned knowledges is not yet satisfactory, it should be repeated until one is satisfied. To a very ardent meditator the progress is so very swift that he may reach the stage of knowledge of equanimity about formations in a few moments, as also the stage of fruition knowledge. One who is well matured in the practice can attain to fruition knowledge while walking or having a meal.
 
-#### How to attain the Higher Paths
+### How to attain the Higher Paths
 
 When the meditator gets full satisfaction from the exercises to attain speedily the fruition knowledge of the first path, as also to abide therein for a long time, he should strive to attain the higher paths. He must then make an ardent wish in this manner, having determined a definite period for striving: “During this period I do not wish to experience the fruition knowledge. May there be no recurrence of that knowledge! May I attain to the higher path, the path I have not yet attained! May I reach that goal!” With this ardent wish, he should, as usual, notice bodily and mental processes.
 
@@ -351,11 +392,11 @@ Though this is so, without the utmost effort to develop one’s powers one canno
 
 The meditator should bear in mind the following undeniable point and put forth utmost effort to achieve his aspiration: “Even the development of *paramitas* is not possible without effort. Granted that one has fully developed *paramitas*, he cannot possibly attain any path without effort. Such a person can attain a path easily and speedily if he puts forth effort. If he has developed *paramitas* to an appreciable extent, his effort will lead to their maturity and consequently he can attain the path he aspires to. At the least, he has sown potent seeds for the harvest of a path in the next existence.”
 
-#### Advice
+### Advice
 
 In these times when the Buddha Sasana still exists, those who are most ardent and keen to work for their own deliverance from the ills of the world and the attainment of path, fruit, and Nibbana, which is the highest goal of *vipassana* (insight) meditation, will be well advised to practice in the above way the contemplations of body, feelings, consciousness, and mental objects, otherwise called Satipatthana meditation. It is, indeed, necessary for them.
 
-#### A Special Note
+### A Special Note
 
 The technique of insight meditation outlined in this treatise is quite sufficient for persons of fair intelligence. Such persons, having read it, should practice these contemplations with firm, keen desire, and great diligence in a methodical manner and they can be sure of progress. It must, however, be pointed out that the details of the experiences and the progressive stages of insight gone through by meditators cannot possibly be described in full in this short treatise. There still remains much that is worthy of description. On the other hand, what has been described here is not experienced totally by every meditator. There are bound to be differences according to one’s capabilities and *paramitas*. Again, one’s faith, desire, and diligence do not remain constant always. Furthermore, a meditator, having no instructor and being entirely dependent on book knowledge, will be as cautious and hesitant as a traveler who has never been on a particular journey. Therefore, it is obviously not very easy for such a person to attain the paths, fruitions, and Nibbana if he goes on striving without a teacher to guide and encourage him.
 
@@ -552,13 +593,13 @@ Ven. Mahasi Sayadaw is the author of numerous works on both meditation and the B
 [^2]: There are four noble individuals (*ariya-puggala*). They are those who have obtained the paths and fruits:
 
     (1) The stream-winner (*sotapanna*) is one who has become free from the first three of the ten fetters which bind beings to the sensuous sphere, namely, personality belief, skeptical doubt, and attachment to mere rules and rituals.
-    
+
     (2) The once-returner (*sakadagami*) has weakened the fourth and fifth of the ten fetters, sensuous craving and ill will.
-    
+
     (3) The non-returner (*anagami*) becomes fully free from the above-mentioned five lower fetters and is no longer reborn in the sensuous sphere.
-    
+
     (4) Through the path of Arahant one further becomes free of the last five fetters: craving for fine-material existence (in celestial worlds), craving for immaterial (purely mental) existence, conceit, restlessness, and ignorance.
-    
+
     For a full explanation see *Buddhist Dictionary* by Nyanatiloka Mahathera, or his *Word of the Buddha*.
 
 [^3]: The thirty-two parts of the body, as used in body contemplation, are: head hair, body hair, nails, teeth, skin, flesh, sinews, bones, marrow, kidney, heart, liver, diaphragm, spleen, lungs, intestines, mesentery, stomach, excrement, bile, phlegm, pus, blood, sweat, lymph, tears, serum, saliva, nasal mucus, synovial fluid, urine, brain. For details of this meditation see *The Path of Purification* (*Visuddhimagga*, abbreviated as Vism.) by Acariya Buddhaghosa, translated by Bhikkhu Nanamoli, VIII.8.
