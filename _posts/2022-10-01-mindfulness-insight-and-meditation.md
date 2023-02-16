@@ -33,6 +33,10 @@ When we concentrate on something, our attention is constantly kept on it without
 
 At the beginning stage of meditation, to guarantee awareness, mental labeling what is aware of will be helpful. But this technique is not essential; and if you feel uncomfortable with it, simply keep awareness without any mental label. Being aware is what is essential.
 
+### Relation with Buddhism
+
+In (Theravada) Buddhism, the goal is to penetrate into the body-mind process to access the three specific insights: impermanence, suffering, and no-self. Again, to gain insight, mindfulness and, thus, meditation are essential.
+
 ## References
 
 - _Consciousness and the Brain_, by Stanislas Dehaene. ISBN: [9780670025435](https://isbnsearch.org/isbn/9780670025435).
