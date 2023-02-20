@@ -21,7 +21,7 @@ If all that have been perceived are known, then the brain will learn what are co
 
 **_Meditation_ is the progressive practice aiming to train the attention to become mindful.** The working principle here is the very fact that human brain cannot perceive two distinct objects at the same time.[^brain-perception] Once the awareness becomes continuous, there's no place for things that are perceived without awareness. [^model]
 
-Briefly, meditation rests us in a continuous state of observation or noticing on what is prominently perceived at the six sense doors, such that there's almost no period during which awareness is absent. With repeated practice, awareness becomes continuous without any effort. No matter what you are doing, attending to the objects to be noticed, awareness appears as if falling upon these objects, as if striking at them, without a break. In this situation, the mind won't miss anything that comes to it (through the six sense doors); and the details of things are revealed to mind on their own. The chapter "Basic Practice" of _Practical Insight Meditation_ concisely and sufficiently illustrates how meditation is performed in detail.
+Briefly, meditation rests us in a continuous state of observation or noticing on what is prominently perceived at the six sense doors, such that there's almost no period during which awareness is absent. With repeated practice, awareness becomes continuous without any effort. No matter what you are doing, attending to the objects to be noticed, awareness appears as if falling upon these objects, as if striking at them, without a break. In this situation, the mind won't miss anything that comes to it (through the six sense doors); and the details of things are revealed to mind on their own. The article _Satipatthana Vipassana_ concisely and sufficiently illustrates how meditation is performed in detail.
 
 ## FAQ
 
@@ -45,7 +45,7 @@ In (Theravada) Buddhism, the goal is to penetrate into the body-mind process to 
 - _What is Hypnosis?_, by François Roustang, translated by Anne Vila.
 - _A Manual of Abhidhamma_, translated by Narada Maha Thera. ISBN: [9679920429](https://isbnsearch.org/isbn/9679920429). You can download the PDF from [internet](http://www.buddhanet.net/pdf_file/abhidhamma.pdf).
 - _The Mind Illuminated_, by John Yates, Matthew Immergut, and Jeremy Graves. ISBN: [1501156985](https://isbnsearch.org/isbn/1501156985).
-- _Practical Insight Meditation_, by Mahasi Sayadaw, translated by U Pe Thin and Myanaung U Tin. ISBN: [9552400899](https://isbnsearch.org/isbn/9552400899). You can download the PDF from [internet](https://www.bps.lk/olib/bp/bp503s_Mahasi_Practical-Insight-Meditation.pdf).
+- _Satipatthana Vipassana_, by Mahasi Sayadaw, translated by U Pe Thin. You can find it on [internet](https://www.accesstoinsight.org/lib/authors/mahasi/wheel370.html).
 
 [^convention]: Throughout this note, italics is employed in two cases:
   
