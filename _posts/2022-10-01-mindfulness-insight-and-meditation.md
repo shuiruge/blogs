@@ -9,7 +9,7 @@ When something is _perceived_, it affects us.[^be-perceived-and-affected] The mo
 
 We can only perceive things through our eyes, ears, nose, tongue, body, and mind.[^body-and-mind] These six sense organs are, thus, called the _six sense doors_.[^doors]
 
-**_Mindfulness_ is the attention that can be aware of[^be-aware-of] what is being perceived at all the six sense doors in every moment.**[^Tejaniya] It's stable, effortless, spacious, and sharp. It efficiently collects information without missing anything that affects us.
+**_Mindfulness_ is the attention that can be aware of[^be-aware-of] what is being perceived at all the six sense doors in every moment.**[^Tejaniya-etc] It's stable, effortless, spacious, and sharp. It efficiently collects information without missing anything that affects us.
 
 ## Insight
 
@@ -42,13 +42,14 @@ In (Theravada) Buddhism, the goal is to penetrate into the body-mind process to 
 - _Consciousness and the Brain_, by Stanislas Dehaene. ISBN: [9780670025435](https://isbnsearch.org/isbn/9780670025435).
 - _Progress of Insight_, by Mahasi Sayadaw, translated and noted by Nyanaponika Thera. ISBN: [9552400902](https://isbnsearch.org/isbn/9552400902). You can find it on [internet](https://www.accesstoinsight.org/lib/authors/mahasi/progress.html).
 - _When Awareness Becomes Natural_, by Sayadaw U Tejaniya. ISBN: [1611803071](https://isbnsearch.org/isbn/1611803071).
+- _Manual of Insight_, By Mahasi Sayadaw. ISBN: [9781614292777](https://isbnsearch.org/isbn/9781614292777).
 - _What is Hypnosis?_, by François Roustang, translated by Anne Vila.
 - _A Manual of Abhidhamma_, translated by Narada Maha Thera. ISBN: [9679920429](https://isbnsearch.org/isbn/9679920429). You can download the PDF from [internet](http://www.buddhanet.net/pdf_file/abhidhamma.pdf).
 - _The Mind Illuminated_, by John Yates, Matthew Immergut, and Jeremy Graves. ISBN: [1501156985](https://isbnsearch.org/isbn/1501156985).
 - _Satipatthana Vipassana_, by Mahasi Sayadaw, translated by U Pe Thin. You can find it on [internet](https://www.accesstoinsight.org/lib/authors/mahasi/wheel370.html).
 
 [^convention]: Throughout this note, italics is employed in two cases:
-  
+
     - for books and articles, which are listed in the "References" section;
     - for defining proper nouns, usually at the place where they first appear in the text. Note that these words have different meanings than they do in everyday speech.
 
@@ -66,9 +67,13 @@ In (Theravada) Buddhism, the goal is to penetrate into the body-mind process to 
 
 [^be-aware-of]: When we are aware of something, we simply know it, realizing its appearance, as if saying "Ah! It comes". It's effortless.
 
-[^Tejaniya]: At the end of _When Awareness Becomes Natural_, Sayadaw U Tejaniya provided a concise declaration:
+[^Tejaniya-etc]: At the end of _When Awareness Becomes Natural_, Sayadaw U Tejaniya provided a concise declaration:
 
     > Your work is to be gently aware of what is being perceived at all your sense doors in this moment. That is all!
+
+    Also in the chapter “Practical Instructions” of _Manual of Insight_:
+
+    > True insight practice is an awareness of all of the mental and physical phenomena that constantly arise at the six sense doors.
 
 [^brain-learning]: It's the experiential materials that human brain learns autonomously and efficiently. Textual materials, however, can't be so, since they are absent during the evolution of human brain. For example, as we all know, the best way of learning a new language is encoding them to experiential materials.
 
@@ -86,16 +91,16 @@ In (Theravada) Buddhism, the goal is to penetrate into the body-mind process to 
 
 [^brain-perception]: In the chapter "Analysis of Thought-Processes" of _A Manual of Abhidhamma_, a Theravada Buddhist perspective to this fact was explained. A very accessible illustration can be found in the chapter "The Moments of Consciousness Model" of _The Mind Illuminated_.
 
-[^model]: For illustrating the continuous awareness, consider a (maybe over-) simplified model. Since human brain cannot perceive two distinct objects at the same time, perception of objects must be a temporal sequence of single object, as 
+[^model]: For illustrating the continuous awareness, consider a (maybe over-) simplified model. Since human brain cannot perceive two distinct objects at the same time, perception of objects must be a temporal sequence of single object, as
 
         ⋯ → object A → object A → object B → object C → ⋯.
-    
+
     Continuous awareness is, thus, like
-    
+
         ⋯ → object A → aware of A → object A → aware of A → object B → aware of B → ⋯,
 
     as if being a monitor of perception. This very fact of human brain excludes the pattern like
-    
+
         ⋯ → object A → aware of A + object B → object C → ⋯,
 
     where the "aware of A" and the "object B" are perceived at the same time (unit), so that the later is unaware.
