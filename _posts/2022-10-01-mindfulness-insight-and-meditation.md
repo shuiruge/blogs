@@ -89,7 +89,7 @@ In (Theravada) Buddhism, the goal is to penetrate into the body-mind process to 
 
     Contrarily, if you were trapped in the anxious feeling, or in the complaints, you would not be aware of what's going on in your body and mind. In this situation, the brain wouldn't learn. And, in the next time, you would repeat this failure.
 
-[^time-unit]: The words "time unit" indicates that perceptive process is temporally discrete, cosisting of a sequence of time unit, and that the duration of each unit cannot be arbitrarily small. Indeed, it's based on this fact that movies are produced.
+[^time-unit]: The words "time unit" indicates that perceptive process is temporally discrete, consisting of a sequence of time unit, and that the duration of each unit cannot be arbitrarily small. Indeed, it's based on this fact that movies are produced.
 
 [^brain-perception]: In the chapter "Analysis of Thought-Processes" of _A Manual of Abhidhamma_, a Theravada Buddhist perspective to this fact was explained. A very accessible illustration can be found in the chapter "The Moments of Consciousness Model" of _The Mind Illuminated_.
 
