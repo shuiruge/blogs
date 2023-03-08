@@ -106,14 +106,10 @@ In (Theravada) Buddhism, the goal is to penetrate into the body-mind process to 
 
     In the chapter "Analysis of Thought-Processes" of _A Manual of Abhidhamma_, a Theravada Buddhist perspective to this very fact was explained. A very accessible illustration can be found in the chapter "The Moments of Consciousness Model" of _The Mind Illuminated_.
 
-[^continuous-awareness]: Continuous awareness is like
+[^continuous-awareness]: Perceptive process with continuous awareness is like
 
         ⋯ → object A → aware of A → object B → aware of B → ⋯,
 
-    as if monitoring the perceptive process. This very fact of human brain excludes the patterns like
-
-        ⋯ → object A → aware of A + object B → object C → aware of C → ⋯,
-
-    where the awareness of A and the object B are perceived at the same time unit, so that the later is unaware.
+    as if monitoring the perceptive process. During a time unit, once awareness arises, other objects are excluded. So, with continuous awareness, all that are perceived can be realized.
 
 ---
