@@ -19,7 +19,7 @@ If all that have been perceived are known, then the brain will learn what are co
 
 ## Meditation
 
-**_Meditation_ is the progressive practice aiming to train the attention to become mindful.** The working principle here is the very fact that human brain cannot perceive two distinct objects at the same time unit.[^time-unit][^brain-perception] Once the awareness becomes continuous, there's no place for things that are perceived without awareness. [^model]
+**_Meditation_ is the progressive practice aiming to train the attention to become mindful.** The working principle here is the very fact that human brain cannot perceive two distinct objects at the same time unit[^time-unit].[^brain-perception] Once the awareness becomes continuous, there's no place for things that are perceived without awareness. [^model]
 
 Briefly, meditation rests us in a continuous state of observation or noticing on what is prominently perceived at the six sense doors, such that there's almost no period during which awareness is absent. With repeated practice, awareness becomes continuous without any effort. No matter what you are doing, attending to the objects to be noticed, awareness appears as if falling upon these objects, as if striking at them, without a break. In this situation, the mind won't miss anything that comes to it (through the six sense doors); and the details of things are revealed to mind on their own. The article _Satipatthana Vipassana_ concisely and sufficiently illustrates how meditation is performed in detail.
 
@@ -89,7 +89,7 @@ In (Theravada) Buddhism, the goal is to penetrate into the body-mind process to 
 
     Contrarily, if you were trapped in the anxious feeling, or in the complaints, you would not be aware of what's going on in your body and mind. In this situation, the brain wouldn't learn. And, in the next time, you would repeat this failure.
 
-[^time-unit]: The words "time unit" indicates that perception is a temporally discrete process with finite precision. Indeed, it's based on this fact that movies are produced.
+[^time-unit]: The words "time unit" indicates that perceptive process is temporally discrete, cosisting of a sequence of time unit, and that the duration of each unit cannot be arbitrarily small. Indeed, it's based on this fact that movies are produced.
 
 [^brain-perception]: In the chapter "Analysis of Thought-Processes" of _A Manual of Abhidhamma_, a Theravada Buddhist perspective to this fact was explained. A very accessible illustration can be found in the chapter "The Moments of Consciousness Model" of _The Mind Illuminated_.
 
