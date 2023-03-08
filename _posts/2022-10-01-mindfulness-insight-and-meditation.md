@@ -110,6 +110,6 @@ In (Theravada) Buddhism, the goal is to penetrate into the body-mind process to 
 
         ⋯ → object A → aware of A → object B → aware of B → ⋯,
 
-    as if monitoring the perceptive process. During a time unit, once awareness arises, other objects are excluded. So, with continuous awareness, all that are perceived can be realized.
+    as if monitoring the perceptive process. During a time unit, once awareness arises, other objects will be excluded. So, with continuous awareness, all that are perceived can be realized.
 
 ---
