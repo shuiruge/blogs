@@ -44,7 +44,6 @@ In (Theravada) Buddhism, the goal is to penetrate into the body-mind process to 
 - _When Awareness Becomes Natural_, by Sayadaw U Tejaniya. ISBN: [1611803071](https://isbnsearch.org/isbn/1611803071).
 - _Manual of Insight_, By Mahasi Sayadaw. ISBN: [9781614292777](https://isbnsearch.org/isbn/9781614292777).
 - _What is Hypnosis?_, by François Roustang, translated by Anne Vila.
-- _A Manual of Abhidhamma_, translated by Narada Maha Thera. ISBN: [9679920429](https://isbnsearch.org/isbn/9679920429). You can download the PDF from [internet](http://www.buddhanet.net/pdf_file/abhidhamma.pdf).
 - _The Mind Illuminated_, by John Yates, Matthew Immergut, and Jeremy Graves. ISBN: [1501156985](https://isbnsearch.org/isbn/1501156985).
 - _Satipatthana Vipassana_, by Mahasi Sayadaw, translated by U Pe Thin. You can find it on [internet](https://www.accesstoinsight.org/lib/authors/mahasi/wheel370.html).
 
@@ -89,7 +88,7 @@ In (Theravada) Buddhism, the goal is to penetrate into the body-mind process to 
 
     Contrarily, if you were trapped in the anxious feeling, or in the complaints, you would not be aware of what's going on in your body and mind. In this situation, the brain wouldn't learn. And, in the next time, you would repeat this failure.
 
-[^brain-perception]: Subliminal consists of many individual modules, concurrently processing information that come from inner and outer worlds. An *object* in the perceptive process is a pack of processed information projected into the consciousness from a module of subliminal. It's projected so that other modules can receive the information, which is the only way that information can be communicated between modules. And it's in this way that an object is perceived.
+[^brain-perception]: Subliminal consists of many individual modules, concurrently processing information that come from inner and outer worlds. An _object_ in the perceptive process is a pack of processed information projected into the consciousness from a module of subliminal. It's projected so that other modules can receive the information, which is the only way that information can be communicated between modules. And it's in this way that an object is perceived.
 
     The consciousness is exclusive. If an object has been projected into it, other objects cannot not occupy the consciousness until the current object passes away. And the consumption of the projected object needs time, duration of which cannot be arbitrarily short, but finitely limited.
 
@@ -103,7 +102,7 @@ In (Theravada) Buddhism, the goal is to penetrate into the body-mind process to 
 
     where the objects B, C, and D are perceived altogether, are excluded.
 
-    In the chapter "Analysis of Thought-Processes" of _A Manual of Abhidhamma_, a Theravada Buddhist perspective to this very fact was explained. A very accessible illustration can be found in the chapters "The Moments of Consciousness Model" and "The Mind-System" of _The Mind Illuminated_.
+    A very accessible illustration can be found in the chapters "The Moments of Consciousness Model" and "The Mind-System" of _The Mind Illuminated_. See also the chapter "The Signatures of a Conscious Thought" of _Consciousness and the Brain_.
 
 [^continuous-awareness]: Perceptive process with continuous awareness is like
 
