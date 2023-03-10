@@ -89,7 +89,7 @@ In (Theravada) Buddhism, the goal is to penetrate into the body-mind process to 
 
     Contrarily, if you were trapped in the anxious feeling, or in the complaints, you would not be aware of what's going on in your body and mind. In this situation, the brain wouldn't learn. And, in the next time, you would repeat this failure.
 
-[^brain-perception]: Subliminal consists of many individual modules, concurrently processing information that come from inner and outer worlds. An *object* in the perceptive process is a pack of information projected into the consciousness from a module of subliminal. It's projected so that other modules can receive the information. And it's in this way the object is perceived.
+[^brain-perception]: Subliminal consists of many individual modules, concurrently processing information that come from inner and outer worlds. An *object* in the perceptive process is a pack of processed information projected into the consciousness from a module of subliminal. It's projected so that other modules can receive the information, which is the only way that information can be communicated between modules. And it's in this way that an object is perceived.
 
     The consciousness is exclusive. If an object has been projected into it, other objects cannot not occupy the consciousness until the current object passes away. And the consumption of the projected object needs time, duration of which cannot be arbitrarily short, but finitely limited.
 
