@@ -89,27 +89,26 @@ In (Theravada) Buddhism, the goal is to penetrate into the body-mind process to 
 
     Contrarily, if you were trapped in the anxious feeling, or in the complaints, you would not be aware of what's going on in your body and mind. In this situation, the brain wouldn't learn. And, in the next time, you would repeat this failure.
 
-[^brain-perception]: The strict statement of this very fact is two-fold:
+[^brain-perception]: Subliminal consists of many individual modules, concurrently processing information that come from inner and outer worlds. An *object* in the perceptive process is a pack of information projected into the consciousness from a module of subliminal. It's projected so that other modules can receive the information. And it's in this way the object is perceived.
 
-    1. the perceptive process of human brain consists of a sequence of time unit, the duration of which cannot be arbitrarily short, but finitely limited; and
-    2. during every time unit, at most one object can be perceived by human brain.
+    The consciousness is exclusive. If an object has been projected into it, other objects cannot not occupy the consciousness until the current object passes away. And the consumption of the projected object needs time, duration of which cannot be arbitrarily short, but finitely limited.
 
     So, the perceptive process must be a temporal sequence like
 
-        ⋯ → object A → object A → object B → void → object C → ⋯,
+        ⋯ → object A → object A → object B → nothing → object C → ⋯,
 
-    where each object or void occupies one time unit; and patterns like
+    during which each object, or nothing, is projected into the consciousness and occupies a time quantum; and patterns like
 
         ⋯ → object A → object B + object C + object D → object E → ⋯,
 
-    where the objects B, C, and D are perceived at the same time unit, are excluded.
+    where the objects B, C, and D are perceived altogether, are excluded.
 
-    In the chapter "Analysis of Thought-Processes" of _A Manual of Abhidhamma_, a Theravada Buddhist perspective to this very fact was explained. A very accessible illustration can be found in the chapter "The Moments of Consciousness Model" of _The Mind Illuminated_.
+    In the chapter "Analysis of Thought-Processes" of _A Manual of Abhidhamma_, a Theravada Buddhist perspective to this very fact was explained. A very accessible illustration can be found in the chapters "The Moments of Consciousness Model" and "The Mind-System" of _The Mind Illuminated_.
 
 [^continuous-awareness]: Perceptive process with continuous awareness is like
 
         ⋯ → object A → aware of A → object B → aware of B → ⋯,
 
-    as if monitoring the perceptive process. During a time unit, once awareness arises, other objects will be excluded. So, with continuous awareness, all that are perceived can be realized.
+    as if monitoring the perceptive process. During a time quantum, once awareness arises, other objects will be excluded. So, with continuous awareness, all that are perceived can be realized.
 
 ---
