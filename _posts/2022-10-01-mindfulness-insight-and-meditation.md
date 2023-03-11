@@ -90,7 +90,7 @@ In (Theravada) Buddhism, the goal is to penetrate into the body-mind process to 
 
 [^brain-perception]: Subliminal consists of many individual modules, concurrently processing information that come from inner and outer worlds. An _object_ in the perceptive process is a pack of processed information projected into the consciousness from a module of subliminal. It's projected so that other modules can receive the information, which is the only way that information can be communicated between modules. And it's in this way that an object is perceived.
 
-    The consciousness is exclusive. If an object has been projected into it, other objects cannot not occupy the consciousness until the current object passes away. And the consumption of the projected object needs time, duration of which cannot be arbitrarily short, but finitely limited.
+    The consciousness is exclusive. If an object has been projected into it, other objects cannot not occupy the consciousness until the current object passes away. And the consumption of the projected object needs time, duration of which cannot be arbitrarily short, but finitely limited. This is plausible, since if two or more packs of processed information from different modules are projected into consciousness at the same time, they will overlap so that the information cannot be effectively received by other modules.
 
     So, the perceptive process must be a temporal sequence like
 
