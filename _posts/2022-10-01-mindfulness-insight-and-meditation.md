@@ -102,7 +102,7 @@ In (Theravada) Buddhism, the goal is to penetrate into the body-mind process to 
 
     where the objects B, C, and D are perceived altogether, are excluded.
 
-    A very accessible illustration can be found in the chapters "The Moments of Consciousness Model" and "The Mind-System" of _The Mind Illuminated_. See also the chapter "The Signatures of a Conscious Thought" of _Consciousness and the Brain_.
+    A very accessible illustration can be found in the chapters "The Moments of Consciousness Model" and "The Mind-System" of _The Mind Illuminated_. Extensive and comprehensive experimental and theoretical discussions, and even numerical simulations, can be found in the chapter "Theorizing Consciousness" of _Consciousness and the Brain_ and the references therein.
 
 [^continuous-awareness]: Perceptive process with continuous awareness is like
 
