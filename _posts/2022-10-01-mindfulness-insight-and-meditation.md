@@ -2,7 +2,6 @@
 layout: blog-post
 title: Mindfulness, Insight, and Meditation
 ---
-
 ## Mindfulness[^convention]
 
 When something is _perceived_, it affects us.[^be-perceived-and-affected] The more it affects us, the more prominent it is perceived.
@@ -102,7 +101,7 @@ In (Theravada) Buddhism, the goal is to penetrate into the body-mind process to 
 
     where the objects B, C, and D are perceived altogether, are excluded.
 
-    A very accessible illustration can be found in the chapters "The Moments of Consciousness Model" and "The Mind-System" of _The Mind Illuminated_. Extensive and comprehensive experimental and theoretical discussions, and even numerical simulations, can be found in the chapter "Theorizing Consciousness" of _Consciousness and the Brain_ and the references therein.
+    A very accessible illustration can be found in the chapters "The Moments of Consciousness Model" and "The Mind-System" of _The Mind Illuminated_. Extensive and comprehensive experimental and theoretical discussions, and even numerical simulations, can be found in the chapter "Theorizing Consciousness" of _Consciousness and the Brain_ and the references therein. For the modularity and concurrency of subliminal, see the chapter "What Is Consciousness Good For" of the same book.
 
 [^continuous-awareness]: Perceptive process with continuous awareness is like
 
