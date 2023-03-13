@@ -43,7 +43,6 @@ In (Theravada) Buddhism, the goal is to penetrate into the body-mind process to 
 - _When Awareness Becomes Natural_, by Sayadaw U Tejaniya. ISBN: [1611803071](https://isbnsearch.org/isbn/1611803071).
 - _Manual of Insight_, By Mahasi Sayadaw. ISBN: [9781614292777](https://isbnsearch.org/isbn/9781614292777).
 - _What is Hypnosis?_, by François Roustang, translated by Anne Vila.
-- _The Mind Illuminated_, by John Yates, Matthew Immergut, and Jeremy Graves. ISBN: [1501156985](https://isbnsearch.org/isbn/1501156985).
 - _Satipatthana Vipassana_, by Mahasi Sayadaw, translated by U Pe Thin. You can find it on [internet](https://www.accesstoinsight.org/lib/authors/mahasi/wheel370.html).
 
 [^convention]: Throughout this note, italics is employed in two cases:
@@ -101,7 +100,7 @@ In (Theravada) Buddhism, the goal is to penetrate into the body-mind process to 
 
     where the objects B, C, and D are perceived altogether, are excluded.
 
-    A very accessible illustration can be found in the chapters "The Moments of Consciousness Model" and "The Mind-System" of _The Mind Illuminated_. Extensive and comprehensive experimental and theoretical discussions, and even numerical simulations, can be found in the chapter "Theorizing Consciousness" of _Consciousness and the Brain_ and the references therein. For the modularity and concurrency of subliminal, see the chapter "What Is Consciousness Good For" of the same book.
+    For this very fact, extensive and comprehensive experimental and theoretical illustrations, and even numerical simulations, can be found in the chapter "Theorizing Consciousness" of _Consciousness and the Brain_ and the references therein. And for the modularity and concurrency of subliminal, see the chapter "What Is Consciousness Good For" of the same book.
 
 [^continuous-awareness]: Perceptive process with continuous awareness is like
 
