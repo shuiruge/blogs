@@ -52,7 +52,7 @@ In (Theravada) Buddhism, the goal is to penetrate into the body-mind process to 
 
 [^be-perceived-and-affected]: Indeed, when a sound is perceived, we become capable of thinking about the sound; an intention to walk makes the body start walking; and walking leads to a constant change in posture accompanied by a series of mental activities in order to reach the destination. Contrarily, when we plug the ears, so that sound cannot be perceived, it leaves no effect on us.
 
-    According to the chapter "What Is Consciousness Good For?" of _Consciousness and the Brain_, at the level of neuroscience, there're two types of perception. One is purely subliminal, such as unconditioned reflex. The other involves consciousness. Both of them can affect us. But, since subliminal is transient and locally restricted in human brain, leaving no impression on memory, it's incapable of making decision, such as intending to walk, and implastic. So, throughout this note, we only consider the things that are perceived with consciousness involved.
+    According to the chapter "What Is Consciousness Good For?" of _Consciousness and the Brain_, at the level of neuroscience, there're two types of perception, either with or without consciousness. Both of them can affect us. But, since the unconscious is transient and locally restricted in human brain, leaving no impression on memory, it's incapable of making decision, such as intending to walk, and is implastic. So, throughout this note, we only consider the things that are perceived with consciousness involved.
 
     So, when something is perceived, it affects us in the following way. It first affects our mental or conscious state, which in turn arouses bodily or/and mental activities.
 
@@ -86,7 +86,9 @@ In (Theravada) Buddhism, the goal is to penetrate into the body-mind process to 
 
     Contrarily, if you were trapped in the anxious feeling, or in the complaints, you would not be aware of what's going on in your body and mind. In this situation, the brain wouldn't learn. And, in the next time, you would repeat this failure.
 
-[^brain-perception]: Subliminal consists of many individual modules, concurrently processing information that come from inner and outer worlds. An _object_ in the perceptive process is a pack of processed information projected into the consciousness from a module of subliminal. It's projected so that other modules can receive the information, which is the only way that information can be communicated between modules. And it's in this way that an object is perceived.
+[^brain-perception]: This very fact has details as follow.
+
+    The unconscious consists of many individual modules, concurrently processing information that come from inner and outer worlds. An _object_ in the perceptive process is a pack of processed information projected into the consciousness from a module of the unconscious. It's projected so that other modules can receive the information, which is the only way that information can be communicated between modules. And it's in this way that an object is perceived.
 
     The consciousness is exclusive. If an object has been projected into it, other objects cannot not occupy the consciousness until the current object passes away. And the consumption of the projected object needs time, duration of which cannot be arbitrarily short, but finitely limited. This is plausible, since if two or more packs of processed information from different modules are projected into consciousness at the same time, they will overlap so that the information cannot be effectively received by other modules.
 
@@ -100,7 +102,7 @@ In (Theravada) Buddhism, the goal is to penetrate into the body-mind process to 
 
     where the objects B, C, and D are perceived altogether, are excluded.
 
-    For this very fact, extensive and comprehensive experimental and theoretical illustrations, and even numerical simulations, can be found in the chapter "Theorizing Consciousness" of _Consciousness and the Brain_ and the references therein. And for the modularity and concurrency of subliminal, see the chapter "What Is Consciousness Good For" of the same book.
+    For this very fact, extensive and comprehensive experimental and theoretical illustrations, and even numerical simulations, can be found in the chapter "Theorizing Consciousness" of _Consciousness and the Brain_ and the references therein. And for the modularity and concurrency of the unconscious, see the chapter "What Is Consciousness Good For" of the same book.
 
 [^continuous-awareness]: Perceptive process with continuous awareness is like
 
