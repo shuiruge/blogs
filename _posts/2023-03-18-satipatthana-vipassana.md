@@ -3,7 +3,7 @@ layout: blog-post
 title: 念住内观
 ---
 
-# 念住内观[^origin][^convention]
+# 念住内观（初译）[^origin][^convention]
 
 [^origin]: 原文见[《Satipatthana Vipassana》](https://www.accesstoinsight.org/lib/authors/mahasi/wheel370.html)。
 
