@@ -1,9 +1,9 @@
 ---
 layout: blog-post
-title: 念住内观
+title: 念住内观（初译）
 ---
 
-# 念住内观（初译）[^origin][^convention]
+## 英文版导言[^origin][^convention]
 
 [^origin]: 原文见[《Satipatthana Vipassana》](https://www.accesstoinsight.org/lib/authors/mahasi/wheel370.html)。
 
@@ -11,8 +11,6 @@ title: 念住内观
 
     - 翻译段落与原文段落一一对应；
     - 所有注释都译注，原文没有注释。
-
-## 英文版导言
 
 应 U Nu 总理和 Buddha Sasananuggaha Association 主席 U Thwin 爵士的请求，Mahasi Sayadaw 于1949年11月10日来到仰光。1949年12月4日，位于仰光 Hermitage 路的 Thathana Yeiktha 禅修中心正式开放。Mahasi Sayadaw 向十五位修习者讲解如何系统地练习念住内观。
 
