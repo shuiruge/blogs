@@ -1,6 +1,7 @@
 ---
 layout: blog-post
 title: 念住内观（初译）
+category: translation
 ---
 
 ## 英文版导言[^origin][^convention]
