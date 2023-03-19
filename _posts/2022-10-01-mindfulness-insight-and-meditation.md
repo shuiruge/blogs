@@ -3,9 +3,9 @@ layout: blog-post
 title: Mindfulness, Insight, and Meditation
 ---
 
-## Mindfulness [^convention]
+## Mindfulness
 
-When something is _perceived_, it affects us. [^be-perceived-and-affected] The more it affects us, the more prominent it is perceived.
+When something is _perceived_, [^italics-convention] it affects us. [^be-perceived-and-affected] The more it affects us, the more prominent it is perceived.
 
 We can only perceive things through our eyes, ears, nose, tongue, body, and mind. [^body-and-mind] These six sense organs are, thus, called the _six sense doors_. [^doors]
 
@@ -49,7 +49,7 @@ In (Theravada) Buddhism, the goal is to penetrate into the body-mind process to 
 - _Manual of Insight_, By Mahasi Sayadaw. ISBN: [9781614292777](https://isbnsearch.org/isbn/9781614292777).
 - _What is Hypnosis?_, by François Roustang, translated by Anne Vila.
 
-[^convention]: Throughout this note, italics is employed in two cases:
+[^italics-convention]: Throughout this note, italics is employed in two cases:
 
     - for books and articles, which are listed in the "References" section;
     - for defining proper nouns, usually at the place where they first appear in the text. Note that these words have different meanings than they do in everyday speech.
