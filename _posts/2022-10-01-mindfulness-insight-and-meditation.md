@@ -2,6 +2,7 @@
 layout: blog-post
 title: Mindfulness, Insight, and Meditation
 ---
+
 ## Mindfulness [^convention]
 
 When something is _perceived_, it affects us. [^be-perceived-and-affected] The more it affects us, the more prominent it is perceived.
@@ -18,9 +19,9 @@ If all that have been perceived are known, then the brain will learn what are co
 
 ## Meditation
 
-In human brain, the unconscious consists of many individual modules, concurrently processing information that come from inner and outer worlds. A _perceived object_ is a pack of processed information projected into the consciousness from a module of the unconscious. It's projected so that other modules can receive the information, which is the only way that information can be communicated between modules. This is how the objects in the inner and outer worlds are perceived by human brain. Furthermore, if a module has projected a pack of information into the consciousness, others cannot project until the current passes away. [^information-overlap] And the consumption of the projected information needs time, duration of which cannot be arbitrarily short, but finitely limited. [^brain-perception] [^perceptive-process-model] Based on this fact, once the awareness becomes continuous, there will be no place for things that are perceived without awareness. [^continuous-awareness]
+In human brain, the unconscious consists of many individual modules, concurrently processing information that come from inner and outer worlds. A _perceived object_ is a pack of processed information projected into the consciousness from a module of the unconscious. It's projected so that other modules can receive the information, which is the only way that modules communicate with each other. Furthermore, if a module has projected a pack of processed information into the consciousness, the others cannot project until the current passes away. [^information-overlap] And the consumption of the projected needs time, duration of which cannot be arbitrarily short, but finitely limited. [^brain-perception] [^perceptive-process-model] Based on this fact, once the awareness becomes continuous, there will be no place for things that are perceived without awareness. [^continuous-awareness] And **_meditation_ is the methodical practice aiming to train a module of the unconscious which can be continuously aware of, or monitor, the perceptive process occurring in the consciousness.**
 
-**_Meditation_ is the progressive practice aiming to train a module of the unconscious which can be continuously aware of, or monitor, the perceptive process occurring in the consciousness.** With repeated practice, awareness becomes continuous without any effort. No matter what you are doing, attending to the objects to be noticed, awareness appears as if falling upon these objects, as if striking at them, without a break. In this situation, the mind won't miss anything that comes to it (through the six sense doors); and the details of things are revealed to mind on their own.
+With repeated practice, awareness becomes continuous without any effort. No matter what you are doing, attending to the objects to be noticed, awareness appears as if falling upon these objects, as if striking at them, without a break. In this situation, the mind won't miss anything that comes to it (through the six sense doors); and the details of things are revealed to mind on their own.
 
 ## FAQ
 
