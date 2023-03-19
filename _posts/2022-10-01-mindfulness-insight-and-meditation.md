@@ -2,31 +2,35 @@
 layout: blog-post
 title: Mindfulness, Insight, and Meditation
 ---
-## Mindfulness[^convention]
+## Mindfulness [^convention]
 
-When something is _perceived_, it affects us.[^be-perceived-and-affected] The more it affects us, the more prominent it is perceived.
+When something is _perceived_, it affects us. [^be-perceived-and-affected] The more it affects us, the more prominent it is perceived.
 
-We can only perceive things through our eyes, ears, nose, tongue, body, and mind.[^body-and-mind] These six sense organs are, thus, called the _six sense doors_.[^doors]
+We can only perceive things through our eyes, ears, nose, tongue, body, and mind. [^body-and-mind] These six sense organs are, thus, called the _six sense doors_. [^doors]
 
-**_Mindfulness_ is the attention that can be aware of[^be-aware-of] what is being perceived at all the six sense doors in every moment.**[^Tejaniya-etc] It's stable, effortless, spacious, and sharp. It efficiently collects information without missing anything that affects us.
+**_Mindfulness_ is the attention that can be aware of [^be-aware-of] what is being perceived at all the six sense doors in every moment.** [^Tejaniya-etc] It's stable, effortless, spacious, and sharp. It efficiently collects information without missing anything that affects us.
 
 ## Insight
 
-Human brain is a great simulator. Indeed, without any effort, it simulates a world and a whole story therein, which we call dream. With the same capacity, autonomously and effortlessly, it learns conditional relationships, which predict what will happen if somethings are taken, that is, simulations of reality.[^brain-learning] [^brain-capability] **_Insight_ is the learned brain.** And this very fact of human brain forms the basis of insight arising.
+Human brain is a great simulator. Indeed, without any effort, it simulates a world and a whole story therein, which we call dream. With the same capacity, autonomously and effortlessly, it learns conditional relationships, which predict what will happen if somethings are taken, that is, simulations of reality. [^brain-learning] [^brain-capability] **_Insight_ is the learned brain.** And this very fact of human brain forms the basis of insight arising.
 
-If all that have been perceived are known, then the brain will learn what are conditions and what are conditioned by, filtering out what are irrelevant. Contrarily, if something relevant[^what-is-relevant] goes unnoticed, then either the brain won't learn, or the learned brain is biased since the materials are partial. So, **mindfulness is the essential and sufficient condition of insight arising.**[^mindfulness-insight-example]
+If all that have been perceived are known, then the brain will learn what are conditions and what are conditioned by, filtering out what are irrelevant. Contrarily, if something relevant [^what-is-relevant] goes unnoticed, then either the brain won't learn, or the learned brain is biased since the materials are partial. So, **mindfulness is the essential and sufficient condition of insight arising.** [^mindfulness-insight-example]
 
 ## Meditation
 
-**_Meditation_ is the progressive practice aiming to train the attention to become mindful.** The working principle here is the very fact that human brain cannot perceive two distinct objects at the same time.[^brain-perception] So, once the awareness becomes continuous, there's no place for things that are perceived without awareness.[^continuous-awareness]
+In human brain, the unconscious consists of many individual modules, concurrently processing information that come from inner and outer worlds. A _perceived object_ is a pack of processed information projected into the consciousness from a module of the unconscious. It's projected so that other modules can receive the information, which is the only way that information can be communicated between modules. This is how the objects in the inner and outer worlds are perceived by human brain. Furthermore, if a module has projected a pack of information into the consciousness, others cannot project until the current passes away. [^information-overlap] And the consumption of the projected information needs time, duration of which cannot be arbitrarily short, but finitely limited. [^brain-perception] [^perceptive-process-model] Based on this fact, once the awareness becomes continuous, there will be no place for things that are perceived without awareness. [^continuous-awareness]
 
-Briefly, meditation rests us in a continuous state of observation or noticing on what is prominently perceived at the six sense doors, such that there's almost no period during which awareness is absent. With repeated practice, awareness becomes continuous without any effort. No matter what you are doing, attending to the objects to be noticed, awareness appears as if falling upon these objects, as if striking at them, without a break. In this situation, the mind won't miss anything that comes to it (through the six sense doors); and the details of things are revealed to mind on their own. The article _Satipatthana Vipassana_ concisely and sufficiently illustrates how meditation is performed in detail.
+**_Meditation_ is the progressive practice aiming to train a module of the unconscious which can be continuously aware of, or monitor, the perceptive process occurring in the consciousness.** With repeated practice, awareness becomes continuous without any effort. No matter what you are doing, attending to the objects to be noticed, awareness appears as if falling upon these objects, as if striking at them, without a break. In this situation, the mind won't miss anything that comes to it (through the six sense doors); and the details of things are revealed to mind on their own.
 
 ## FAQ
 
 ### Relations between Mindfulness and Concentration
 
 When we concentrate on something, our attention is constantly kept on it without digression. Mindfulness is a kind of concentration, but the thing we concentrated on is one and unique. That is, concentrating on awareness of what is being perceived at all the six sense doors.
+
+### Bodily Movements and Sensations as Meditative Objects
+
+Meditation is, thus, aiming to train a module of the unconscious which can be continuously aware of, or monitor, the perceptive process occurring in the consciousness. So, any object can be used to serve this purpose. But, object that are subtle, unstable, or swift are not suggested. Among the six sense doors, objects through eyes, ears, nose, and tongue are either subtle or unstable; and objects through mind are either subtle or swift. So, we shall use objects through body, that is bodily movements and sensations, as the object of meditation. During intensive practice, we the meditative object would be the raising and falling of abdomen accompanied with breath, which is prominent, stable, and single. And for daily practice, bodily movements and sensations always exists, and we use them to train the unconscious.
 
 ### Mental Label Technique
 
@@ -43,7 +47,6 @@ In (Theravada) Buddhism, the goal is to penetrate into the body-mind process to 
 - _When Awareness Becomes Natural_, by Sayadaw U Tejaniya. ISBN: [1611803071](https://isbnsearch.org/isbn/1611803071).
 - _Manual of Insight_, By Mahasi Sayadaw. ISBN: [9781614292777](https://isbnsearch.org/isbn/9781614292777).
 - _What is Hypnosis?_, by François Roustang, translated by Anne Vila.
-- _Satipatthana Vipassana_, by Mahasi Sayadaw, translated by U Pe Thin. You can find it on [internet](https://www.accesstoinsight.org/lib/authors/mahasi/wheel370.html).
 
 [^convention]: Throughout this note, italics is employed in two cases:
 
@@ -86,27 +89,23 @@ In (Theravada) Buddhism, the goal is to penetrate into the body-mind process to 
 
     Contrarily, if you were trapped in the anxious feeling, or in the complaints, you would not be aware of what's going on in your body and mind. In this situation, the brain wouldn't learn. And, in the next time, you would repeat this failure.
 
-[^brain-perception]: This very fact has details as follow.
+[^information-overlap]: This is plausible, since if two or more packs of processed information from different modules are projected into consciousness at the same time, they will overlap so that the information cannot be effectively received by other modules.
 
-    The unconscious consists of many individual modules, concurrently processing information that come from inner and outer worlds. An _object_ in the perceptive process is a pack of processed information projected into the consciousness from a module of the unconscious. It's projected so that other modules can receive the information, which is the only way that information can be communicated between modules. And it's in this way that an object is perceived.
+[^brain-perception]: For this fact, extensive and comprehensive experimental and theoretical illustrations, and even numerical simulations, can be found in the chapter "Theorizing Consciousness" of _Consciousness and the Brain_ and the references therein. And for the modularity and concurrency of the unconscious, see the chapter "What Is Consciousness Good For" of the same book.
 
-    The consciousness is exclusive. If an object has been projected into it, other objects cannot not occupy the consciousness until the current object passes away. And the consumption of the projected object needs time, duration of which cannot be arbitrarily short, but finitely limited. This is plausible, since if two or more packs of processed information from different modules are projected into consciousness at the same time, they will overlap so that the information cannot be effectively received by other modules.
+[^perceptive-process-model]: So, the perceptive process must be a temporal sequence like
 
-    So, the perceptive process must be a temporal sequence like
+        ⋯ → perceived object A → perceived object B → perceived object C → ⋯,
 
-        ⋯ → object A → object A → object B → nothing → object C → ⋯,
+    during which each perceived object occupies a time quantum in the consciousness; and patterns like
 
-    during which each object, or nothing, is projected into the consciousness and occupies a time quantum; and patterns like
+        ⋯ → perceived object A + perceived object B + perceived object C → ⋯,
 
-        ⋯ → object A → object B + object C + object D → object E → ⋯,
-
-    where the objects B, C, and D are perceived altogether, are excluded.
-
-    For this very fact, extensive and comprehensive experimental and theoretical illustrations, and even numerical simulations, can be found in the chapter "Theorizing Consciousness" of _Consciousness and the Brain_ and the references therein. And for the modularity and concurrency of the unconscious, see the chapter "What Is Consciousness Good For" of the same book.
+    where the perceived objects A, B, and C occupy a single time quantum, are excluded.
 
 [^continuous-awareness]: Perceptive process with continuous awareness is like
 
-        ⋯ → object A → aware of A → object B → aware of B → ⋯,
+        ⋯ → perceived object A → aware of A → perceived object B → aware of B → ⋯,
 
     as if monitoring the perceptive process. During a time quantum, once awareness arises, other objects will be excluded. So, with continuous awareness, all that are perceived can be realized.
 
