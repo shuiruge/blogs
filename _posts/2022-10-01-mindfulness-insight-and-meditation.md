@@ -19,9 +19,9 @@ If all that have been perceived are known, then the brain will learn what are co
 
 ## Meditation
 
-In human brain, the unconscious consists of many individual modules, concurrently processing information that come from inner and outer worlds. A _perceived object_ is a pack of processed information projected into the consciousness from a module of the unconscious. It's projected so that other modules can receive the information, which is the only way that modules communicate with each other. Furthermore, if a module has projected a pack of processed information into the consciousness, the others cannot project until the current passes away. [^information-overlap] And the consumption of the projected needs time, duration of which cannot be arbitrarily short, but finitely limited. [^brain-perception] [^perceptive-process-model] Based on this fact, **once the awareness becomes continuous, there will be no place for things that are perceived without awareness.** [^continuous-awareness] And **_meditation_ is the methodical practice aiming to train a module of the unconscious which can be continuously aware of, or monitor, the perceptive process occurring in the consciousness.**
+In human brain, the unconscious consists of many individual modules, concurrently processing information that come from inner and outer worlds. A _perceived object_ is a pack of processed information projected into the consciousness from a module of the unconscious. It's projected so that other modules can receive the information, which is the only way that modules communicate with each other. Furthermore, if a module has projected a pack of processed information into the consciousness, the others cannot project until the current passes away. [^information-overlap] And the consumption of the projected needs time, duration of which cannot be arbitrarily short, but finitely limited. [^brain-perception] [^perceptive-process-model] From this modular perspective, _awareness_ is also a module of the unconscious. It projects what’s received back to the consciousness, telling other modules what’s just projected or perceived in the consciousness. Based on these facts, **once awareness becomes constantly active, there will be no place for things that are perceived without being aware.** [^constantly-active-awareness] And **_meditation_ is the methodical practice aiming to reinforce the awareness to be constantly active.**
 
-With repeated practice, awareness becomes continuous without any effort. No matter what you are doing, attending to the objects to be noticed, awareness appears as if falling upon these objects, as if striking at them, without a break. In this situation, the mind won't miss anything that comes to it (through the six sense doors); and the details of things are revealed to mind on their own.
+With repeated practice, awareness becomes constantly active without any effort. No matter what you are doing, attending to the objects to be noticed, awareness appears as if falling upon these objects, as if striking at them, without a break. In this situation, the mind won't miss anything that comes to it (through the six sense doors); and the details of things are revealed to mind on their own.
 
 ## Practical Instructions
 
@@ -98,7 +98,7 @@ In (Theravada) Buddhism, the goal is to penetrate into the body-mind process to 
 
 [^information-overlap]: This is plausible, since if two or more packs of processed information from different modules are projected into consciousness at the same time, they will overlap so that the information cannot be effectively received by other modules.
 
-[^brain-perception]: For this fact, extensive and comprehensive experimental and theoretical illustrations, and even numerical simulations, can be found in the chapter "Theorizing Consciousness" of _Consciousness and the Brain_ and the references therein. And for the modularity and concurrency of the unconscious, see the chapter "What Is Consciousness Good For" of the same book.
+[^brain-perception]: For these facts, extensive and comprehensive experimental and theoretical illustrations, and even numerical simulations, can be found in the chapter "Theorizing Consciousness" of _Consciousness and the Brain_ and the references therein. And for the modularity and concurrency of the unconscious, see the chapter "What Is Consciousness Good For" of the same book.
 
 [^perceptive-process-model]: So, the perceptive process must be a temporal sequence like
 
@@ -110,10 +110,10 @@ In (Theravada) Buddhism, the goal is to penetrate into the body-mind process to 
 
     where the perceived objects A, B, and C occupy a single time quantum, are excluded.
 
-[^continuous-awareness]: Perceptive process with continuous awareness is like
+[^constantly-active-awareness]: So, the perceptive process with constantly active awareness is like
 
         ⋯ → perceived object A → aware of A → perceived object B → aware of B → ⋯,
 
-    as if monitoring the perceptive process. During a time quantum, once awareness arises, other objects will be excluded. So, with continuous awareness, all that are perceived can be realized.
+    where the terms "aware of A" and "aware of B" are packs of information projected from the awareness, as if the awareness is monitoring the perceptive process. During a time quantum, once awareness arises, other objects will be excluded. So, with constantly active awareness, all that are perceived can be realized.
 
 ---
