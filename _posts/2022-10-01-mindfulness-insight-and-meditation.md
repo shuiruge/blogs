@@ -23,15 +23,21 @@ In human brain, the unconscious consists of many individual modules, concurrentl
 
 With repeated practice, awareness becomes continuous without any effort. No matter what you are doing, attending to the objects to be noticed, awareness appears as if falling upon these objects, as if striking at them, without a break. In this situation, the mind won't miss anything that comes to it (through the six sense doors); and the details of things are revealed to mind on their own.
 
+## Practical Instructions
+
+Even though the definition of meditation is regardless of which object in the inner and outer worlds should serve for the training, our mind is too swift to be controlled so that different kinds of object lead to different levels of difficulty. Among the six sense doors, objects perceived through the eyes, ears, nose, and tongue are not always exist, and not always prominent; and those through the mind are usually subtle and swift; while those through the body are always exist, prominent, and stable. So, we shall use bodily movements and sensations as the objects for the training.
+
+There should be two kinds of meditative practice, either intensive or daily. During the intensive practice, attention is fixed on a single and constant object, with continuous awareness of the object. Among the bodily movements and sensations, the raising and falling of abdomen is most suitable to serve this purpose. If it's not prominent enough, put your hand on your abdomen. And if you feel sleepy, walk with the movements and sensations of your feet as the meditative object. The word "intensive" indicates that the objects serving for the training is single and selected. Contrarily, during the daily practice, the meditative objects are broaden to be the sequence of bodily movements and sensations. No matter what the meditative object currently is, attention should be fixed on it, being concurrently aware of it at each moment.
+
+While practicing, objects other than the meditative ones may raise and be perceived. Attention should not be switched onto them, since once your notice them, you have been aware of them. Continue the interrupted practice after noticing. But, if the object lasts for a while, and if it's too prominent to switch attention from it, then temporally use it as the meditative object, fixing attention onto it with continuous awareness. Continue the interrupted practice once it passes away.
+
+With this meditative practice, the goal of meditation will be gained soon. It's like learning to ride bicycle. You should devote most of your time to the practice before you reach the goal. And once it's reached, no more effort is needed.
+
 ## FAQ
 
 ### Relations between Mindfulness and Concentration
 
 When we concentrate on something, our attention is constantly kept on it without digression. Mindfulness is a kind of concentration, but the thing we concentrated on is one and unique. That is, concentrating on awareness of what is being perceived at all the six sense doors.
-
-### Bodily Movements and Sensations as Meditative Objects
-
-Meditation is, thus, aiming to train a module of the unconscious which can be continuously aware of, or monitor, the perceptive process occurring in the consciousness. So, any object can be used to serve this purpose. But, object that are subtle, unstable, or swift are not suggested. Among the six sense doors, objects through eyes, ears, nose, and tongue are either subtle or unstable; and objects through mind are either subtle or swift. So, we shall use objects through body, that is bodily movements and sensations, as the object of meditation. During intensive practice, we the meditative object would be the raising and falling of abdomen accompanied with breath, which is prominent, stable, and single. And for daily practice, bodily movements and sensations always exists, and we use them to train the unconscious.
 
 ### Mental Label Technique
 
