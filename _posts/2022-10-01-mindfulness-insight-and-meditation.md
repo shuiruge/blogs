@@ -19,9 +19,9 @@ If all that have been perceived are known, then the brain will learn what are co
 
 ## Meditation
 
-In human brain, the unconscious consists of many individual modules, concurrently processing information that come from inner and outer worlds. A _perceived object_ is a pack of processed information projected into the consciousness from a module of the unconscious. It's projected so that other modules can receive the information, which is the only way that modules communicate with each other. Furthermore, if a module has projected a pack of processed information into the consciousness, the others cannot project until the current passes away. [^information-overlap] And the consumption of the projected needs time, duration of which cannot be arbitrarily short, but finitely limited. [^brain-perception] [^perceptive-process-model] From this modular perspective, _awareness_ is also a module of the unconscious. It projects what’s received back to the consciousness, telling other modules what’s just projected or perceived in the consciousness. Based on these facts, **once awareness becomes constantly active, there will be no place for things that are perceived without being aware.** [^constantly-active-awareness] And **_meditation_ is the methodical practice aiming to reinforce the awareness to be constantly active.**
+In human brain, the unconscious consists of many individual modules, concurrently processing information that come from inner and outer worlds. A _perceived object_ is a pack of processed information projected into the consciousness from a module of the unconscious. It's projected so that other modules can receive the information, which is the only way that modules communicate with each other. Furthermore, if a module has projected a pack of processed information into the consciousness, the others cannot project until the current passes away; and the consumption of the projected needs time, duration of which cannot be arbitrarily short, but finitely limited. [^information-overlap] When the consciousness is not occupied, a module projects if it's more active than the others. [^brain-perception] [^perceptive-process-model] From this modular perspective, _awareness_ is also a module of the unconscious. It projects what’s received back to the consciousness, telling other modules what’s just projected or perceived in the consciousness, as if monitoring the perceptive process. Based on these facts, **once awareness becomes continuously active, there will be no place for things that are perceived without being aware.** [^continuously-active-awareness] And **_meditation_ is the methodical practice aiming to reinforce the awareness to be continuously active.**
 
-With repeated practice, awareness becomes constantly active without any effort. No matter what you are doing, attending to the objects to be noticed, awareness appears as if falling upon these objects, as if striking at them, without a break. In this situation, the mind won't miss anything that comes to it (through the six sense doors); and the details of things are revealed to mind on their own.
+With repeated practice, awareness becomes continuously active without any effort. No matter what you are doing, attending to the objects to be noticed, awareness appears as if falling upon these objects, as if striking at them, without a break. In this situation, the mind won't miss anything that comes to it (through the six sense doors); and the details of things are revealed to mind on their own.
 
 ## Practical Instructions
 
@@ -37,7 +37,7 @@ With this meditative practice, the goal of meditation will be gained soon. It's 
 
 ### Relations between Mindfulness and Concentration
 
-When we concentrate on something, our attention is constantly kept on it without digression. Mindfulness is a kind of concentration, but the thing we concentrated on is one and unique. That is, concentrating on awareness of what is being perceived at all the six sense doors.
+When we concentrate on something, our attention is continuously kept on it without digression. Mindfulness is a kind of concentration, but the thing we concentrated on is one and unique. That is, concentrating on awareness of what is being perceived at all the six sense doors.
 
 ### Mental Label Technique
 
@@ -110,10 +110,10 @@ In (Theravada) Buddhism, the goal is to penetrate into the body-mind process to 
 
     where the perceived objects A, B, and C occupy a single time quantum, are excluded.
 
-[^constantly-active-awareness]: So, the perceptive process with constantly active awareness is like
+[^continuously-active-awareness]: So, the perceptive process with continuously active awareness is like
 
         ⋯ → perceived object A → aware of A → perceived object B → aware of B → ⋯,
 
-    where the terms "aware of A" and "aware of B" are packs of information projected from the awareness, as if the awareness is monitoring the perceptive process. During a time quantum, once awareness arises, other objects will be excluded. So, with constantly active awareness, all that are perceived can be realized.
+    where the terms "aware of A" and "aware of B" are packs of information projected from the awareness. During a time quantum, once awareness arises, other objects will be excluded. So, with continuously active awareness, all that are perceived can be realized.
 
 ---
