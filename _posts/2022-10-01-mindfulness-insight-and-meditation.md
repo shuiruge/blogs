@@ -9,7 +9,7 @@ When something is _perceived_, [^italics-convention] it affects us. [^be-perceiv
 
 We can only perceive things through our eyes, ears, nose, tongue, body, and mind. [^body-and-mind] These six sense organs are, thus, called the _six sense doors_. [^doors]
 
-**_Mindfulness_ is the attention that can be aware of [^be-aware-of] what is being perceived at all the six sense doors in every moment.** [^Tejaniya-etc] It's stable, effortless, spacious, and sharp. It efficiently collects information without missing anything that affects us.
+**_Mindfulness_ is the attention that can be aware of [^be-aware-of] what's being perceived at all the six sense doors in every moment.** [^Tejaniya-etc] It's stable, effortless, spacious, and sharp. It efficiently collects information without missing anything that affects us.
 
 ## Insight
 
@@ -19,7 +19,7 @@ If all that have been perceived are known, then the brain will learn what are co
 
 ## Meditation
 
-In human brain, the unconscious consists of many individual modules, concurrently processing information that come from inner and outer worlds. A _perceived object_ is a pack of processed information projected into the consciousness from a module of the unconscious. It's projected so that other modules can receive the information, which is the only way that modules communicate with each other. Furthermore, if a module has projected a pack of processed information into the consciousness, the others cannot project until the current passes away; and the consumption of the projected needs time, duration of which cannot be arbitrarily short, but finitely limited. [^information-overlap] When the consciousness is not occupied, a module projects if it's sufficiently active and more active than the others. [^brain-perception] [^perceptive-process-model] From this modular perspective, _awareness_ is also a module of the unconscious. It projects what’s received back to the consciousness, telling other modules what’s just projected or perceived in the consciousness, as if monitoring the perceptive process. Based on these facts, **once awareness becomes continuously active, there will be no place for things that are perceived without being aware.** [^continuously-active-awareness] And **_meditation_ is the methodical practice aiming to reinforce the awareness to be continuously active.**
+In human brain, the unconscious consists of many individual modules, concurrently processing information that come from inner and outer worlds. A _perceived object_ is a pack of processed information projected into the consciousness from a module of the unconscious. It's projected so that other modules can receive the information, which is the only way that modules communicate with each other. Furthermore, if a module has projected a pack of processed information into the consciousness, the others cannot project until the current passes away; and the consumption of the projected needs time, duration of which cannot be arbitrarily short, but finitely limited. [^information-overlap] When the consciousness is not occupied, a module projects if it's sufficiently active and more active than the others. [^brain-perception] [^perceptive-process-model] From this modular perspective, _awareness_ is also a module of the unconscious. It projects what’s received back to the consciousness, telling other modules what’s just projected or perceived in the consciousness, as if monitoring the perceptive process. It's in this way that we are aware of what's being perceived. Based on these facts, **once awareness becomes continuously active, there will be no place for things that are perceived without being aware.** [^continuously-active-awareness] And **_meditation_ is the methodical practice aiming to reinforce the awareness to be continuously active.**
 
 With repeated practice, awareness becomes continuously active without any effort. No matter what you are doing, attending to the objects to be noticed, awareness appears as if falling upon these objects, as if striking at them, without a break. In this situation, the mind won't miss anything that comes to it (through the six sense doors); and the details of things are revealed to mind on their own.
 
@@ -37,11 +37,11 @@ With this meditative practice, the goal of meditation will be gained soon. It's 
 
 ### Relations between Mindfulness and Concentration
 
-When we concentrate on something, our attention is continuously kept on it without digression. Mindfulness is a kind of concentration, but the thing we concentrated on is one and unique. That is, concentrating on awareness of what is being perceived at all the six sense doors.
+When we concentrate on something, our attention is continuously kept on it without digression. Mindfulness is a kind of concentration, but the thing we concentrated on is one and unique. That is, concentrating on awareness of what's being perceived at all the six sense doors.
 
 ### Mental Label Technique
 
-At the beginning stage of meditation, to guarantee awareness, mental labeling what is aware of will be helpful. But this technique is not essential; and if you feel uncomfortable with it, simply keep awareness without any mental label. Being aware is what is essential.
+At the beginning stage of meditation, to guarantee awareness, mental labeling what's being perceived will be helpful. But this technique is not essential; and if you feel uncomfortable with it, simply keep awareness without any mental label. Being aware is what is essential.
 
 ### Relation with Buddhism
 
@@ -86,7 +86,7 @@ In (Theravada) Buddhism, the goal is to penetrate into the body-mind process to 
 
 [^brain-capability]: This capability of human brain has been discussed by François Roustang in his book _What is Hypnosis?_, chapter "The Precondition". The author illustrates it by discussing dream, imagination and how baby interacts with the real world.
 
-[^what-is-relevant]: Notice that it's the learned brain that can figure out what is relevant. Before learning, everything that is perceived has the potential to be relevant.
+[^what-is-relevant]: Notice that it's the learned brain that can figure out what's relevant. Before learning, everything that is perceived has the potential to be relevant.
 
 [^mindfulness-insight-example]: Here's an example illustrating the relation between mindfulness and insight arising:
 
@@ -94,11 +94,13 @@ In (Theravada) Buddhism, the goal is to penetrate into the body-mind process to 
 
     If you were mindful, you would be aware of the body-mind process, the impatience, the thoughts of complaint, your scratching of head. It's a hint of re-considering the strategy, of re-evaluating the value of this paper. In the end, the brain would learn this. In the next time, you would be more experienced and know when to pause and adjust.
 
-    Contrarily, if you were trapped in the anxious feeling, or in the complaints, you would not be aware of what's going on in your body and mind. In this situation, the brain wouldn't learn. And, in the next time, you would repeat this failure.
+    Contrarily, if you were trapped in the anxious feeling, or in the complaints, you would not be aware of what's happening in your body and mind. In this situation, the brain wouldn't learn. And, in the next time, you would repeat this failure.
 
 [^information-overlap]: This is plausible, since if two or more packs of processed information from different modules are projected into consciousness at the same time, they will overlap so that the information cannot be effectively received by other modules.
 
-[^brain-perception]: For these facts, extensive and comprehensive experimental and theoretical illustrations, and even numerical simulations, can be found in the chapter "Theorizing Consciousness" of _Consciousness and the Brain_ and the references therein. And for the modularity and concurrency of the unconscious, see also the chapter "Fathoming Unconscious Depths" of the same book.
+[^brain-perception]: These facts are abstractions of what's happening in human brain. Like all other abstractions, circles or squares for instance, the relevant skeletons are extracted, while the irrelevant details are neglected. Abstraction simplifies the situations, providing us a clearer perspective.
+
+    But, for seeking the details, extensive and comprehensive experimental and theoretical illustrations, and even numerical simulations, can be found in the chapter "Theorizing Consciousness" of _Consciousness and the Brain_ and the references therein. And for the modularity and concurrency of the unconscious, see also the chapter "Fathoming Unconscious Depths" of the same book.
 
 [^perceptive-process-model]: So, the perceptive process must be a temporal sequence like
 
