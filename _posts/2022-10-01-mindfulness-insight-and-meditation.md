@@ -19,9 +19,9 @@ If all that have been perceived are known, then the brain will learn what are co
 
 ## Meditation
 
-In human brain, the unconscious consists of many individual modules, concurrently processing information that come from inner and outer worlds. A _perceived object_ is a pack of processed information projected into the consciousness from a module of the unconscious. It's projected so that other modules can receive the information, which is the only way that modules communicate with each other. Furthermore, if a module has projected a pack of processed information into the consciousness, the others cannot project until the current passes away; and the consumption of the projected needs time, duration of which cannot be arbitrarily short, but finitely limited. [^information-overlap] When the consciousness is not occupied, a module projects if it's sufficiently active and more active than the others. [^brain-perception] [^perceptive-process-model] From this modular perspective, _awareness_ is also a module of the unconscious. It projects what’s received back to the consciousness, telling other modules what’s just projected or perceived in the consciousness, as if monitoring the perceptive process. It's in this way that we are aware of what's being perceived. Based on these facts, **once awareness becomes continuously active [^continuously-active-awareness], there will be no place for things that are perceived without being aware.** And **_meditation_ is the methodical practice aiming to reinforce the awareness to be continuously active.**
+In human brain, the unconscious consists of many individual modules, concurrently processing information that come from inner and outer worlds. A _perceived object_ is a pack of processed information projected into the consciousness from a module of the unconscious. It's projected so that other modules can receive the information, which is the only way that modules communicate with each other. Furthermore, if a module has projected a pack of processed information into the consciousness, the others cannot project until the current passes away; and the consumption of the projected needs time, duration of which cannot be arbitrarily short, but finitely limited. [^information-overlap] When a module, which we call _projectable_, is sufficiently active and more active than the others. it will project as long as the consciousness is not occupied. [^brain-perception] [^perceptive-process-model] From this modular perspective, _awareness_ is also a module of the unconscious. It projects what’s received back to the consciousness, telling other modules what’s just projected or perceived in the consciousness, as if monitoring the perceptive process. It's in this way that we are aware of what's being perceived. Based on these facts, **once awareness becomes continuously projectable [^continuously-projectable-awareness], there will be no place for things that are perceived without being aware.** And **_meditation_ is the methodical practice aiming to reinforce the awareness to be continuously projectable.**
 
-With repeated practice, awareness becomes continuously active without any effort. No matter what you are doing, attending to the objects to be noticed, awareness appears as if falling upon these objects, as if striking at them, without a break. In this situation, the mind won't miss anything that comes to it (through the six sense doors); and the details of things are revealed to mind on their own.
+With repeated practice, awareness becomes continuous without any effort. No matter what you are doing, attending to the objects to be noticed, awareness appears as if falling upon these objects, as if striking at them, without a break. In this situation, the mind won't miss anything that comes to it (through the six sense doors); and the details of things are revealed to mind on their own.
 
 ## Practical Instructions
 
@@ -112,10 +112,10 @@ In (Theravada) Buddhism, the goal is to penetrate into the body-mind process to 
 
     where the perceived objects A, B, and C occupy a single time quantum, are excluded.
 
-[^continuously-active-awareness]: The perceptive process with _continuously active awareness_ is like
+[^continuously-projectable-awareness]: The perceptive process with continuously projectable awareness is like
 
         ⋯ → perceived object A → aware of A → perceived object B → aware of B → ⋯,
 
-    where the terms "aware of A" and "aware of B" are packs of information projected from the awareness. During a time quantum, once awareness arises, other objects will be excluded. So, with continuously active awareness, all that are perceived can be realized.
+    where the terms "aware of A" and "aware of B" are packs of information projected from the awareness. During a time quantum, once awareness arises, other objects will be excluded. So, with continuously projectable awareness, all that are perceived can be realized.
 
 ---
