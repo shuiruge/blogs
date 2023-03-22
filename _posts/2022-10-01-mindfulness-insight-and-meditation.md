@@ -47,6 +47,10 @@ At the beginning stage of meditation, to guarantee awareness, mental labeling wh
 
 In (Theravada) Buddhism, the goal is to penetrate into the body-mind process to access the three specific insights: impermanence, suffering, and no-self. Again, to gain insight, mindfulness and, thus, meditation are essential.
 
+### What is Nibbana
+
+When awareness becomes extremely strong so that the perceptive process is constantly occupied by what is projected only from the single awareness, we experience the Nibbana. In this situation, all but awareness are excluded from the consciousness.
+
 ## References
 
 - _Consciousness and the Brain_, by Stanislas Dehaene. ISBN: [9780670025435](https://isbnsearch.org/isbn/9780670025435).
@@ -112,7 +116,7 @@ In (Theravada) Buddhism, the goal is to penetrate into the body-mind process to 
 
     where the perceived objects A, B, and C occupy a single time quantum, are excluded.
 
-[^awareness-remains-highly-active]: When awareness remains highly active, the perceptive process will be like
+[^awareness-remains-highly-active]: When awareness remains highly active, the perceptive process, in a simplified form, will be like
 
         ⋯ → perceived object A → aware of A → perceived object B → aware of B → ⋯,
 
