@@ -116,7 +116,7 @@ When awareness becomes extremely strong so that the perceptive process is consta
 
     where the perceived objects A, B, and C occupy a single time quantum, are excluded.
 
-[^awareness-remains-highly-active]: When awareness remains highly active, the perceptive process, in a simplified form, will be like
+[^awareness-remains-highly-active]: When awareness remains highly active, the perceptive process, in a simplified and indicative form, will be like
 
         ⋯ → perceived object A → aware of A → perceived object B → aware of B → ⋯,
 
