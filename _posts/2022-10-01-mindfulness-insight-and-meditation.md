@@ -100,9 +100,9 @@ When awareness becomes extremely strong so that the perceptive process is consta
 
     Contrarily, if you were trapped in the anxious feeling, or in the complaints, you would not be aware of what's happening in your body and mind. In this situation, the brain wouldn't learn. And, in the next time, you would repeat this failure.
 
-[^information-overlap]: This is plausible, since if two or more packs of processed information from different modules are projected into consciousness at the same time, they will overlap so that the information cannot be effectively received by other modules.
-
 [^modularity]: A module may not be identified by a location in human brain. In fact, a _module_ is an agent that implements one step of the perceptive process. So, a module can be a combination of many sub-modules, each implementing a more fundamental step, cooperating with each other through the consciousness in due order, so that the total effect is the step implemented by the combined. And this module, combined with some others, can form a super-module. This is an effective theory, remind of the Kadanoff's or Wilson's renormalization group in physics. And, it's in this perspective that any step of the perceptive process has a corresponding module that implements it.
+
+[^information-overlap]: This is plausible, since if two or more packs of processed information from different modules are projected into consciousness at the same time, they will overlap so that the information cannot be effectively received by other modules.
 
 [^brain-perception]: These facts are abstractions of what's happening in human brain. Like all other abstractions, circles or squares for instance, the relevant skeletons are extracted, while the irrelevant details are neglected. Abstraction simplifies the situations, providing us a clearer perspective.
 
