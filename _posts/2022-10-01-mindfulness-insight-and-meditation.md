@@ -9,7 +9,7 @@ When something is _perceived_, [^italics-convention] it affects us. [^be-perceiv
 
 We can only perceive things through our eyes, ears, nose, tongue, body, and mind. [^body-and-mind] These six sense organs are, thus, called the _six sense doors_. [^doors]
 
-**_Mindfulness_ is the attention that can be aware of [^be-aware-of] what's being perceived at all the six sense doors in every moment.** [^Tejaniya-etc] It's stable, effortless, spacious, and sharp. It efficiently collects information without missing anything that affects us.
+**_Mindfulness_ is the mind that can be aware of [^be-aware-of] what's being perceived at all the six sense doors in every moment.** [^Tejaniya-etc] It efficiently collects information without missing anything that affects us.
 
 ## Insight
 
