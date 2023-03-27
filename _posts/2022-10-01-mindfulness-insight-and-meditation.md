@@ -100,7 +100,7 @@ When awareness becomes extremely strong so that the perceptive process is consta
 
     Contrarily, if you were trapped in the anxious feeling, or in the complaints, you would not be aware of what's happening in your body and mind. In this situation, the brain wouldn't learn. And, in the next time, you would repeat this failure.
 
-[^modularity]: A _module_, however, shall not be identified by a location in human brain, but is that which accomplishes the procession and projection, a step of perceptive process. It is either compound, of many interconnected parts of human brain, or elemental. Even a set of modules that accomplish the same step of perceptive process, but for different sense doors.
+[^modularity]: A _module_, however, shall not be identified by a location in human brain, but is that which accomplishes the procession and projection, a step of perceptive process. It is either compound, of many interconnected parts of human brain, or elemental.
 
     Furthermore, a module can be a combination of many sub-modules, each accomplishing a more fundamental step, cooperating with each other through consciousness in due order, so that the total effect is the step accomplished by the combined. And this module, combined with some others, can form a super-module. This is an effective theory, remind us of the Kadanoff's renormalization group in physics. And, it's in this perspective that any step of perceptive process has a corresponding module that accomplishes it. A more fundamental step it is, a more underlying module it corresponds to.
 
@@ -120,7 +120,9 @@ When awareness becomes extremely strong so that the perceptive process is consta
 
     where the perceived objects A, B, and C occupy a single time quantum, are excluded.
 
-[^awareness]: From the modular perspective, we know that, whenever something is perceived, there must be a module by whom information is projected into consciousness. So too for perceiving what's being perceived; and the module that accomplishes this is awareness.
+[^awareness]: From the modular perspective, we know that, whenever something is perceived, there must be a module by whom information is projected into consciousness. So too it is for perceiving what's being perceived; and the module that accomplishes this is awareness.
+
+    (Remark that whether awareness is a single module or multiple is not ensured. It may be a collection of modules, each for a sense door.)
 
 [^awareness-remains-highly-active]: When awareness remains highly active, the perceptive process, in a simplified and indicative form, will be like
 
