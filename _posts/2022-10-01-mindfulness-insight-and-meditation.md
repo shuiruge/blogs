@@ -19,19 +19,19 @@ If all that have been perceived are known, then the brain will learn what are co
 
 ## Meditation
 
-In human brain, the unconscious consists of many individual modules, concurrently processing information that come from the inner and outer worlds. A _perceived object_ is a pack of processed information projected into the consciousness from a module of the unconscious. It's projected so that other modules can receive the information, which is the only way that modules communicate with each other, and that objects in the inner and outer worlds can be perceived. [^modularity] Furthermore, if a module has projected a pack of processed information into the consciousness, the others cannot project until the current passes away; and the consumption of the projected needs time, duration of which cannot be arbitrarily short, but finitely limited. [^information-overlap] The more active a module is, the more probable it is to project when the consciousness is not occupied. [^brain-perception] [^perceptive-process-model] From this modular perspective, _awareness_ is also a module of the unconscious, whose function is faithfully telling other modules what's happening in the consciousness. To do so, awareness projects what’s received back to the consciousness. In this way we know what's being perceived. [^awareness-module] Based on these facts, **as long as awareness remains highly active, there's barely room for things that are perceived without being aware.** [^awareness-remains-highly-active]
+In human brain, the unconscious consists of many individual modules, concurrently processing information that come from the inner and outer worlds. A _perceived object_ is a pack of processed information projected into consciousness from a module of the unconscious. It's projected so that other modules can receive the information, which is the only way that modules communicate with each other, and that objects in the inner and outer worlds can be perceived. [^modularity] Furthermore, if a module has projected a pack of processed information into consciousness, the others cannot project until the current passes away [^information-overlap]; and the consumption of the projected needs time, duration of which cannot be arbitrarily short, but finitely limited. [^brain-perception] [^perceptive-process] From this modular perspective, _awareness_ is also a module of the unconscious, faithfully telling the others what's happening in consciousness. [^awareness] Based on these facts, **as long as awareness remains highly active, there's no place for things that are perceived without being aware.** [^awareness-remains-highly-active] And, **_meditation_ is the methodical practice aiming to reinforce our awareness to be continuously and highly active.**
 
-**_Meditation_ is the methodical practice aiming to reinforce our awareness to be continuously and highly active.** With repeated practice, awareness becomes continuous without any effort. No matter what you are doing, attending to the objects to be noticed, awareness appears as if falling upon these objects, as if striking at them, without a break. In this situation, the mind won't miss anything that comes to it (through the six sense doors); and the details of things are revealed to mind on their own.
+A beginner who performs a task tries hard to coordinate modules of the unconscious so that they work together to accomplish the task. Involving serial consciousness makes it slow; and competing to occupy consciousness from other modules during the process frequently interrupts it; it is so hard felt. But, with repeated practice, these modules are gradually connected altogether; and a new module of the unconscious is created. Working individually without employing consciousness, it becomes fast and uninterrupted. This is what a practice results from the modular perspective.
 
-## Practical Instructions
+The task in meditative practice is
 
-Even though the definition of meditation is regardless of which object in the inner and outer worlds should serve for the training, our mind is too swift to be controlled so that different kinds of object lead to different levels of difficulty. Among the six sense doors, objects perceived through the eyes, ears, nose, and tongue are not always exist, and not always prominent; and those through the mind are usually subtle and swift; while those through the body are always exist, prominent, and stable. So, we shall use bodily movements and sensations as the objects for the training.
+    perceived object A → intent to be aware → aware of A,
 
-There should be two kinds of meditative practice, either intensive or daily. During the intensive practice, attention is fixed on a single and constant object, with continuous awareness of the object. Among the bodily movements and sensations, the raising and falling of abdomen is most suitable to serve this purpose. If it's not prominent enough, put your hand on your abdomen. And if you feel sleepy, walk with the movements and sensations of your feet as the meditative object. The word "intensive" indicates that the objects serving for the training is single and selected. Contrarily, during the daily practice, the meditative objects are broaden to be the sequence of bodily movements and sensations. No matter what the meditative object currently is, attention should be fixed on it, being concurrently aware of it at each moment.
+for any perceived object. With repeated practice at every moment of perception, connection between modules of perceptions and of awareness are built, so that a perception will trigger awareness unconsciously, that is,
 
-While practicing, objects other than the meditative ones may raise and be perceived. Attention should not be switched onto them, since once your notice them, you have been aware of them. Continue the interrupted practice after noticing. But, if the object lasts for a while, and if it's too prominent to switch attention from it, then temporally use it as the meditative object, fixing attention onto it with continuous awareness. Continue the interrupted practice once it passes away.
+    perceived object A → aware of A.
 
-With this meditative practice, the goal of meditation will be gained soon. It's like learning to ride bicycle. You should devote most of your time to the practice before you reach the goal. And once it's reached, no more effort is needed.
+This is how meditative practice makes awareness constantly active. With repeated practice, awareness closely follows what's being perceived. No matter what you are doing, attending to the objects to be noticed, awareness appears as if falling upon these objects, as if striking at them, without a break. In this situation, the mind won't miss anything that comes to it (through the six sense doors); and the details of things are revealed to mind on their own.
 
 ## FAQ
 
@@ -49,7 +49,7 @@ In (Theravada) Buddhism, the goal is to penetrate into the body-mind process to 
 
 ### What is Nibbana
 
-When awareness becomes extremely strong so that the perceptive process is constantly occupied by what is projected only from the single awareness, we experience the Nibbana. In this situation, all but awareness are excluded from the consciousness.
+When awareness becomes extremely strong so that the perceptive process is constantly occupied by what is projected only from the single awareness, we experience the Nibbana. In this situation, all but awareness are excluded from consciousness.
 
 ## References
 
@@ -100,7 +100,9 @@ When awareness becomes extremely strong so that the perceptive process is consta
 
     Contrarily, if you were trapped in the anxious feeling, or in the complaints, you would not be aware of what's happening in your body and mind. In this situation, the brain wouldn't learn. And, in the next time, you would repeat this failure.
 
-[^modularity]: A _module_, however, shall not be identified by a location in human brain, but is that which accomplishes the procession and projection. It is either compound, of many interconnected parts of human brain, or elemental.
+[^modularity]: A _module_, however, shall not be identified by a location in human brain, but is that which accomplishes the procession and projection, a step of perceptive process. It is either compound, of many interconnected parts of human brain, or elemental. Even a set of modules that accomplish the same step of perceptive process, but for different sense doors.
+
+    Furthermore, a module can be a combination of many sub-modules, each accomplishing a more fundamental step, cooperating with each other through consciousness in due order, so that the total effect is the step accomplished by the combined. And this module, combined with some others, can form a super-module. This is an effective theory, remind us of the Kadanoff's renormalization group in physics. And, it's in this perspective that any step of perceptive process has a corresponding module that accomplishes it. A more fundamental step it is, a more underlying module it corresponds to.
 
 [^information-overlap]: This is plausible, since if two or more packs of processed information from different modules are projected into consciousness at the same time, they will overlap so that the information cannot be effectively received by other modules.
 
@@ -108,19 +110,17 @@ When awareness becomes extremely strong so that the perceptive process is consta
 
     But, for seeking the details, extensive and comprehensive experimental and theoretical illustrations, and even numerical simulations, can be found in the chapter "Theorizing Consciousness" of _Consciousness and the Brain_ and the references therein. And for the modularity and concurrency of the unconscious, see also the chapter "Fathoming Unconscious Depths" of the same book.
 
-[^perceptive-process-model]: So, the perceptive process must be a temporal sequence like
+[^perceptive-process]: So, the perceptive process must be a temporal sequence like
 
         ⋯ → perceived object A → perceived object B → perceived object C → ⋯,
 
-    during which each perceived object occupies a time quantum in the consciousness; and patterns like
+    during which each perceived object occupies a time quantum in consciousness; and patterns like
 
         ⋯ → perceived object A + perceived object B + perceived object C → ⋯,
 
     where the perceived objects A, B, and C occupy a single time quantum, are excluded.
 
-[^awareness-module]: From the modular perspective, we know that, whenever something is perceived, there must be a module by whom information is projected into the consciousness. This is true for perceiving what's being perceived, too; and the module that accomplishes this is the awareness.
-
-    But, as far as we can imply from the modular perspective, the uniqueness of the awareness module cannot be ensured. The problem is whether or not there are multiple such modules. For example, whether or not, for each sense door, there's one such module that only for the awareness of this sense door. In this case, the awareness is instead a set of modules. This is critical.
+[^awareness]: From the modular perspective, we know that, whenever something is perceived, there must be a module by whom information is projected into consciousness. So too for perceiving what's being perceived; and the module that accomplishes this is awareness.
 
 [^awareness-remains-highly-active]: When awareness remains highly active, the perceptive process, in a simplified and indicative form, will be like
 
