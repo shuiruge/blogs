@@ -1,9 +1,9 @@
 ---
 layout: blog-post
-title: Human Brain, Continuous Awareness, and Meditation
+title: Modular Brain, Continuous Awareness, and Meditative Practice
 ---
 
-## Human Brain
+## Modular Brain
 
 ### The Perceptive Process
 
@@ -17,21 +17,23 @@ during which each perceived object occupies a time quantum in consciousness; and
 
 where the perceived objects A, B, and C occupy a single time quantum, are excluded.
 
-### Create a Module
+### Trigger a Module
 
-A beginner who performs a task tries hard to coordinate modules of the unconscious so that they work together to accomplish the task. Involving serial consciousness makes it slow; and competing to occupy consciousness from other modules during the perceptive process frequently interrupts it; it is so hard felt. This perceptive process is like
+A beginner who performs a task tries hard to coordinate modules of the unconscious so that they work together to accomplish the task. Competing to occupy consciousness from other modules during the perceptive process frequently interrupts. This perceptive process is like [^module]
 
-    ⋯ → perceived object A → intention → perceived object B → ⋯,
+    ⋯ → (module A) → (intention) → (module B) → ⋯,
 
-where the intention triggers the subsequent module that projects the "perceived object B" into consciousness. But, with repeated practice, these modules are gradually connected altogether; and a new module of the unconscious is created. Working individually without employing consciousness, it now becomes fast and uninterrupted. The perceptive process turns to be
+where the intention triggers the subsequent module B. But, with repeated practice, module A and B are gradually connected altogether: whenever the former projects, the later follows. The perceptive process now becomes
 
-    ⋯ → perceived object A → perceived object B → ⋯,
+    ⋯ → (module A) → (module B) → ⋯,
 
-where intention is no need. This is what the practice results from the modular perspective.
+where the intention is absent. This is what the practice results from the modular perspective.
 
 ### Self-Learning
 
-Human brain learns from what it's realized on its own. It filters the relevant, extracts patterns, and evolves itself to simulate better.
+Modules of the unconscious learn from what's realized on their own. They filter the relevant, extract patterns, and evolve to simulate better. This is how the human brain learns.
+
+Question: What do you mean by "from what's realized"? In fact, they received all the information projected into the consciousness. So, there should be nothing dismissed. But why awareness is essential for learning now?
 
 ## Continuous Awareness
 
@@ -41,9 +43,9 @@ If something relevant [^what-is-relevant] goes unnoticed, then either the brain 
 
 where the terms "aware of A" and "aware of B" are packs of information projected from _awareness_, a module of the unconscious that faithfully tells the others what's happening in consciousness. [^awareness] During a time quantum, once awareness arises, other objects will be excluded. So, all that are perceived are now realized.
 
-## Meditation
+## Meditative Practice
 
-_Meditation_ is the methodical practice aiming to reinforce our awareness to be continuous. The task of meditation is
+_Meditative practice_ is the methodical practice aiming to reinforce our awareness to be continuous. The task of meditative practice is
 
     perceived object A → intent to be aware → aware of A,
 
@@ -51,17 +53,17 @@ for any perceived object. [^Tejaniya] With repeated practice at every moment of 
 
     perceived object A → aware of A.
 
-This is how meditative practice makes awareness continuous. With repeated practice, awareness closely follows what's being perceived. No matter what you are doing, attending to the objects to be noticed, awareness appears as if falling upon these objects, as if striking at them, without a break. In this situation, the mind won't miss anything that comes to it; and the details of things are revealed to mind on their own.
+This is how meditative practice makes awareness continuous. With repeated practice, awareness closely follows what's being perceived. No matter what you are doing, attending to the objects to be noticed, awareness appears as if falling upon these objects, as if striking at them, without a break. In this situation, our brain won't miss anything that comes to it; and the details of things are revealed on their own.
 
 ## FAQ
 
-### Relations between Meditation and Concentration
+### Relation between Meditative Practice and Concentration
 
-When we concentrate on something, our attention is continuously kept on it without digression. Meditation is a kind of concentration, but the thing we concentrated on is one and unique. That is, concentrating on awareness of all what's being perceived.
+When we concentrate on something, our attention is continuously kept on it without digression. Meditative practice is a kind of concentration, but the thing we concentrated on is one and unique. That is, concentrating on awareness of all what's being perceived.
 
 ### Mental Label Technique
 
-At the beginning stage of meditation, to guarantee awareness, mental labeling what's being perceived will be helpful. But this technique is not essential; and if you feel uncomfortable with it, simply keep awareness without any mental label. Being aware is what is essential.
+At the beginning stage of meditative practice, to guarantee awareness, mental labeling what's being perceived will be helpful. But this technique is not essential; and if you feel uncomfortable with it, simply keep awareness without any mental label. Being aware is what is essential.
 
 ### What is Nibbana
 
@@ -87,6 +89,10 @@ When awareness becomes extremely strong so that the perceptive process is consta
 [^brain-perception]: These facts are abstractions of what's happening in human brain. Like all other abstractions, circles or squares for instance, the relevant skeletons are extracted, while the irrelevant details are neglected. Abstraction simplifies the situations, providing us a clearer perspective.
 
     But, for seeking the details, extensive and comprehensive experimental and theoretical illustrations, and even numerical simulations, can be found in the chapter "Theorizing Consciousness" of _Consciousness and the Brain_ and the references therein. And for the modularity and concurrency of the unconscious, see also the chapter "Fathoming Unconscious Depths" of the same book.
+
+[^module]: The perceptive process can be viewed from two perspectives: that of perceived objects, and that of modules. So, an item of the perceptive process indicates either a perceived object, or a module that projects the perceived object if in parentheses. So, we have
+
+    ⋯ → perceived object A → (module B) → perceived object C → (module D) → ⋯.
 
 [^what-is-relevant]: Notice that it's the learned brain that can figure out what's relevant. Before learning, everything that is perceived has the potential to be relevant.
 
