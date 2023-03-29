@@ -11,7 +11,7 @@ In human brain, the unconscious consists of many individual modules, concurrentl
 
 Based on these facts, perceptive process can be represented by a temporal sequence like
 
-    ⋯ → module A {module B, module C} → module B {module D, module E} → module E → ⋯,
+    ⋯ → module A {module B, module C} → module B {module D, module E} → module E {⋯} → ⋯,
 
 where each module occupies a time quantum in consciousness, and the modules in braces are the correlated.
 
@@ -19,7 +19,7 @@ where each module occupies a time quantum in consciousness, and the modules in b
 
 A beginner who performs a task tries hard to coordinate modules of the unconscious so that they work together to accomplish the task. Competing to occupy consciousness from other modules during the perceptive process frequently interrupts. This perceptive process is like
 
-    ⋯ → module A → intention of module B {module B} → module B → ⋯,
+    ⋯ → module A {⋯} → intention of module B {module B} → module B → ⋯,
 
 where the intention tries to trigger the subsequent module B. But, with repeated practice, module A and B become gradually correlated. In this situation, whenever the former projects, the later follows. The perceptive process now becomes
 
@@ -27,13 +27,19 @@ where the intention tries to trigger the subsequent module B. But, with repeated
 
 where the intention is absent. This is what the practice results from the modular perspective.
 
-## Question
+### Question: Order in Correlation
 
 Is the order of module irrelevant to the correlation? Say, if module A correlates with module B by practice
 
     ⋯ → module A → module B → ⋯,
 
 will module B then triggers module A?
+
+A possible answer is that module B triggers module A if and only if module A is not the predecessor of module B. That is,
+
+    ⋯ → module A {module B} → module B {module C} → ⋯,
+
+where module A is absent in the successors of module B.
 
 ## Habitual Response
 
