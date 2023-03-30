@@ -70,7 +70,7 @@ A _universal module_ is a module of the unconscious that is correlated with all 
     → module G {universal module, ⋯}
     → ⋯.
 
-These modules are activated now, instead of suppressed as in the case without the universal module; and the next module that projects will be one of them, depending on the strength of activity. So, the habitual response breaks. Our brain is, then, reprogrammed.
+These modules are activated now, instead of suppressed as in the case without the universal module [^Berkovich-Ohana]; and the next module that projects will be one of them, depending on the strength of activity. So, the habitual response breaks. Our brain is, then, reprogrammed.
 
 ## Meditation
 
@@ -92,6 +92,7 @@ This universal module can be awareness of what's being perceived, perception of 
 ## References
 
 - _Consciousness and the Brain_, by Stanislas Dehaene. ISBN: [9780670025435](https://isbnsearch.org/isbn/9780670025435).
+- _A case study of a meditation-induced altered state: increased overall gamma synchronization_, by Aviva Berkovich-Ohana, 2015. DOI: [10.1007/s11097-015-9435-x](https://link.springer.com/article/10.1007/s11097-015-9435-x).
 
 [^italics-convention]: Throughout this note, italics is employed in two cases:
 
@@ -109,5 +110,7 @@ This universal module can be awareness of what's being perceived, perception of 
 [^brain-perception]: These facts are abstractions of what's happening in human brain. Like all other abstractions, circles or squares for instance, the relevant skeletons are extracted, while the irrelevant details are neglected. Abstraction simplifies the situations, providing us a clearer perspective.
 
     But, for seeking the details, extensive and comprehensive experimental and theoretical illustrations, and even numerical simulations, can be found in the chapter "Theorizing Consciousness" of _Consciousness and the Brain_ and the references therein. And for the modularity and concurrency of the unconscious, see also the chapter "Fathoming Unconscious Depths" of the same book.
+
+[^Berkovich-Ohana]: This property has been found in reality. In the brain of the practitioners of Mahasi traditional meditation, where awareness is employed as the universal module, activation of large amount of modules is directly observed; and the activated modules are correlated. For details, see _A case study of a meditation-induced altered state: increased overall gamma synchronization_.
 
 ---
