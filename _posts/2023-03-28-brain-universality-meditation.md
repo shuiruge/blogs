@@ -11,41 +11,53 @@ In human brain, the unconscious consists of many individual modules, concurrentl
 
 Based on these facts, perceptive process can be represented by a temporal sequence like
 
-    ⋯ → module A {module B, module C} → module B {module D, module E} → module E {⋯} → ⋯,
+      ⋯
+    → module A {module B, module C}
+    → module B {module E, module D}
+    → module E {⋯}
+    → ⋯,
 
-where each module occupies a time quantum in consciousness, and the modules in braces are the correlated.
+where each module occupies a time quantum in consciousness, and the modules in braces are the correlated, in descending order by the strength of activity.
 
 ## Practice
 
 A beginner who performs a task tries hard to coordinate modules of the unconscious so that they work together to accomplish the task. Competing to occupy consciousness from other modules during the perceptive process frequently interrupts. This perceptive process is like
 
-    ⋯ → module A {⋯} → intention of module B {module B} → module B → ⋯,
+      module A {intention, module C, ⋯}
+    → intention of module B {module B}
+    → module B,
 
-where the intention tries to trigger the subsequent module B. But, with repeated practice, module A and B become gradually correlated. In this situation, whenever the former projects, the later follows. The perceptive process now becomes
+where the intention tries to trigger the subsequent module B. But, with repeated practice, module A and B become gradually correlated. Now, the perceptive process now becomes
 
-    ⋯ → module A {module B} → module B → ⋯,
+      module A {module B, module C, ⋯}
+    → module B,
 
 where the intention is absent. This is what the practice results from the modular perspective.
 
 ### Question: Order in Correlation
 
-Is the order of module irrelevant to the correlation? Say, if module A correlates with module B by practice
+Is the order of module irrelevant to the correlation? Say, if module A correlates with module B by practice, that is,
 
-    ⋯ → module A → module B → ⋯,
+      module A
+    → module B,
 
 will module B then triggers module A?
 
 A possible answer is that module B triggers module A if and only if module A is not the predecessor of module B. That is,
 
-    ⋯ → module A {module B} → module B {module C} → ⋯,
+      module A {module B}
+    → module B {module C, module D},
 
 where module A is absent in the successors of module B.
 
 ## Habitual Response
 
-The years have imprints on us. Many correlations in our brain have been formatted because of what's past. In many cases, perceptive processes are like
+The years have imprints on us: many correlations in our brain have been formatted because of what's past. In many cases, perceptive processes are like
 
-    ⋯ → module A {module B} → module B {module C} → module C {module D} → ⋯.
+      module A {module B}
+    → module B {module C}
+    → module C {module D}
+    → ⋯,
 
 where the preceding module suppresses all but the successive. This is the habitual response.
 
@@ -53,19 +65,25 @@ where the preceding module suppresses all but the successive. This is the habitu
 
 A _universal module_ is a module of the unconscious that is correlated with all other modules. It breaks habitual responses. Indeed, with a universal module, perceptive process becomes
 
-    ⋯ → module A {universal module} → universal module {⋯} → module F {universal module} → ⋯,
+      module A {universal module, module B}
+    → universal module {module F, module G ⋯}
+    → module G {universal module, ⋯}
+    → ⋯.
 
-where the "⋯" in braces indicates many modules that are correlated with the universal one. These modules are activated now, instead of suppressed as in the case without the universal module; and the next module that projects will be one of them, depending on the strength of activity. So, the habitual response breaks. Our brain is, then, reprogrammed.
+These modules are activated now, instead of suppressed as in the case without the universal module; and the next module that projects will be one of them, depending on the strength of activity. So, the habitual response breaks. Our brain is, then, reprogrammed.
 
 ## Meditation
 
-_Meditation_ is the practice that trains a universal module. The task of meditation is
+_Meditation_ is the practice that forms universal module. The task of meditation is
 
-    module A → intention of universal module → universal module,
+      module A
+    → intention of universal module
+    → universal module,
 
 for any module. With repeated practice at every moment of perception, correlations between modules of perception and of the universal are built, so that the perceptive process becomes
 
-    module A → universal module.
+      module A
+    → universal module.
 
 This is how meditation makes a module universal.
 
