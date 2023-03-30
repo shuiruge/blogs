@@ -1,6 +1,6 @@
 ---
 layout: blog-post
-title: Modular Brain, Universal Module, and Meditation
+title: Modular Brain, Universal Module, and Meditative Practice
 ---
 
 ## Modular Brain
@@ -72,9 +72,9 @@ A _universal module_ is a module of the unconscious that is correlated with all 
 
 These modules are activated now, instead of suppressed as in the case without the universal module [^Berkovich-Ohana]; and the next module that projects will be one of them, depending on the strength of activity. So, the habitual response breaks. Our brain is, then, reprogrammed.
 
-## Meditation
+## Meditative Practice
 
-_Meditation_ is the practice that forms universal module. The task of meditation is
+_Meditative practice_ is that forms universal module. The task of meditative practice is
 
       module A
     → intention of universal module
@@ -85,7 +85,7 @@ for any module. With repeated practice at every moment of perception, correlatio
       module A
     → universal module.
 
-This is how meditation makes a module universal.
+This is how meditative practice makes a module universal.
 
 This universal module can be awareness of what's being perceived, perception of breath, etc., as long as it can be continuously activated in daily life.
 
