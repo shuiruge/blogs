@@ -105,7 +105,7 @@ This universal module can be awareness of what's being perceived, perception of 
 
 [^activated-together]: When two modules are activated together, we mean they both project during a short period.
 
-[^bidirectional-plasticity]: Indeed, whenever a baby sees sky, his parents teach him the word "sky". The baby, then, knows the word whenever he sees sky. And, conversely, whenever he says "sky", he knows it indicates sky. Another example comes from learning calculus. With repeated practice of taking derivative $\mathrm{d} \sin = \cos$, whenever we see the derivative of $\sin$, we know it's $\cos$. Again, conversely, whenever we see $\cos$, we know it's the derivative of $\sin$, which is why we can do integral.
+[^bidirectional-plasticity]: Remark that correlation is bidirectional: if module A is correlated with module B, then module B is correlated with module A. Indeed, whenever a baby sees sky, his parents teach him the word "sky". The baby, then, knows the word whenever he sees sky. Conversely, he knows that it indicates to sky whenever he hears the word. Another example comes from learning calculus. With repeated practice of taking derivative $\mathrm{d} \sin = \cos$ in many situations, we know it's $\cos$ whenever we see the derivative of $\sin$. Conversely, we know it's the derivative of $\sin$ whenever we see $\cos$, by which we can do integral.
 
 [^information-overlap]: This is plausible, since if two or more packs of processed information from different modules are projected into consciousness at the same time, they will overlap so that the information cannot be effectively received by other modules.
 
@@ -113,6 +113,6 @@ This universal module can be awareness of what's being perceived, perception of 
 
     But, for seeking the details, extensive and comprehensive experimental and theoretical illustrations, and even numerical simulations, can be found in the chapter "Theorizing Consciousness" of _Consciousness and the Brain_ and the references therein. And for the modularity and concurrency of the unconscious, see also the chapter "Fathoming Unconscious Depths" of the same book.
 
-[^Berkovich-Ohana]: This property has been found in reality. In the brain of the practitioners of Mahasi traditional meditation, where awareness is employed as the universal module, activation of large amount of modules is directly observed; and the activated modules are correlated. For details, see _A case study of a meditation-induced altered state: increased overall gamma synchronization_.
+[^Berkovich-Ohana]: This property has been found in reality. In the brain of the practitioners of Mahasi traditional meditation, where awareness is employed as the universal module, activation of large amount of correlated modules is directly observed. For details, see _A case study of a meditation-induced altered state: increased overall gamma synchronization_.
 
 ---
