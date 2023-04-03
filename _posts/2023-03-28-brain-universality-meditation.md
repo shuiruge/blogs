@@ -87,7 +87,7 @@ for any module. With repeated practice at every moment of perception, correlatio
 
 This is how meditative practice makes a module universal.
 
-This universal module can be awareness of what's being perceived, perception of breath, etc., as long as it can be continuously activated in daily life.
+This universal module can be awareness of what's being perceived [^awareness], perception of breath, etc., as long as it can be continuously activated in daily life.
 
 ## References
 
@@ -114,5 +114,7 @@ This universal module can be awareness of what's being perceived, perception of 
     But, for seeking the details, extensive and comprehensive experimental and theoretical illustrations, and even numerical simulations, can be found in the chapter "Theorizing Consciousness" of _Consciousness and the Brain_ and the references therein. And for the modularity and concurrency of the unconscious, see also the chapter "Fathoming Unconscious Depths" of the same book.
 
 [^Berkovich-Ohana]: This property has been found in reality. In the brain of the practitioners of Mahasi traditional meditation, where awareness is employed as the universal module, activation of large amount of correlated modules is directly observed. For details, see _A case study of a meditation-induced altered state: increased overall gamma synchronization_.
+
+[^awareness]: From the modular perspective, we know that, whenever something is perceived, there must be a module by whom information is projected into consciousness. So too it is for perceiving what's being perceived; and the module that accomplishes this is _awareness_. Remark that whether awareness is a single elemental module or compound is not ensured. It may be a collection of elemental modules, each for a sense organ.
 
 ---
