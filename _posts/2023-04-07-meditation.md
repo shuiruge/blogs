@@ -17,13 +17,14 @@ title: Human Brain, Habitual Response, and Meditative Practice
 
 - A _super-module_ is such an assembly which, like other modules, runs concurrently and unconsciously.
 
-- By projecting into consciousness, information is shared to all modules that are connected to consciousness, and all of them are to participate in the processing of the shared information.
+- By consciousness, information is shared to all modules that are connected to consciousness, and all of them are to participate in the processing of the shared information.
     - The Bottom-up stimuli from a module first reverberate in local circuits. Now, if the top-down attention is drawn to the stimuli, then it reverberates along the bidirectional neuronal connections between the module and consciousness. This long distance reverberation will greatly amplify the stimuli, making it suddenly rush out of the local region of consciousness, into the whole space that consciousness connects, leading to a whole brain reverberation. Other preconscious modules are, then, commandeered to process the shared information.
         - For instance, when we are visually conscious of something, we think about it. While thinking, the lingual and auditory modules are commandeered for self-talk; the visual module is commandeered for imagining; and the module of working memory is commandeered for recording the recent events.
 
 - So, modules are unified together via consciousness, forming a whole brain information processing.
 
-- The top-down attention is essential for bottom-up information sharing via consciousness.
+- Attention is essential for information sharing via consciousness.
+    - For instance, when you are talking while walking, attention is focused on what you are saying. Then, you cannot notice the constantly changing posture of your body, since attention is unique but it is not there.
 
 ## Habitual Response
 
@@ -37,9 +38,9 @@ title: Human Brain, Habitual Response, and Meditative Practice
 
 - Habitual response processes unconsciously, without paying attention.
     - For instance, talking with others while driving along a familiar road. Driving now is unconscious. And the mind is attending to elsewhere.
-    - But we can be conscious of them once they have happened. For instance, the intention to speak and the initial moment of speaking go unconsciously. We are soon aware of it because of the feedback stimuli from sound. The same applies to the next moment of speaking, and the next, and the next.
+    - But we can be conscious of them once they have happened. For instance, the intention to speak and the initial moment of speaking go unconsciously. We are soon aware of them because of the feedback stimuli from auditory module. The same applies to the next moment of speaking, and the next, and the next.
 
-- The years have imprints on us: habitual responses in our brain have been created because of what has past.
+- The years have imprints on us: lots of habitual responses have been created because of what has past.
 
 - We feel unpeaceful because of these habitual responses, which drive us chasing what we like and rejecting what we dislike.
 
@@ -47,16 +48,16 @@ title: Human Brain, Habitual Response, and Meditative Practice
 
 - _Meditative practice_ is the methodical practice that intentionally brings what is unconscious to consciousness.
 
-- Practitioner practices to notice all what is being perceived in our body and mind at every moment.
+- Practitioner practices noticing all what is being perceived in our body and mind at every moment.
 
 - Practice that strengthens the attention to be stable and steerable is also essential.
     - Attention is the tool for meditative practice. And it is very essential to make it sharp.
 
 - With repeated practice, the long distance connections between unconscious modules and consciousness become sufficiently strong, so that the unconscious processes will come into consciousness in their own.
     - Neurons that fire together wire together.
-    - For instance, at first, we will not notice the intentions every time we start to move, start to talk, and start to think, since they raise unconsciously. With repeated practice, however, the notice of such intentions becomes natural and automatic.
+    - For instance, at first, we will not notice the intentions every time we start to move, start to talk, and start to think, since they raise unconsciously. With repeated practice, however, the notice of such intentions becomes more and more natural and automatic.
 
-- Then, information is shared and every module joins in.
+- Then, information is shared and every module joins in. The brain is united.
 
 - Naturally, the circuits of super-modules will be interrupted and finally fade away, and no stable super-module will be formed again. The brain is purified.
     - This is what it means in Buddhisms that an Arhat gets rid of his karma, and no new karma will be created.
