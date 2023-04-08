@@ -48,10 +48,9 @@ title: Human Brain, Habitual Response, and Meditative Practice
 
 - _Meditative practice_ is the methodical practice that intentionally brings what is unconscious to consciousness, aiming to strengthen the long distance connections between unconscious modules and consciousness.
 
-- Practitioner practices noticing all what is being perceived in our body and mind at every moment.
-
-- Practice that strengthens the attention to be stable and steerable is also essential.
+- Practitioner practices noticing all what is being perceived in our body and mind at every moment. Practice that strengthens the attention to be stable and steerable is also essential.
     - Attention is the tool for meditative practice. And it is very essential to make it sharp.
+    - For detailed instructions, see the book _Practical Insight Meditation_ written by Mahasi Sayadaw, translated by U Pe Thin and Myanaung U Tin.
 
 - With repeated practice, the long distance connections between unconscious modules and consciousness become sufficiently strong, so that the unconscious processes will come into consciousness in their own.
     - Neurons that fire together wire together.
