@@ -46,7 +46,7 @@ title: Human Brain, Habitual Response, and Meditative Practice
 
 ## Meditative Practice
 
-- _Meditative practice_ is the methodical practice that intentionally brings what is unconscious to consciousness.
+- _Meditative practice_ is the methodical practice that intentionally brings what is unconscious to consciousness, aiming to strengthen the long distance connections between unconscious modules and consciousness.
 
 - Practitioner practices noticing all what is being perceived in our body and mind at every moment.
 
