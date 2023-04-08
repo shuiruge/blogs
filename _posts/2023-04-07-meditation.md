@@ -20,7 +20,7 @@ title: Human Brain, Habitual Response, and Meditative Practice
 - By consciousness, information is shared to all modules that are connected to consciousness, and all of them are to participate in the processing of the shared information.
     - The Bottom-up stimuli from a module first reverberate in local circuits. Now, if the top-down attention is drawn to the stimuli, then it reverberates along the bidirectional neuronal connections between the module and consciousness. This long distance reverberation will greatly amplify the stimuli, making it suddenly rush out of the local region of consciousness, into the whole space that consciousness connects, leading to a whole brain reverberation. Other preconscious modules are, then, commandeered to process the shared information.
         - For instance, when we are visually conscious of something, we think about it. While thinking, the lingual and auditory modules are commandeered for self-talk; the visual module is commandeered for imagining; and the module of working memory is commandeered for recording the recent events.
-    - For more about the conscious process, see the paper _Towards a Cognitive Neuroscience of Consciousness_, by S. Dehaene and L. Naccache, 2001.
+        - For more about the conscious process, see the paper _Towards a Cognitive Neuroscience of Consciousness_, by S. Dehaene and L. Naccache, 2001.
 
 - So, modules are unified together via consciousness, forming a whole brain information processing.
 
