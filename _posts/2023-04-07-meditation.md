@@ -54,7 +54,7 @@ title: Human Brain, Habitual Response, and Meditative Practice
 
 - With repeated practice, the long distance connections between unconscious modules and consciousness become sufficiently strong, so that the unconscious processes will come into consciousness in their own.
     - Neurons that fire together wire together.
-    - For instance, at first, we will not notice the intentions every time we start to move, start to talk, and start to think, since they raise unconsciously. With repeated practice, however, the notice of such intentions becomes more and more natural and automatic.
+    - For instance, at first, we will not notice the intentions every time we start to move, start to talk, and start to think, since they raise unconsciously. With repeated practice, however, the notice of such intentions becomes more and more natural and automatic. This indicates that the connections between modules of intentions and consciousness have been quite strong, and stimuli on either side will trigger those on the other.
 
 - Then, information is shared and every module joins in. The brain is united.
 
