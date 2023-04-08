@@ -7,13 +7,14 @@ title: Human Brain, Habitual Response, and Meditative Practice
 
 - The unconscious consists of many individual modules, concurrently processing information that come from the inner and outer worlds. Consciousness connects the modules together via long distance neuronal connections across the brain. Modules communicates with each other either by local neuron circuits or by consciousness.
     - In neuroscience, _modules_ are specialized neural circuits that process only specific types of inputs. And in cognitive psychology, modules are characterized by their information encapsulation, domain specificity, and automatic processing.
-    - For experimental details, see the third section of _Towards a Cognitive Neuroscience of Consciousness_ by S. Dehaene and L. Naccache (2001).
+    - For experimental details, see the third section of _Towards a cognitive neuroscience of consciousness_ by S. Dehaene and L. Naccache (2001).
 
 - By local neuron circuits, information is shared between the assembly of several locally connected modules. A _super-module_ is such an assembly which, like other modules, runs concurrently and unconsciously.
 
 - By consciousness, information is shared to all modules that are connected to consciousness, and all of them are to participate in the processing of the shared information. In this situation, modules are unified together via consciousness, forming a whole brain information processing.
-    - The Bottom-up stimuli from a module first reverberate in local circuits. Now, if the top-down attention is drawn to the stimuli, then it reverberates along the bidirectional neuronal connections between the module and consciousness. This long distance reverberation will greatly amplify the stimuli, making it suddenly rush out of the local region of consciousness, into the whole space that consciousness connects, leading to a whole brain reverberation. Other preconscious modules are, then, commandeered to process the shared information.
+    - The Bottom-up stimuli from a module first reverberate in local circuits. Now, if the top-down attention is drawn to the stimuli, then it reverberates along the bidirectional neuronal connections between the module and consciousness. This long distance reverberation will greatly amplify the stimuli, making it suddenly rush out of the local region of consciousness, into the whole space that consciousness connects, leading to a whole brain reverberation. Other modules are, then, commandeered to process the shared information.
         - For instance, when we are visually conscious of something, we think about it. While thinking, the lingual and auditory modules are commandeered for self-talk; the visual module is commandeered for imagining; and the module of working memory is commandeered for recording the recent events.
+        - For details, see the Figure 1 of _Conscious, preconscious, and subliminal processing: a testable taxonomy_ by S. Dehaene, J. Changeux, L. Naccache, J. Sackur, and C. Sergent (2006).
 
 - Attention is essential for information sharing via consciousness.
     - For instance, when you are talking while walking, attention is focused on what you are saying. Then, you cannot notice the constantly changing posture of your body, since attention is unique but it is not there.
