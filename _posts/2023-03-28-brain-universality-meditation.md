@@ -3,6 +3,8 @@ layout: blog-post
 title: Human Brain, Universal Module, and Meditative Practice
 ---
 
+**DEPRECATED**
+
 ## Human Brain
 
 In human brain, the unconscious consists of many individual modules, concurrently processing information that come from the inner and outer worlds. A _perceived object_ [^italics-convention] is a pack of processed information projected into consciousness from a module of the unconscious. It's projected so that other modules can receive the information, which is the only way that modules communicate with each other, and that objects in the inner and outer worlds can be conscious. [^modularity] After receiving the information, correlated modules are activated and uncorrelated are suppressed. Modules become _correlated_ if they have been activated together [^activated-together] many times. [^bidirectional-plasticity] The higher a module is activated, the more probable it will project. Furthermore, if a module has projected a pack of processed information into consciousness, the others cannot project until the current passes away [^information-overlap]; and the consumption of the projected needs time, duration of which cannot be arbitrarily short, but finitely limited. [^brain-perception]

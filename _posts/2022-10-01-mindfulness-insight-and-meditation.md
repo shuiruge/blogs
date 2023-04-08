@@ -3,6 +3,8 @@ layout: blog-post
 title: Mindfulness, Insight, and Meditation
 ---
 
+**DEPRECATED**
+
 ## Mindfulness
 
 When something is _perceived_, [^italics-convention] it affects us. [^be-perceived-and-affected] The more it affects us, the more prominent it is perceived.
