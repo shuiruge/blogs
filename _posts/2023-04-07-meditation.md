@@ -42,7 +42,7 @@ title: Human Brain, Habitual Response, and Meditative Practice
     1. Attention is the tool for meditative practice. And it is very essential to make it sharp.
     1. For detailed instructions, see the book _Practical Insight Meditation_ written by Mahasi Sayadaw, translated by U Pe Thin and Myanaung U Tin.
 
-1. With repeated practice, the connections between unconscious modules and consciousness become stronger and stronger. Whenever information is shared through consciousness, more and more modules are to participate in processing the information. The brain is united.
+1. With repeated practice, the connections between unconscious modules and consciousness become stronger and stronger, and more and more modules are to participate in processing the information whenever it is shared through consciousness. The brain is united.
     1. Again, neurons that fire together wire together.
 
 1. Naturally, the circuits of super-modules will be interrupted and finally fade away, and no stable super-module will be formed again. The brain is purified.
