@@ -36,14 +36,18 @@ title: Human Brain, Habitual Response, and Meditative Practice
 
 ## Meditative Practice
 
-1. _Meditative practice_ is the methodical practice that intentionally brings what is unconscious to consciousness, aiming to strengthen the connections between unconscious modules and consciousness.
+1. _Meditative practice_ is the methodical practice that intentionally attend to what is unconscious or subtle to make it conspicuous in consciousness, aiming to strengthen the connections between unconscious modules and consciousness.
+    1. Many unconscious processes are actually more or less mixed with consciousness. Some parts of such process are completely unconscious, some parts are clearly conscious, and some parts in consciousness are very subtle. Meditative practice also, for the same purpose, intentionally draws attention to the subtle parts of the process, so as to make it conspicuous.
+    1. Attention is an "amplifier" which amplifies the stimuli to which it attends.
+        1. Indeed, when we intentionally attends to the subtle sensations on feet, the sensations become conspicuous immediately.
 
 1. Practitioner practices noticing all what is being perceived in our body and mind at every moment. Practice that strengthens the attention to be stable and steerable is also essential.
-    1. Attention is the tool for meditative practice. And it is very essential to make it sharp.
+    1. Attention is the primary tool for meditative practice. It is very essential to make it sharp.
     1. For detailed instructions, see the book _Practical Insight Meditation_ written by Mahasi Sayadaw, translated by U Pe Thin and Myanaung U Tin.
 
 1. With repeated practice, the connections between unconscious modules and consciousness become stronger and stronger, and more and more modules are to participate in processing the information whenever it is shared through consciousness. The brain is united.
     1. Again, neurons that fire together wire together.
+    1. During practice, we find that it is more and more frequent to notice the subtle aspects of things, as if they are revealing themselves in front of us.
 
 1. Naturally, the circuits of super-modules will be interrupted and finally fade away, and no stable super-module will be formed again. The brain is purified.
     1. Since now modules are united to process the shared information, the old circuit is interrupted. This interruption, then, loosens up the connections in the super-module, until fading away.
