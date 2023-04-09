@@ -17,10 +17,11 @@ title: Human Brain, Habitual Response, and Meditative Practice
         1. For details, see the Figure 1 of _Conscious, preconscious, and subliminal processing: a testable taxonomy_ by S. Dehaene, J. Changeux, L. Naccache, J. Sackur, and C. Sergent (2006).
     1. Contribution from the top-down stimuli to a unconscious module is weighted by the strength of the connection between the module and consciousness. So, if the connection is weak, the top-down stimuli will be overwhelmed by the stimuli within the module or a super-module in which the module sits. The module will, then, not process the shared information.
         1. This does not mean that information of the module weakly connected to consciousness will never come into consciousness. There are two factors that contribute to the information propagation: the strength of stimuli and the strength of connection. So, when attention is drawn onto the module, top-down stimuli towards the module is greatly amplified, so that the module is triggered even though the connection to consciousness is weak.
-
-1. Attention is essential for information sharing via consciousness.
-    1. For instance, when you are talking while walking, attention is focused on what you are saying. Then, you cannot notice the constantly changing posture of your body, since attention is unique but it is not there.
     1. To be conscious, it's essential that bottom-up stimulus from a module has sufficient duration and strength, and that top-down attention is directed to that which the module relates to.
+        1. For instance, when you are talking while walking, attention is focused on what you are saying. Then, you cannot notice the constantly changing posture of your body, since attention is not there.
+
+1. Attention is an "amplifier" which amplifies the stimuli to which it attends.
+    1. Indeed, when we intentionally attends to the subtle sensations on feet, the sensations become conspicuous immediately.
 
 ## Habitual Response
 
@@ -36,10 +37,8 @@ title: Human Brain, Habitual Response, and Meditative Practice
 
 ## Meditative Practice
 
-1. _Meditative practice_ is the methodical practice that intentionally attend to what is unconscious or subtle to make it conspicuous in consciousness, aiming to strengthen the connections between unconscious modules and consciousness.
+1. _Meditative practice_ is the methodical practice that intentionally draw attention to what is unconscious or subtle to make it conspicuous in consciousness, aiming to strengthen the connections between unconscious modules and consciousness.
     1. Many unconscious processes are actually more or less mixed with consciousness. Some parts of such process are completely unconscious, some parts are clearly conscious, and some parts in consciousness are very subtle. Meditative practice also, for the same purpose, intentionally draws attention to the subtle parts of the process, so as to make it conspicuous.
-    1. Attention is an "amplifier" which amplifies the stimuli to which it attends.
-        1. Indeed, when we intentionally attends to the subtle sensations on feet, the sensations become conspicuous immediately.
 
 1. Practitioner practices noticing all what is being perceived in our body and mind at every moment. Practice that strengthens the attention to be stable and steerable is also essential.
     1. Attention is the primary tool for meditative practice. It is very essential to make it sharp.
