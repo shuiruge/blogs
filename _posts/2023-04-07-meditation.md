@@ -3,6 +3,8 @@ layout: blog-post
 title: Human Brain, Habitual Response, and Meditative Practice
 ---
 
+We follow a Wittgensteinian style. Namely, every indented paragraph is the commentary of the super-intent one. Italics is employed for either books and articles, or defining proper nouns.
+
 ## Human Brain
 
 1. The unconscious consists of many individual modules, concurrently processing information that come from the inner and outer worlds. Consciousness connects the modules together via long distance neuronal connections across the brain. Modules communicates with each other either by local neuron circuits or by consciousness.
