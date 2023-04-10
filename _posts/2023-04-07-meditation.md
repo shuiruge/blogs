@@ -49,6 +49,7 @@ We follow a Wittgensteinian style. Namely, every indented paragraph is the comme
 1. With repeated practice, the connections between unconscious modules and consciousness become stronger and stronger, and more and more modules are to participate in processing the information whenever it is shared through consciousness. The brain is united.
     1. Again, neurons that fire together wire together.
     1. During practice, we find that it is more and more frequent to notice the subtle aspects of things, as if they are revealing themselves in front of us.
+    1. Experimental evidence can be found in the article _A case study of a meditation-induced altered state: increased overall gamma synchronization_ by A. Berkovich-Ohana (2015).
 
 1. Naturally, the circuits of super-modules will be interrupted and finally fade away, and no stable super-module will be formed again. The brain is purified.
     1. Since now modules are united to process the shared information, the old circuit is interrupted. This interruption, then, loosens up the connections in the super-module, until fading away.
