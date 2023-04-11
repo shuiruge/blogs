@@ -42,7 +42,7 @@ We follow a Wittgensteinian style. Namely, every indented paragraph is the comme
 
 1. _Meditative practice_ is the methodical practice that intentionally draw attention to what is unconscious or subtle to make it conspicuous in consciousness, aiming to strengthen the connections between unconscious modules and consciousness.
     1. Many unconscious processes are actually more or less mixed with consciousness. Some parts of such process are completely unconscious, some parts are clearly conscious, and some parts in consciousness are very subtle. Meditative practice also, for the same purpose, intentionally draws attention to the subtle parts of the process, so as to make it conspicuous.
-    1. The effect of strengthening the connections is bidirectional. Both top-down and bottom-up stimuli are amplified by it.
+    1. The effect of strengthening the connections is bidirectional. Because of the reverberation between unconscious module and consciousness, both top-down and bottom-up stimuli are amplified by it.
 
 1. Practitioner practices noticing all what is being perceived in our body and mind at every moment. Practice that strengthens the attention to be stable and steerable is also essential.
     1. Attention is the primary tool for meditative practice. It is very essential to make it sharp.
