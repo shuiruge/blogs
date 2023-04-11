@@ -29,6 +29,7 @@ We follow a Wittgensteinian style. Namely, every indented paragraph is the comme
 
 1. If a series of modules has been triggered in due order for many times, then connections between these modules are strengthened, so that a new super-module is created. Within a super-module, once the first module is triggered, the following modules are triggered in due order, just like dominoes.
     1. Neurons that fire together wire together.
+        1. Reference to the section "Cellular Basis of Learning and Memory" of _Cognitive Neuroscience_ by M. Gazzaniga, R. Ivry, and G. Mangun, the fifth edition.
 
 1. _Habitual response_ is the behavioral manifestation of super-module. It goes unconsciously, no need of attention.
     1. For instance, talking with others while driving along a familiar road. Driving now is unconscious. And the mind is attending to elsewhere.
@@ -41,10 +42,14 @@ We follow a Wittgensteinian style. Namely, every indented paragraph is the comme
 
 1. _Meditative practice_ is the methodical practice that intentionally draw attention to what is unconscious or subtle to make it conspicuous in consciousness, aiming to strengthen the connections between unconscious modules and consciousness.
     1. Many unconscious processes are actually more or less mixed with consciousness. Some parts of such process are completely unconscious, some parts are clearly conscious, and some parts in consciousness are very subtle. Meditative practice also, for the same purpose, intentionally draws attention to the subtle parts of the process, so as to make it conspicuous.
+    1. This reinforcement of connections is bidirectional. Both top-down and bottom-up stimuli are amplified by it.
 
 1. Practitioner practices noticing all what is being perceived in our body and mind at every moment. Practice that strengthens the attention to be stable and steerable is also essential.
     1. Attention is the primary tool for meditative practice. It is very essential to make it sharp.
+    1. Attention shall be stable so that the subtle can be amplified to be conspicuous, and be steerable so as to be aware where it is attended and direct to wherever we want.
+        1. This kind of attention is called _momentary concentration_ by Mahasi Sayadaw in his book _Manual of Insight_.
     1. For detailed instructions, see the book _Practical Insight Meditation_ written by Mahasi Sayadaw, translated by U Pe Thin and Myanaung U Tin.
+        1. Two aspects are there in the instructions: the primary practice with selected objects mainly aims to reinforce the attention; and the general practice aims to amplify the subtle aspects of the body-mind process using the reinforced attention.
 
 1. With repeated practice, the connections between unconscious modules and consciousness become stronger and stronger, and more and more modules are to participate in processing the information whenever it is shared through consciousness. The brain is united.
     1. Again, neurons that fire together wire together.
