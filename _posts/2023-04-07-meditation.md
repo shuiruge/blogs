@@ -88,3 +88,5 @@ Naturally, the circuits of super-modules will be interrupted and finally fade aw
 [^no-formation]: As a whole brain process, no stable local circuit has opportunity to form.
 
 [^Arhat]: This is what it means in Buddhisms that an Arhat gets rid of his karma, and no new karma will be created.
+
+---
