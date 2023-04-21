@@ -69,7 +69,7 @@ Practitioner practices noticing all what is being perceived in our body and mind
 
 [^momentary-concentration]: This kind of attention is called _momentary concentration_ by Mahasi Sayadaw in his book _Manual of Insight_.
 
-[^meditation-materials]: For detailed instructions, see the book _Practical Insight Meditation_ written by Mahasi Sayadaw, translated by U Pe Thin and Myanaung U Tin. [^two-practices]
+[^meditation-materials]: For detailed instructions, see the section “The Basic Practice” of _Manual of Insight_ by Mahasi Sayadaw. [^two-practices]
 
 [^two-practices]: Two kinds of practices are involved in the instructions: the primary practice with selected objects mainly aims to reinforce the attention; and the general practice aims to amplify the subtle aspects of the body-mind process using the reinforced attention.
 
