@@ -22,6 +22,7 @@ title: 冥想的作用（草稿）
 1. Momentary concentration 的练习，即念住内观，可以简述如下：首先选择一个对象，通常是呼吸时鼻腔或腹部的感受，也可以是行走时脚部的移动，或者更一般地，是任何当下要专注的对象；将注意力放在该对象上，如果察觉到有 distraction 将注意力拉过去了，则将注意力短暂地移到 distraction 上，然后在回到原来的对象上。这个方法既练习了注意力的 single-pointedness（即察觉 distraction，并拉回注意力），同时也练习了随意移动注意力的能力（即察觉到 distraction 之后将注意力短暂地移到 distraction 上）。
     1. 参见 Mahasi 著的《Manual of Insight》中的“Practical Instruments”一章。
     1. 值得注意的是，念住内观的练习目的，与选择的对象是什么没有关系，即任何对象都可以达到练习的目的。这与 Mahasi 所说的一致。
+        1. 当然，总是坐在安静的室内以呼吸的感觉为对象，会减少 distractions 的丰富度，这说明确实与选择的对象有关。但这种相关性很弱，例如在安静的室内也会有很多典型的 distractions，比如胡思乱想。因此，这里忽略不计。
     1. 传统“focus attention”冥想目的在于练习　absorbed concentration，可以简述如下：同样地，首先选择一个对象；将注意力放在该对象上，如果察觉到有 distraction 将注意力拉过去了，则将注意力拉回到对象上。只有 focus attention 冥想可能会造成注意力的过度稳定，导致无法灵活移动。这正是念住内观**唯一**有别于 focus attention 冥想的地方。
     1. <font color="red">念住内观练习经常（但不总是）以那些原本不需要意识参与的事物为对象，这是为什么？</font>
 
