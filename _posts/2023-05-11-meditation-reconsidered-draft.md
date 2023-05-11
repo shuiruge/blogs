@@ -19,12 +19,11 @@ title: 冥想的作用（草稿）
     1. [Momentary concentration 的细节](https://www.accesstoinsight.org/lib/authors/mahasi/progress.html#ch2:~:text=In%20the%20Commentary,culmination.%5B21%5D)。
     1. Absorbed concentration 无法进入生活，亦不能在日常生活中练习。Buddha 的创新之处，正在于将 absorbed concentration 改造，使之进入到日常生活。如此想来，这种创新也是水到渠成的，毕竟在此之前 Buddha 曾受过严格的 absorbed concentration 的训练。
 
-1. Momentary concentration 的练习，即念住内观，可以简述如下：首先选择一个对象，通常是呼吸时鼻腔或腹部的感受，也可以是行走时脚部的移动，或者更一般地，是任何当下要专注的对象；将注意力放在该对象上，如果有 distraction 出现，则将注意力短暂地移到 distraction 上，然后在回到原来的对象上。这个方法既练习了注意力的 single-pointedness（即察觉 distraction，并拉回注意力），同时也练习了随意移动注意力的能力（即察觉到 distraction 之后将注意力短暂地移到 distraction 上）。
+1. Momentary concentration 的练习，即念住内观，可以简述如下：首先选择一个对象，通常是呼吸时鼻腔或腹部的感受，也可以是行走时脚部的移动，或者更一般地，是任何当下要专注的对象；将注意力放在该对象上，如果察觉到有 distraction 将注意力拉过去了，则将注意力短暂地移到 distraction 上，然后在回到原来的对象上。这个方法既练习了注意力的 single-pointedness（即察觉 distraction，并拉回注意力），同时也练习了随意移动注意力的能力（即察觉到 distraction 之后将注意力短暂地移到 distraction 上）。
     1. 参见 Mahasi 著的《Manual of Insight》中的“Practical Instruments”一章。
     1. 值得注意的是，念住内观的练习目的，与选择的对象是什么没有关系，即任何对象都可以达到练习的目的。这与 Mahasi 所说的一致。
-    １. 传统“focus attention”冥想目的在于练习　absorbed concentration。只有 focus attention　可能会造成注意力的过度稳定，导致无法灵活移动。这正是念住内观**唯一**有别于 focus attention　冥想的地方。
-    1. 但是，这里的问题是，daily practice 还意在于察觉到所有感官（包括心念）感知到的对象，包括那些原本不需要意识参与的，例如行走、进食等的细微动作。这是为什么？
-        1. <font color="red">不过，也正如 Nyanaponika 所说，这种能力是练习 daily practice 自然获得的，而不是刻意而为的。但这是什么导致的呢？以及，练习时确实以那些原本不需要意识参与的事物为对象，这又是为什么呢？</font>
+    １. 传统“focus attention”冥想目的在于练习　absorbed concentration，可以简述如下：同样地，首先选择一个对象；将注意力放在该对象上，如果察觉到有 distraction 将注意力拉过去了，则将注意力拉回到对象上。只有 focus attention 冥想可能会造成注意力的过度稳定，导致无法灵活移动。这正是念住内观**唯一**有别于 focus attention 冥想的地方。
+    1. <font color="red">念住内观练习经常（但不总是）以那些原本不需要意识参与的事物为对象，这是为什么？</font>
 
 1. 为什么这样的专注力会降低、甚至取消我们的习惯性反应？例如，当我们专注于看书时，烦躁地情绪突然出现，并产生不想继续看书的想法。这里的习惯性反应是：烦躁情绪导致不想看书的想法。但这时，我们会察觉到这个分心，并拉回注意力。这个习惯性反应就被打断了。反复如此，习惯性反应就自然消失了。
     1. 既然想要看书的想法和不想要继续看的想法都是想法，何以后者是分心呢？因为前者是成熟的想法，有合理的动机。
