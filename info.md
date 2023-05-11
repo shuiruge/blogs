@@ -16,7 +16,7 @@ I usually write blogs in Chinese, but sometimes in English.
 
 If you want to e-mail to me, my address is shuiruge@hotmail.com.
 
-</br >
+---
 
 > Writting is good, thinking is better;
 > cleverness is good, patience is better.
