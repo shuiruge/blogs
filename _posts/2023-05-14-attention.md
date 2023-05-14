@@ -31,6 +31,6 @@ To stabilize attention to any single object, we have to keep monitoring the pote
 
   [^excessive-stability]: Excessive stability should also be avoid. It will make attention too heavy to be voluntarily moved around. Besides, being deeply absorbed into an object may blind us to potential distractions, thus slacken the stability. And forced concentration may cause tension. So, attention should be stabilized in a gentle and moderate way.
 
-With repeated practice, the process will become automatic. In this case, attention can be stabilized to any object it wants to attend, and be voluntarily moved with a constant degree of stability.
+With repeated practice, the mind will become vigilant to distractions, no matter how subtle they are. And the stability of attention will remain the same throughout daily activities.
 
 ---
