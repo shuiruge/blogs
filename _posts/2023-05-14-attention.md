@@ -27,10 +27,8 @@ It is because of this whole-brain synchronization that we feel inner peace.
 
 ## Meditation Builds up Concentration
 
-To stabilize attention to any single object, we have to keep monitoring the potential distractions that may take attention away, and to bring attention back immediately after being distracted. While voluntarily redirecting attention to the next object, as it always happens in daily activities, the stability should be neither slackened nor strengthened [^excessive-stability], but be a constant degree. Meditation is the practice that put all these together. In meditation, we direct our attention to an object that is currently perceived as prominent and persistent if there is any, otherwise to a selected primary object such as the bodily sensation of breathing or walking. If you find your attention has been distracted, then gently bring it back. And if the distraction is perceived as prominent and persistent too, then you can choice to employ the distraction as the object to attend in the next moment.
+Meditation is the practice that trains the mind to be vigilant to potential distractions that may take attention away. As a result, we can bring attention back to what was going to attend from any distraction immediately after its arising. In this way, attention can be voluntarily stabilized to any object. While voluntarily redirecting attention to another object, as it always happens in daily activities, the stability will be sustained.
 
-  [^excessive-stability]: Excessive stability should also be avoid. It will make attention too heavy to be voluntarily moved around. Besides, being deeply absorbed into an object may blind us to potential distractions, thus slacken the stability. And forced concentration may cause tension. So, attention should be stabilized in a gentle and moderate way.
-
-With repeated practice, the mind will become vigilant to distractions, no matter how subtle they are. And the stability of attention will remain the same throughout daily activities.
+In meditation, we direct our attention to an object that is currently perceived as prominent and persistent if there is any, otherwise to the bodily sensation of breathing, which is always there. If you find your attention has been distracted, then gently bring it back. Throughout the daily activities, practice should not be slackened.
 
 ---
