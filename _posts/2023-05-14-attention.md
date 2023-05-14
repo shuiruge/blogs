@@ -27,7 +27,7 @@ It is because of this whole-brain synchronization that we feel inner peace.
 
 ## Meditation Builds up Concentration
 
-Meditation is the practice that trains the mind to be vigilant to potential distractions that may take attention away. As a result, we can bring attention back to what was going to attend from any distraction immediately after its arising. In this way, attention can be voluntarily stabilized to any object. While voluntarily redirecting attention to another object, as it always happens in daily activities, the stability will be sustained.
+Meditation is the practice that trains the mind to be vigilant to potential distractions that may take attention away. As a result, we can bring attention back to what was going to attend from any distraction immediately after its arising. In this way, attention can be voluntarily stabilized to any object. While redirecting attention to another object, as it always happens in daily activities, the stability will be sustained.
 
 In meditation, we direct our attention to an object that is currently perceived as prominent and persistent if there is any, otherwise to the bodily sensation of breathing, which is always there. If you find your attention has been distracted, then gently bring it back. Throughout the daily activities, practice should not be slackened.
 
