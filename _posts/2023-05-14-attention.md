@@ -1,6 +1,6 @@
 ---
 layout: blog-post
-title: Attention, Synchronization, and Meditation
+title: Attention, Synchronization, and Insight Meditation
 ---
 
 ## Human Brain is a Modularized Network
@@ -13,7 +13,7 @@ Human brain consists of many individual neural circuits, concurrently processing
 
 Attention modulates the behavior of the network. [^attention-types] By activating regulatory mediators, the neural circuits that are relevant to what is attended become sensitized and synchronized, and those that are ignored become habituated. [^modulating-mechanism]
 
-  [^attention-types]: In fact, there are two kinds of attention, mediated by different neural mechanisms. Voluntary attention is top-down, modulating the neural circuits. Conversely, reflexive attention is bottom-up, aroused by the strong stimuli from the inner and outer worlds. But in this note, discussions are restricted to voluntary attention. See the chapter "Attention" of _Cognitive Neuroscience_ by M. Gazzaniga, et al., the 5th edition.
+  [^attention-types]: In fact, there are two kinds of attention, mediated by different neural mechanisms. Voluntary attention is top-down, modulating the neural circuits. Conversely, reflexive attention is bottom-up, aroused by the strong stimuli from the inner and outer worlds. But in this note, discussions are restricted to voluntary attention. See the section "Attentional Control Networks" of _Cognitive Neuroscience_ by M. Gazzaniga, et al., the 5th edition.
 
   [^modulating-mechanism]: TODO: add references.
 
@@ -25,10 +25,10 @@ If, however, attention is stabilized, then the sensitization, the synchronizatio
 
 It is because of this whole-brain synchronization that we feel inner peace.
 
-## Meditation Builds up Concentration
+## Insight Meditation Builds up Concentration
 
-Meditation is the practice that trains the mind to be vigilant to potential distractions that may take attention away. As a result, we can bring attention back to what was going to attend from any distraction immediately after its arising. In this way, attention can be voluntarily stabilized to any object. While redirecting attention to another object, as it always happens in daily activities, the stability will be sustained.
+Insight meditation is the practice that trains the mind to monitor where attention is at every moment. As a result, we can be aware of any distraction immediately after its arising, so as to bring attention back to what was going to attend in the first place. In this way, attention can be voluntarily stabilized to any object. While redirecting attention to another object, as it always happens in daily activities, the stability will be sustained.
 
-In meditation, we direct our attention to an object that is currently perceived as prominent and persistent if there is any, otherwise to the bodily sensation of breathing, which is always there. If you find your attention has been distracted, then gently bring it back. Throughout the daily activities, practice should not be slackened.
+During insight meditation, we constantly make mental notes on what we are attending to. The practice starts from the most prominent objects, gradually extends to the subtle. Throughout the daily activities, endeavor should not be slackened. Just like we learned to ride bicycle. It took effort to keep balance at the beginning. But with repeated practice, we can keep balance with little effort. The same goes for insight meditation. As the result of diligent practice, no matter what we are doing, the mind will vigilantly monitor where attention is at every moment with little effort.
 
 ---
