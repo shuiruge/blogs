@@ -27,7 +27,7 @@ It is because of this whole-brain synchronization that we feel inner peace.
 
 ## Insight Meditation Builds up Concentration
 
-Insight meditation is the practice that trains the mind to monitor where attention is at every moment. As a result, we can be aware of any distraction immediately after its arising, so as to bring attention back to what was going to attend in the first place. In this way, attention can be voluntarily stabilized to any object. While redirecting attention to another object, as it always happens in daily activities, the stability will be sustained.
+Insight meditation is the practice that trains the mind so as to monitor where attention is at every moment with little effort. As a result, we can be aware of any distraction immediately after its arising, so as to bring attention back to what was going to attend in the first place. In this way, attention can be voluntarily stabilized to any object. While redirecting attention to another object, as it always happens in daily activities, the stability will be sustained.
 
 During insight meditation, we constantly make mental notes on what we are attending to. The practice starts from the most prominent objects, gradually extends to the subtle. Throughout the daily activities, endeavor should not be slackened. Just like we learned to ride bicycle. It took effort to keep balance at the beginning. But with repeated practice, we can keep balance with little effort. The same goes for insight meditation. As the result of diligent practice, no matter what we are doing, the mind will vigilantly monitor where attention is at every moment with little effort.
 
