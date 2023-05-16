@@ -19,7 +19,7 @@ Attention modulates the behavior of the network. [^attention-types] By activatin
 
 ## Concentration Leads to Whole-Brain Synchronization
 
-Many stimuli from the inner and outer worlds are competing for your attention. Generally, attention is unstable. It is constantly being taken away by different stimuli, so that neural circuits that are currently relevant become ignored in the next moment, and that are temporally habituated soon become sensitized.
+Many stimuli from the inner and outer worlds are competing for your attention. Generally, attention is unstable. It is constantly being taken away by different stimuli, gross or subtle, so that neural circuits that are currently relevant become ignored in the next moment, and that are temporally habituated soon become sensitized.
 
 If, however, attention is stabilized, then the sensitization, the synchronization, and the habituation become more and more salient. The brain comes to know what is important and what is not. The whole network are modulated to be synchronous.
 
@@ -27,8 +27,8 @@ It is because of this whole-brain synchronization that we feel inner peace.
 
 ## Insight Meditation Builds up Concentration
 
-Insight meditation is the practice that trains the mind so as to monitor where attention is at every moment with little effort. As a result, we can be aware of any distraction immediately after its arising, so as to bring attention back to what was going to attend in the first place. In this way, attention can be voluntarily stabilized to any object. While redirecting attention to another object, as it always happens in daily activities, the stability will be sustained.
+Insight meditation is the practice that trains the mental ability of monitoring where the attention locates at every moment with little effort. As a result, we can be aware of any distraction immediately after its arising, so as to bring attention back to what was going to attend in the first place. In this way, attention can be voluntarily stabilized to any object. While redirecting attention to another object, as it always happens in daily activities, the stability will be sustained.
 
-During insight meditation, we constantly make mental notes on what we are attending to. The practice starts from the most prominent objects, gradually extends to the subtle. Throughout the daily activities, endeavor should not be slackened. Just like we learned to ride bicycle. It took effort to keep balance at the beginning. But with repeated practice, we can keep balance with little effort. The same goes for insight meditation. As the result of diligent practice, no matter what we are doing, the mind will vigilantly monitor where attention is at every moment with little effort.
+During insight meditation, practitioner should constantly check where the attention locates by making mental notes. For instance, when attending to a sound, make a mental note "hearing", and when attending to a tactile sensation, "touching". The practice starts from the most prominent objects, gradually extends to the subtle. Throughout the daily activities, endeavor should not be slackened, and every moment should be checked and noted. Just like we learned to ride bicycle. It took effort to keep balance at the beginning. But with repeated practice, we can keep balance with little effort. The same goes for insight meditation. As the result of diligent practice, no matter what we are doing, the mind can vigilantly monitor where the attention locates at every moment with little effort.
 
 ---
