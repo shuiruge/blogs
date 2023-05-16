@@ -3,6 +3,8 @@ layout: blog-post
 title: Human Brain, Habitual Response, and Meditative Practice
 ---
 
+**DEPRECATED**
+
 ## Human Brain
 
 The unconscious consists of many individual modules, concurrently processing information that come from the inner and outer worlds. [^module] Consciousness connects the modules together via long distance neuronal connections across the brain. Modules communicates with each other either by local neuron circuits or by consciousness. [^consciousness-materials]
