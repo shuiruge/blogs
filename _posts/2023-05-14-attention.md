@@ -25,9 +25,11 @@ If, however, attention is stabilized, then the sensitization, the synchronizatio
 
 It is because of this whole-brain synchronization that we feel inner peace.
 
-## Insight Meditation Builds up Concentration
+## Monitoring Attention is the Only Ability Need for Concentration
 
 What happened when we try to stabilize our attention to some object. First, we have to know if our attention is still on that object. If not, then we let go the distraction and redirect attention back to that object. That is all. So, there are three abilities employed in this process: the ability of monitoring where the attention locates, of letting go the distraction, and of voluntarily redirecting the attention. But, not all these abilities are essential. In fact, if we can realize our attention is no longer on that object at the first place, no further distraction has occurred yet, then letting go the distraction and redirecting the attention would be quite natural. So, when the first ability is gained, the others are fulfilled on their own. The unique ability we need for stabilizing our attention is the ability of monitoring where the attention locates at every moment.
+
+## Insight Meditation Trains the Ability of Monitoring Attention
 
 Insight meditation is the practice that trains the mental ability of monitoring where the attention locates at every moment with little effort. As a result, we can be aware of any distraction immediately after its arising, so as to bring attention back to what was going to attend in the first place. In this way, attention can be voluntarily stabilized to any object. While redirecting attention to another object, as it always happens in daily activities, the stability will be sustained.
 
