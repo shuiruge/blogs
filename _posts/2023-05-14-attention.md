@@ -17,15 +17,15 @@ Attention modulates the behavior of the network. [^attention-types] By activatin
 
   [^modulating-mechanism]: TODO: add references.
 
-## Concentration Leads to Whole-Brain Synchronization
+## Stable Attention Leads to Whole-Brain Synchronization
 
 Many stimuli from the inner and outer worlds are competing for your attention. Generally, attention is unstable; it is constantly being taken away by different stimuli, gross or subtle, so that neural circuits that are currently relevant become ignored in the next moment, and that are temporally habituated soon become sensitized.
 
-If, however, attention is stabilized, then the sensitization, the synchronization, and the habituation become more and more salient. The brain comes to know what is important and what is not. The whole network are modulated to be synchronous.
+If, however, attention is stable, then the sensitization, the synchronization, and the habituation will become more and more salient. The brain comes to know what is important and what is not. The whole network are modulated to be synchronous.
 
 It is because of this whole-brain synchronization that we feel inner peace.
 
-## Monitoring Attention is the Only Ability Need for Concentration
+## Monitoring Attention is the Only Ability Need for Stabilizing Attention
 
 What happened when we try to stabilize our attention to some object? First, we have to know if our attention is still on that object. If not, then we let go the distraction and redirect attention back to that object. That is all. So, there are three abilities employed in this process: the ability of monitoring where the attention locates, of letting go the distraction, and of voluntarily redirecting the attention. But, not all these abilities are essential. In fact, if we can realize our attention is no longer on that object at the first place, no further distraction has occurred yet, then letting go the distraction and redirecting the attention would be quite natural. So, when the first ability is gained, the others are fulfilled on their own. The unique ability we need for stabilizing our attention is the ability of monitoring where the attention locates at every moment.
 
