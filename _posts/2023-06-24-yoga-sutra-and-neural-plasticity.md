@@ -13,7 +13,7 @@ If the attention can be voluntarily controlled so that it steadily attends to an
 
 _Sam̄adhi_ is the ability by which attention is voluntarily controlled. It triggers controlled neural plasticity in the most direct way.
 
-## Impression is Stable Pattern of Cerebral Activity
+## Impression Is Stable Pattern of Cerebral Activity
 
 When a pattern of activation of neural circuits is repeated enough times, it will finally become stabilized and automatic, an _impression_ is then formed. For instance, whenever happen to see something `A`, some emotion `B` then must raise, and then some thought `C`, and then some action `D`. So, the sequence `A → B → C → D` is stable and automatic.
 
@@ -21,7 +21,7 @@ Impression triggers the cerebral activity that mediates a sequence of emotion, t
 
 Some impressions are accumulated during our life, and some are inborn.
 
-## Source of Suffering is Unwholesome Impressions
+## Source of Suffering Is Unwholesome Impressions
 
 Impression can either be wholesome or unwholesome. _Wholesome impression_ is that which leads to inner coherence. And _unwholesome impression_ is that which leads to inner chaos.
 
