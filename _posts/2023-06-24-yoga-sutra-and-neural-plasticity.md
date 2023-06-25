@@ -5,11 +5,9 @@ title: Yoga Sutra and Neural Plasticity
 
 ## Samādhi Triggers Controlled Neural Plasticity
 
-When attention is focused on an object, the neural circuits that is relevant to the object are excited while the others are inhibited.
+When attention is concentrated on an object, the neural circuits that is relevant to the object are excited while the others are inhibited. If the concentration is stabilized for a period of time, then the corresponding neural mediators, being either excitatory or inhibitory, accumulate within neurons. This triggers neural plasticity, leading to anatomical changes in synapses. [^neural-plasticity] Contrarily, if attention cannot be stabilized, then either neural mediators will not accumulate within neurons or the accumulated are mixed, involving both excitatory and inhibitory neural mediators, such that neural plasticity cannot be triggered. So, stability of attention is the essential and sufficient condition for neural plasticity.
 
-If the attention can be voluntarily controlled so that it steadily attends to an object for any period of time, then the corresponding neural mediators, being either excitatory or inhibitory, will accumulate in neurons. This triggers neural plasticity, leading to anatomical changes in synapses. [^neural-plasticity-materials]
-
-  [^neural-plasticity-materials]: The neural mediators are the second messengers, such as protein kinase A, which will accumulate within neurons. If the period of accumulation becomes sufficient, then there would be possible that the mediators move into nucleus, triggering the expression of DNA that produces the proteins for building synapses. For details and how this was found, see the book _In Search of Memory_ by Eric Kandel. TODO: add more academic references.
+  [^neural-plasticity]: The neural mediators are the second messengers, such as protein kinase A, which will accumulate within neurons. If the period of accumulation becomes sufficient, then there would be possible that the mediators move into nucleus, triggering the expression of DNA that produces the proteins for building synapses. For details and how this was found, see the book _In Search of Memory_ by Eric Kandel. TODO: add more academic references.
 
 _Sam̄adhi_ is the ability by which attention is voluntarily controlled. It triggers controlled neural plasticity in the most direct way.
 
