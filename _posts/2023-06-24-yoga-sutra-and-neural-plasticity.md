@@ -7,7 +7,11 @@ title: Yoga Sutra and Neural Plasticity
 
 When attention is concentrated on an object, the neural circuits that is relevant to the object are excited while the others are inhibited. If the concentration is stabilized for a period of time, then neural mediators will accumulate within the corresponding neurons. This triggers neural plasticity, leading to anatomical changes in synapses. [^neural-plasticity] Contrarily, if attention cannot be stabilized, then neural mediators will not accumulate within the corresponding neurons. In this situation, neural plasticity stays inactive. So, stability of attention is the essential and sufficient condition for neural plasticity.
 
-  [^neural-plasticity]: The neural mediators are the second messengers, such as protein kinase A, which will accumulate within neurons. If the period of accumulation becomes sufficient, then there would be possible that the mediators move into nucleus, triggering the expression of DNA that produces the proteins for building synapses. For details and how this was found, see the book _In Search of Memory_ by Eric Kandel. TODO: add more academic references.
+  [^neural-plasticity]: The neural mediators are the second messengers, such as protein kinase A, which will accumulate within neurons. If the period of accumulation becomes sufficient, then there would be possible that the mediators move into nucleus, triggering the expression of DNA that produces the proteins for building synapses. For details and how this was found, see the book _In Search of Memory_ by Eric Kandel.
+
+    TODO: add more academic references.
+
+    TODO: what is the time scale of this process?
 
 _Sam̄adhi_ is the ability by which attention is voluntarily controlled. It triggers controlled neural plasticity in the most direct way.
 
