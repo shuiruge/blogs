@@ -5,23 +5,23 @@ title: Attention, Synchronization, and Insight Meditation
 
 ## Human Brain Is a Modularized Network
 
-Human brain consists of many individual neural circuits, concurrently processing information that come from the inner and outer worlds. Neural circuits are then connected as a network. In this way, different neural circuits cooperate with each other to mediate complex behaviors such as bodily movements and thinking. [^modularized-network]
+Human brain consists of many individual neural circuits, concurrently processing information that come from the inner and outer worlds. Neural circuits are then connected as a network. In this way, different neural circuits cooperate with each other to mediate complex behaviors such as bodily movements and thinking. To lift your hand, for instance, a neural pathway through multiple motor and sensory circuits is activated, which results in a steady hand lifting. [^modularized-network]
 
   [^modularized-network]: See the chapter "The Brain and Behavior" of _Principles of Neural Science_.
 
 ## Attention Is a Modulating Mechanism
 
-Attention modulates the behavior of the network. [^attention-types] By activating regulatory mediators, the neural circuits that are relevant to what is attended become sensitized and synchronized, and those that are ignored become habituated. [^modulating-mechanism]
+Attention modulates the behavior of the network. [^attention-types] Paying attention activates the top-down modulatory neural circuits which in turn sensitize the synapses along the neural pathways that are relevant to what is attended. And ignoring leads to a moderate activation of the neural pathways that are triggered by what is ignored which in turn habituate the synapses along the neural pathways. [^modulating-mechanism]
 
   [^attention-types]: In fact, there are two kinds of attention, mediated by different neural mechanisms. Voluntary attention is top-down, modulating the neural circuits. Conversely, reflexive attention is bottom-up, aroused by the strong stimuli from the inner and outer worlds. But in this note, discussions are restricted to voluntary attention. See the section "Attentional Control Networks" of _Cognitive Neuroscience_.
 
-  [^modulating-mechanism]: TODO: add references.
+  [^modulating-mechanism]: TODO: add references that explains the modulatory neural pathways of voluntary attention in detail. For the details of sensitization and habituation, see chapter 53 of _Principles of Neural Science_.
 
 ## Stable Attention Leads to Whole-Brain Synchronization
 
-Many stimuli from the inner and outer worlds are competing for your attention. Generally, attention is unstable; it is constantly being taken away by different stimuli, gross or subtle, so that neural circuits that are currently relevant become ignored in the next moment, and that are temporally habituated soon become sensitized.
+Many stimuli from the inner and outer worlds are competing for your attention. Generally, attention is unstable; it is constantly being taken away by different stimuli, gross or subtle, so that neural circuits that are currently attended become ignored in the next moment, and that are temporally habituated soon become sensitized.
 
-If, however, attention is stable, then the sensitization, the synchronization, and the habituation will become more and more salient. The brain comes to know what is important and what is not. The whole network are modulated to be synchronous.
+If, however, attention can be brought back to what is going to attend in the first place whenever it is taken away, then the sensitization and the habituation will become more and more salient. The brain comes to know what is important and what is not. The whole network are modulated to be synchronous.
 
 It is because of this whole-brain synchronization that we feel inner peace.
 
