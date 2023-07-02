@@ -11,7 +11,7 @@ Human brain consists of many individual neural circuits, concurrently processing
 
 ## Attention Is a Modulating Mechanism
 
-Attention modulates the behavior of the network. [^attention-types] Paying attention activates the top-down modulatory neural circuits which in turn sensitize the synapses along the neural pathways that are relevant to what is attended. And ignoring leads to a moderate activation of the neural pathways that are triggered by what is ignored which in turn habituate the synapses along the neural pathways. [^modulating-mechanism]
+Attention modulates the behavior of the network. [^attention-types] Paying attention activates the top-down modulatory neurons which in turn sensitize the synapses along the neural pathways that are relevant to what is attended. And ignoring leads to a moderate activation of the neural pathways that are triggered by what is ignored which in turn habituate the synapses along the neural pathways. [^modulating-mechanism]
 
   [^attention-types]: In fact, there are two kinds of attention, mediated by different neural mechanisms. Voluntary attention is top-down, modulating the neural circuits. Conversely, reflexive attention is bottom-up, aroused by the strong stimuli from the inner and outer worlds. But in this note, discussions are restricted to voluntary attention. See the section "Attentional Control Networks" of _Cognitive Neuroscience_.
 
