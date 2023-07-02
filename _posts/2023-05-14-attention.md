@@ -21,7 +21,9 @@ Attention modulates the behavior of the network. [^attention-types] Paying atten
 
 Many stimuli from the inner and outer worlds are competing for your attention. Generally, attention is unstable; it is constantly being taken away by different stimuli, gross or subtle, so that neural circuits that are currently attended become ignored in the next moment, and that are temporally habituated soon become sensitized.
 
-If, however, attention can be brought back to what is going to attend in the first place whenever it is taken away, then the sensitization and the habituation will become more and more salient. The brain comes to know what is important and what is not. The whole network are modulated to be synchronous.
+If, however, attention can be brought back to what is going to attend in the first place whenever it is taken away, then the sensitization and the habituation will become more and more salient. [^salient-habituation] The brain comes to know what is important and what is not. The whole network are modulated to be synchronous.
+
+  [^salient-habituation]: The synapses along a neural pathway can be saliently habituated if the stimulus that triggers the neural pathway is so prominent that we have to bring attention back from it multiple times.
 
 It is because of this whole-brain synchronization that we feel inner peace.
 
