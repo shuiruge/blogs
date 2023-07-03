@@ -11,19 +11,19 @@ Human brain consists of many individual neural circuits, concurrently processing
 
 ## Attention Is a Modulating Mechanism
 
-Attention modulates the behavior of the network. [^attention-types] Paying attention activates the top-down modulatory neurons which in turn sensitize the synapses along the neural pathways that are relevant to what is attended. And ignoring without further reaction leads to a moderate activation of the neural pathways that are triggered by what is ignored which in turn habituate the synapses along the neural pathways. Importantly, both sensitization and habituation are chemically mediated. [^modulating-mechanism]
+Attention modulates the behavior of the network. [^attention-types] Paying attention sensitizes the synapses along the neural pathways that are relevant to what is attend. And ignoring without further reaction habituates the synapses along the neural pathways that are relevant to what is ignored. Importantly, both sensitization and habituation are chemically mediated. [^modulating-mechanism]
 
   [^attention-types]: In fact, there are two kinds of attention, mediated by different neural mechanisms. Voluntary attention is top-down, modulating the neural circuits. Conversely, reflexive attention is bottom-up, aroused by the strong stimuli from the inner and outer worlds. But in this note, discussions are restricted to voluntary attention. See the section "Attentional Control Networks" of _Cognitive Neuroscience_.
 
-  [^modulating-mechanism]: TODO: add references that explains the modulatory neural pathways of voluntary attention in detail. For the details of sensitization and habituation, see chapter 53 of _Principles of Neural Science_.
+  [^modulating-mechanism]: For the details of sensitization and habituation, see chapter 53 of _Principles of Neural Science_.
 
-## Stable Attention Triggers Controlled Synaptic Plasticity
+## Stable Attention Triggers Synaptic Plasticity
 
 Many stimuli from the inner and outer worlds are competing for your attention. Generally, attention is unstable; it is constantly being taken away by different stimuli, gross or subtle, so that neural circuits that are currently attended become ignored in the next moment, and that are temporally habituated soon become sensitized. In this situation, the chemical mediators cannot accumulate in synapses.
 
 If, however, attention can be brought back to what is going to attend in the first place whenever it is taken away, then the chemical mediators will accumulate enough to trigger synaptic plasticity, leading to anatomical changes in the synapses. [^synaptic-plasticity] The sensitization and the habituation then become long-lasting. In this way, we can plant what we want to cultivate, such as loving-kindness, and uproot what we want to eliminate, such as disturbing thoughts.
 
-  [^synaptic-plasticity]: The neural mediators that leads to sensitization are the second messengers, such as protein kinase A, which will accumulate within neurons. If the period of accumulation becomes sufficient, then there would be possible that the mediators move into nucleus, triggering the expression of DNA that produces the proteins for building synapses. This leads to a long-term sensitization. For details, see chapter 53 of _Principles of Neural Science_. TODO: explain for habituation.
+  [^synaptic-plasticity]: The chemical mediators that leads to sensitization are the second messengers, such as protein kinase A, which will accumulate within neurons. If the period of accumulation becomes sufficient, then there would be possible that the mediators move into nucleus, triggering the expression of DNA that produces the proteins for building synapses. This leads to a long-term sensitization. For details, see chapter 53 of _Principles of Neural Science_. TODO: explain for habituation.
 
 Once what disturbs the mind is uprooted, long-lasting peacefulness is left.
 
