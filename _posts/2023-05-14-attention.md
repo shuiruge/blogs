@@ -23,7 +23,13 @@ Many stimuli from the inner and outer worlds are competing for your attention. G
 
 If, however, attention can be brought back to what is going to attend in the first place whenever it is taken away, then the chemical mediators will accumulate enough to trigger synaptic plasticity, leading to anatomical changes in the synapses. [^synaptic-plasticity] The sensitization and the habituation then become long-lasting. In this way, we can plant what we want to cultivate, such as loving-kindness, and uproot what we want to eliminate, such as disturbing thoughts.
 
-  [^synaptic-plasticity]: The chemical mediators that leads to sensitization are the second messengers, such as protein kinase A, which will accumulate within neurons. If the period of accumulation becomes sufficient, then there would be possible that the mediators move into nucleus, triggering the expression of DNA that produces the proteins for building synapses. This leads to a long-term sensitization. For details, see chapter 53 of _Principles of Neural Science_. TODO: explain for habituation.
+  [^synaptic-plasticity]: The chemical mediators that leads to sensitization are the second messengers, such as protein kinase A, which will accumulate within neurons. If the period of accumulation becomes sufficient, then there would be possible that the mediators move into nucleus, triggering the expression of DNA that produces the proteins for building synapses. This leads to a long-term sensitization.
+
+      TODO: explain for habituation.
+
+      It should be noted that not all classes of neuron are equally modifiable. For instance, the neurons for primary physiological functions should not be plastic.
+
+      For details, see chapter 53 of _Principles of Neural Science_.
 
 Once what disturbs the mind is uprooted, long-lasting peacefulness is left.
 
