@@ -39,7 +39,7 @@ If, however, attention can be brought back to what is going to attend in the fir
 
 What happened when we try to stabilize our attention to some object? First, we have to know if our mind is still focused and on the object. If not, then let go the distraction if there is any, and focus on the object with intent again. That is all. So, there are three abilities employed in this process: the ability of monitoring the mind [^mind] (its quality and its object), of letting go the distraction, and of focus with intent. But, not all these abilities are essential. In fact, if we can realize our mind is no longer focused or no longer on that object at the first place, no further distraction has occurred yet, then letting go the distraction and focus with intent would be quite natural. So, when the first ability is gained, the others are fulfilled on their own. The unique ability we need for stabilizing our attention is the ability of monitoring our mind (its quality and its object) at every moment.
 
-  [^mind]: Or say, consciousness.
+  [^mind]: Consciousness, or the room of awareness, in other words.
 
 ## Insight Meditation Trains the Ability of Monitoring the Mind
 
@@ -47,12 +47,11 @@ Insight meditation is the practice that trains the mental ability of monitoring 
 
 ## Practice Should Be Gradual and Methodical
 
-In the beginning, practitioner cannot catch up the swift mind, since in daily life there are so many things that make your mind jump back and forth. It is like learning language. A beginner cannot gain any skill by joining a native party directly. Frustration also raises. One should start by listening low speed simple sentences. And gradually, talking with a native speaker would become natural. The same goes for insight meditation. A beginner's mind should be restricted by concentrating, for instance, to the tactile sensation of breathing, in nasal cavity or on abdomen, so that it is not so hard to follow the mind. And gradually, a more mature practitioner should slacken the concentration and let more things in.
+In the beginning, practitioner cannot catch up the swift mind, since in daily life the mind jumps back and forth between so many things. It is like learning language. A beginner cannot gain any skill by joining a native party directly. Frustration also raises. One should start by listening low speed simple sentences. And gradually, talking with a native speaker would become natural. The same goes for insight meditation. Before his practice, a beginner should first restrict his mind by concentrating on the tactile sensation of breathing, in nasal cavity or on abdomen, so that the attractive things from the inner and outer worlds may lose their momentum. And gradually, practicing in daily life would become natural.
 
 ## References
 
 1. _Principles of Neural Science_, by E. Kandel, et al., the 6th edition. ISBN: 1259642232.
 1. _Cognitive Neuroscience_, by M. Gazzaniga, et al., the 5th edition. ISBN: 0393603172.
-1. _Practical Insight Meditation_, by Mahasi Sayadaw. ISBN: 9552400899.
 
 ---
