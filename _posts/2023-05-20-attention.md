@@ -37,9 +37,11 @@ If, however, attention can be brought back to what is going to attend in the fir
 
 ## Monitoring the Mind Is the Only Ability Need for Stabilizing Attention
 
-What happened when we try to stabilize our attention to some object? First, we have to know if our mind is still focused and on the object. If not, then let go the distraction if there is any, and focus on the object with intent again. That is all. So, there are three abilities employed in this process: the ability of monitoring the mind [^mind], of letting go the distraction, and of focus with intent. But, not all these abilities are essential. In fact, if we can realize our mind is no longer focused or no longer on that object at the first place, no further distraction has occurred yet, then letting go the distraction and focus with intent would be quite natural. So, when the first ability is gained, the others are fulfilled on their own. The unique ability we need for stabilizing our attention is the ability of monitoring our mind at every moment, including its quality (is it focused or diffused?) and its object (what is it attending?).
+What happened when we try to stabilize our attention to some object? First, we have to know what is in the mind at every moment. Only then can we realize if the mind is distracted. If so, let go the distraction and focus on the object with intent again. That is all. So, there are four abilities employed in this process: the ability of monitoring the mind [^mind], of realizing distraction, of letting go distraction, and of focus with intent. But, not all these abilities are essential. In fact, if we can know what is in the mind at every moment, then distraction can be realized in the first place. Without further development, letting go the distraction and focus with intent will be quite natural. So, when the first ability is gained, the others are fulfilled on their own. The unique ability we need for stabilizing our attention is the ability of monitoring the mind. [^universality]
 
-  [^mind]: In other words, consciousness.
+  [^mind]: We use mind as an equivalent of consciousness.
+
+  [^universality]: It is also the only ability that is independent of the object on which our attention is stabilized.
 
 It is very helpful to think of the mind as a "room of awareness", an imagined room filled with objects of different sizes. Objects are those appearing in the mind. And the size of an object is irrelevant to the actual size of the object, but simply indicating how much attention is focused on it, since the larger the size of an object in the room of awareness, the more space of the mind is occupied by it. Monitoring the mind is like checking the room.
 
