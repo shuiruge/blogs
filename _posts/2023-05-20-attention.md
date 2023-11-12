@@ -51,7 +51,7 @@ Insight meditation is the practice that trains the mental ability of monitoring 
 
 ## Practice Should Be Gradual and Methodical
 
-In the beginning, practitioner cannot catch up the swift mind, since in daily life the mind jumps back and forth between so many things. It is like learning language. A beginner cannot gain any skill by joining a native party directly. Frustration also raises. One should start by listening low speed simple sentences. And gradually, talking with a native speaker would become natural. The same goes for insight meditation. Just before a session of practice, a beginner should first restrict his mind by concentrating on the tactile sensation of breathing, in nasal cavity or on abdomen, so that the attractive things from the inner and outer worlds may lose their momentum. And gradually, practicing in daily life would become natural.
+In the beginning, practitioner cannot catch up the swift mind, since in daily life the mind jumps back and forth between so many things. It is like learning language. A beginner cannot gain any skill by joining a native party directly. Frustration also arises. One should start by listening low speed simple sentences. And gradually, talking with a native speaker would become natural. The same goes for insight meditation. Just before a session of practice, a beginner should first restrict his mind by concentrating on the tactile sensation of breathing, in nasal cavity or on abdomen, so that the attractive things from the inner and outer worlds may lose their momentum. And gradually, practicing in daily life would become natural.
 
 ## References
 
