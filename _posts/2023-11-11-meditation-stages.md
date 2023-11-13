@@ -41,11 +41,11 @@ By continuing the practice, noting the unpleasant feelings when they arise, thes
 
 ### Entering Fruition
 
-While continuing the practice in the stage of _equanimity towards phenomena_, there is a sudden lift of the swiftness and clarity of noting during several moments; immediately after these moments, both object and noting mind disappear abruptly, and nothing arises. This indicates that, even if there are objects to see, to hear, to touch, and so on, he will not perceive any of them. This state of "emptiness" lasts shortly, from several moments to minutes. It is a sign of attaining the first fruition. (P.292-293)
+While continuing the practice in the stage _equanimity towards phenomena_, there is a sudden lift of the swiftness and clarity of noting during several moments; immediately after these moments, both object and noting mind disappear abruptly, and nothing arises. This indicates that, even if there are objects to see, to hear, to touch, and so on, he will not perceive any of them. This state of "emptiness" lasts shortly, from several moments to minutes. It is a sign of attaining the first fruition. (P.292-293)
 
 ### Fade of Fruition
 
-When the state of "emptiness" fade, practitioner is left in a peaceful state for hours or days. During this period, he may feel that objects cannot be distinguished clearly, let alone noted. And after, when objects can be noted again, it is found that the ability of noting retrogresses to the stage of _knowledge of arising and passing away_ rather than retrogressing to the beginning stage, which is _discerning physical object and noting mind_. (P.293-295)
+When the state of "emptiness" fade, practitioner is left in a peaceful state for hours or days. During this period, he may feel that objects cannot be distinguished clearly, let alone noted. And after, when objects can be noted again, it is found that the ability of noting retrogresses to the stage _knowledge of arising and passing away_ rather than retrogressing to the beginning stage, which is _discerning physical object and noting mind_. (P.293-295)
 
 ### Re-entering Fruition
 
