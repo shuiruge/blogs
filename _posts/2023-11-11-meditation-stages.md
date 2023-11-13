@@ -35,13 +35,17 @@ Realized that everything is dissolving, unpleasant feelings may arise, and the p
 
 ## Equanimity towards Phenomena
 
-By continuing the practice, noting the unpleasant feelings when they arise, these unpleasant feelings fade. Practitioner now feels equanimous and delightful. Other unpleasant feelings, such as pain, stiffness, and itching, will not arise. It is found that noting runs as if by itself, and subtle objects come to be clearly realized. If practice is still immature, this state will decay after persisting for several hours. (P.289-292)
+By continuing the practice, noting the unpleasant feelings when they arise, these unpleasant feelings fade. Other unpleasant feelings, such as pain, stiffness, and itching, will not arise too. Now, practitioner experiences the dissolution with equanimity. (P.289-289)
+
+The noting comes to be very sensitive and subtle, as if running by itself. While nothing invades his noting, practitioner feels delightful. (P.289-292)
 
 ## Fruition
 
 ### Entering Fruition
 
-While continuing the practice in the stage _equanimity towards phenomena_, there is a sudden lift of the swiftness and clarity of noting during several moments; immediately after these moments, both object and noting mind disappear abruptly, and nothing arises. This indicates that, even if there are objects to see, to hear, to touch, and so on, he will not perceive any of them. This state of "emptiness" lasts shortly, from several moments to minutes. It is a sign of attaining the first fruition. (P.292-293)
+While continuing the practice in the stage _equanimity towards phenomena_, there is a sudden lift of the swiftness and clarity of noting during several moments; immediately after these moments, both object and noting mind disappear abruptly, and nothing arises. This indicates that, even if there are objects to see, to hear, to touch, and so on, he will not perceive any of them. This state of "emptiness" lasts shortly, from several moments to minutes. It is a sign of attaining the first fruition. (P.292-293) [^emptiness]
+
+  [^emptiness]: Why does the very state of "emptiness" arise? One may expect that this is the limit of _knowledge of dissolution_. The noting mind is so strong that it pushes the dissolution to an edge where any object dissolves just at the moment of its arising. In this way, practitioner cannot perceive any object and just feels nothing arise.
 
 ### Fade of Fruition
 
