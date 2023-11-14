@@ -49,7 +49,9 @@ While continuing the practice in the stage _equanimity towards phenomena_, there
 
 ### Fade of Fruition
 
-When the state of "emptiness" fade, practitioner is left in a peaceful state for hours or days. During this period, he may feel that objects cannot be distinguished clearly, let alone noted. And after, when objects can be noted again, it is found that the ability of noting retrogresses to the stage _knowledge of arising and passing away_ rather than retrogressing to the beginning stage, which is _discerning physical object and noting mind_. (P.293-295)
+When the state of "emptiness" fade, practitioner is left in a peaceful state for hours or days. During this period, he may feel that objects cannot be distinguished clearly, let alone noted. And after, when objects can be noted again, it is found that the ability of noting retrogresses to the stage _knowledge of arising and passing away_ rather than retrogressing to the beginning stage, which is _discerning physical object and noting mind_. [^fruition] (P.293-295)
+
+  [^fruition]: This is why attaining fruition is so important. It is found that the stage _knowledge of arising and passing away_ is a leap of the ability of noting. After attaining fruition, practitioner is ensured never retrogress to stages prior to _knowledge of arising and passing away_.
 
 ### Re-entering Fruition
 
