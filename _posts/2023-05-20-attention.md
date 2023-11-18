@@ -37,21 +37,13 @@ If, however, attention can be brought back to what is going to attend in the fir
 
 ## Monitoring the Mind Is the Only Ability Need for Stabilizing Attention
 
-What happened when we try to stabilize our attention to some object? First, we have to know what is in the mind at every moment. Only then can we realize if the mind is distracted. If so, let go the distraction and focus on the object with intent again. That is all. So, there are four abilities employed in this process: the ability of monitoring the mind [^mind], of realizing distraction, of letting go distraction, and of focus with intent. But, not all these abilities are essential. In fact, if we can know what is in the mind at every moment, then distraction can be realized in the first place. Without further development, letting go the distraction and focus with intent will be quite natural. So, when the first ability is gained, the others are fulfilled on their own. The unique ability we need for stabilizing our attention is the ability of monitoring the mind. [^universality]
+What happened when we try to stabilize our attention to some object? First, we have to know what is in the mind at every moment. Only then can we realize if the mind is distracted. If so, let go the distraction and focus on the object with intent again. That is all. So, there are four abilities employed in this process: the ability of monitoring the mind [^mind], of realizing distraction, of letting go distraction, and of focus with intent. But, not all these abilities are essential. In fact, if we can know what is in the mind at every moment, then distraction can be realized in the first place. Without further development, letting go the distraction and focus with intent will be quite natural. So, when the first ability is gained, the others are fulfilled on their own. The unique ability we need for stabilizing our attention is the ability of monitoring the mind. [^universality] [^attainment]
 
   [^mind]: We use mind as an equivalent of consciousness.
 
   [^universality]: It is also the only ability that is independent of the object on which our attention is stabilized.
 
-It is very helpful to think of the mind as a "room of awareness", an imagined room filled with objects of different sizes. Objects are those appearing in the mind. And the size of an object is irrelevant to the actual size of the object, but simply indicating how much attention is focused on it, since the larger the size of an object in the room of awareness, the more space of the mind is occupied by it. Monitoring the mind is like checking the room.
-
-## Insight Meditation Trains the Ability of Monitoring the Mind
-
-Insight meditation is the practice that trains the mental ability of monitoring the mind at every moment with little effort. Practitioner of insight meditation should constantly check his mind with unremitting endeavor during the period of his practice. Just like we learned to ride bicycle. It took effort to keep balance at the beginning. But when practice matures, we can keep balance with little effort. The same goes for insight meditation. As the result of diligent practice, no matter what we are doing, the mind can vigilantly monitor itself at every moment with little effort.
-
-## Practice Should Be Gradual and Methodical
-
-In the beginning, practitioner cannot catch up the swift mind, since in daily life the mind jumps back and forth between so many things. It is like learning language. A beginner cannot gain any skill by joining a native party directly. Frustration also arises. One should start by listening low speed simple sentences. And gradually, talking with a native speaker would become natural. The same goes for insight meditation. Just before a session of practice, a beginner should first restrict his mind by concentrating on the tactile sensation of breathing, in nasal cavity or on abdomen, so that the attractive things from the inner and outer worlds may lose their momentum. And gradually, practicing in daily life would become natural.
+  [^attainment]: The way to the attainment of this ability can be found in [this note](2023-08-25-viveka.md).
 
 ## References
 
