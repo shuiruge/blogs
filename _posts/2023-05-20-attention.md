@@ -37,7 +37,7 @@ If, however, attention can be brought back to what is going to attend in the fir
 
 ## Monitoring the Mind Is the Only Ability Need for Stabilizing Attention
 
-What happened when we try to stabilize our attention to some object? First, we have to know what is in the mind at every moment. Only then can we realize if the mind is distracted. If so, let go the distraction and focus on the object with intent again. That is all. So, there are four abilities employed in this process: the ability of monitoring the mind [^mind], of realizing distraction, of letting go distraction, and of focus with intent. But, not all these abilities are essential. In fact, if we can know what is in the mind at every moment, then distraction can be realized in the first place. Without further development, letting go the distraction and focus with intent will be quite natural. So, when the first ability is gained, the others are fulfilled on their own. The unique ability we need for stabilizing our attention is the ability of monitoring the mind. [^universality]
+What happened when we try to stabilize our attention to some object? First, we have to know what is currently present in the mind at every moment. Only then can we realize if the mind has been distracted. If so, let go the distraction and focus on the object with intent again. That is all. So, there are four abilities employed in this process: the ability of monitoring the mind [^mind], of realizing distraction, of letting go distraction, and of focus with intent. But, not all these abilities are essential. In fact, if we can know what is currently present in the mind at every moment, then distraction can be realized in the first place. Without further development, letting go the distraction and focus with intent will be quite natural. So, when the first ability is gained, the others are fulfilled on their own. The unique ability we need for stabilizing our attention is the ability of monitoring the mind. [^universality]
 
   [^mind]: We use mind as an equivalent of consciousness.
 
@@ -45,7 +45,7 @@ What happened when we try to stabilize our attention to some object? First, we h
 
 ## Ability of Monitoring the Mind Is Obtained by Stabilizing Attention
 
-To obtain the mental ability of monitoring the mind at every moment with little effort, we have to focus our attention to be aware of what is currently present in the mind. From time to time, however, attention will slip away by its own. And we bring it back again and again, till it is temporally tamed to stay at being aware of what is currently present in the mind autonomously. In this way, attention is stabilized and, then, neural plasticity can be triggered, by which the mental ability of monitoring the mind can be obtained.
+To obtain the mental ability of knowing what is currently present in the mind at every moment with little effort, we have to focus our attention to be aware of what is currently present in the mind. From time to time, however, attention will slip away by its own. And we bring it back again and again, till it is temporally tamed to stay at being aware of what is currently present in the mind autonomously. In this way, attention is stabilized and, then, neural plasticity can be triggered, by which the mental ability can be obtained.
 
 ## References
 
