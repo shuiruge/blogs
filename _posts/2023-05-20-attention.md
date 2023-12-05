@@ -1,6 +1,6 @@
 ---
 layout: blog-post
-title: Attention, Synaptic Plasticity, and Insight Meditation
+title: Attention, Synaptic Plasticity, and Mind Monitoring
 ---
 
 ## Human Brain Is a Modularized Network
