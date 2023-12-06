@@ -2,7 +2,6 @@
 layout: blog-post
 title: Attention, Synaptic Plasticity, and Mind Monitoring
 ---
-
 ## Human Brain Is a Modularized Network
 
 Human brain consists of many individual neural circuits, concurrently processing information that come from the inner and outer worlds. Neural circuits are then connected as a network. In this way, different neural circuits cooperate with each other to mediate complex behaviors such as bodily movements and thinking. To lift your hand, for instance, a neural pathway through multiple motor and sensory circuits is activated, which results in a steady hand lifting. [^modularized-network]
@@ -46,6 +45,10 @@ What happened when we try to stabilize our attention to some object? First, we h
 ## Ability of Monitoring the Mind Is Obtained by Stabilizing Attention
 
 To obtain the mental ability of knowing what is currently present in the mind at every moment with little effort, we have to focus our attention to be aware of what is currently present in the mind. From time to time, however, attention will slip away by its own. And we bring it back again and again, till it is temporally tamed to stay at being aware of what is currently present in the mind autonomously. In this way, attention is stabilized and, then, neural plasticity can be triggered, by which the mental ability can be obtained.
+
+## Practice Should Be Gradual and Methodical
+
+You may find breath constantly perceptible. So, it indicates that your attention has been slipped away if you cannot realize the current state of breath. Also, you may find that mental phenomena are more subtle and swift than physical phenomena. So, it is suggested to care more about the thoughts in the mind than other kinds of object. For example, intention is usually overlooked when we start to move or to talk.
 
 ## References
 
