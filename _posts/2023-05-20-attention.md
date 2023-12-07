@@ -46,7 +46,7 @@ What happened when we try to stabilize our attention to some object? First, we h
 
 To obtain the mental ability of knowing what is currently present in the mind at every moment with little effort, we have to focus our attention to be aware of what is currently present in the mind. From time to time, however, attention will slip away by its own. And we bring it back again and again, till it is temporally tamed to stay at being aware of what is currently present in the mind autonomously. In this way, attention is stabilized and, then, neural plasticity can be triggered, by which the mental ability can be obtained. [^endless-loop]
 
-  [^endless-loop]: You may think this as an endless loop that stabilizing attention is essential for obtaining the ability of stabilizing attention. It is like lighting a bunch of torches. Only with the first torch has been lighted, can you light the others immediately. This practice is lighting the first torch.
+  [^endless-loop]: You may think this as an endless loop that stabilizing attention is essential for obtaining the ability of stabilizing attention. It is like lighting a bunch of torches. You work hard to light the first torch. Then, with this torch, you can you light the others immediately. The practice mentioned here is lighting the first torch.
 
 ## Practice Should Be Gradual and Methodical
 
