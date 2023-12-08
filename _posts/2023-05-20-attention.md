@@ -36,21 +36,19 @@ If, however, attention can be brought back to what is going to attend in the fir
 
 ## Monitoring the Mind Is the Only Ability Need for Stabilizing Attention
 
-What happened when we try to stabilize our attention to some object? First, we have to know what is currently present in the mind at every moment. Only then can we realize if the mind has been distracted. If so, let go the distraction and focus on the object with intent again. That is all. So, there are four abilities employed in this process: the ability of monitoring the mind [^mind], of realizing distraction, of letting go distraction, and of focus with intent. But, not all these abilities are essential. In fact, if we can know what is currently present in the mind at every moment, then distraction can be realized in the first place. Without further development, letting go the distraction and focus with intent will be quite natural. So, when the first ability is gained, the others are fulfilled on their own. The unique ability we need for stabilizing our attention is the ability of monitoring the mind. [^universality]
+What happened when we try to stabilize our attention to some object? First, we have to know what is currently present in the mind at every moment. Only then can we realize if the mind has been distracted. If so, let go the distraction and focus on the object with intent again. That is all. So, there are four abilities employed in this process: the ability of monitoring the mind [^mind], of realizing distraction, of letting go distraction, and of focus with intent. But, not all these abilities are essential. In fact, if we can know what is currently present in the mind at every moment, then distraction can be realized in the first place. Without further development, letting go the distraction and focus with intent will be quite natural. So, when the first ability is gained, the others are fulfilled on their own. The unique ability we need for stabilizing our attention is the ability of monitoring the mind. [^universality] [^example]
 
   [^mind]: We use mind as an equivalent of consciousness.
 
   [^universality]: It is also the only ability that is independent of the object on which our attention is stabilized.
+
+  [^example]: Here is an example illustrating how stabilizing attention works for cultivating loving-kindness and for uprooting hatred. To cultivate loving-kindness, first try to arouse a feeling of loving-kindness by, for instance, recalling something or someone related to loving-kindness; then stabilize attention onto this feeling, till the feeling shining alone in the mind. This triggers the neural plasticity about loving-kindness, so that the feeling can be rearoused immediately whenever it is needed. To uproot hatred, whenever hatred arises (it can be detected because of the ability of monitoring the mind), simply direct attention away from it, or overcome it by rearousing loving-kindness. This habituates hatred and replaces it with loving-kindness.
 
 ## Ability of Monitoring the Mind Is Obtained by Stabilizing Attention
 
 To obtain the mental ability of knowing what is currently present in the mind at every moment with little effort, we have to focus our attention to be aware of what is currently present in the mind. From time to time, however, attention will slip away by its own. And we bring it back again and again, till it is temporally tamed to stay at being aware of what is currently present in the mind autonomously. In this way, attention is stabilized and, then, neural plasticity can be triggered, by which the mental ability can be obtained. [^endless-loop]
 
   [^endless-loop]: You may think this as an endless loop that stabilizing attention is essential for obtaining the ability of stabilizing attention. It is like lighting a bunch of torches. You work hard to light the first torch. Then, with this torch, you can you light the others immediately. The practice mentioned here is lighting the first torch.
-
-## Practice Should Be Gradual and Methodical
-
-You may find breath constantly perceptible. So, it indicates that your attention has been slipped away if you cannot realize the current state of breath. Also, you may find that mental phenomena are more subtle and swift than physical phenomena. So, it is suggested to care more about the thoughts in the mind than other kinds of object. For example, intention is usually overlooked when we start to move or to talk.
 
 ## References
 
