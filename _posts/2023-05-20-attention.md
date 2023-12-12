@@ -12,7 +12,9 @@ Human brain consists of many individual neural circuits, concurrently processing
 
 Attention modulates the behavior of the network. Paying attention with intent sensitizes the synapses along the neural pathways that are relevant to what is attend. And ignoring, namely noticing without reacting by physical or mental deed, habituates the synapses along the neural pathways that are relevant to what is ignored. [^attention] Importantly, both sensitization and habituation are chemically mediated. [^sensitization-and-habituation]
 
-  [^attention]: For the details of modulation, see the section 7.4 of _Cognitive Neuroscience_.
+  [^attention]: We often use light as a metaphor for attention. When we pay attention to an object in our mind, it stands out from the blurry background and becomes clear; and recedes back when attention moves to elsewhere.
+
+    For the details of modulation, see the section 7.4 of _Cognitive Neuroscience_.
 
   [^sensitization-and-habituation]: The word "sensitize" brings to mind that paying attention to a part of your body will enhance the feeling there, or that hearing becomes more sensitive when you are cued to pay attention to a certain type of voice. Contrarily, the word "habituate" reminds of the situation when you get used to the terrible smell of toilet, or to the background noise you do not care about.
 
