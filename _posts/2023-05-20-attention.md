@@ -49,7 +49,11 @@ What happened when we try to stabilize attention to some object? First, we have 
 
 To obtain the mental ability of knowing where attention is in the moment with little effort, we have to focus our attention to knowing where attention is in the moment [^task]. From time to time, however, attention will slip away by its own. And we bring it back again and again, till it is temporally tamed to autonomously stay at knowing where attention is in the moment. In this way, attention is stabilized and, then, neural plasticity can be triggered, by which the mental ability can be obtained. [^endless-loop]
 
-  [^task]: That is, focus our attention to knowing what is distinctly perceived in the moment. Wherever attention applies, the attended stands out from the blurry background of the mind. And as a matter of fact, when attention is fully focused, nothing except the attended can be distinctly perceived. So, knowing where attention is is the same as knowing what is distinctly perceived.
+  [^task]: That is, focus our attention to knowing what is distinctly perceived in the moment.
+
+    In fact, perception does not indicate attention. For example, when we focus our attention to a finger to discern the fingerprint, we can still perceive what is in front of the finger. This kind of perception is not distinct, but broader. We call it _peripheral perception_ to distinguish from attention.
+
+    But, distinct perception does indicate attention. As a matter of fact, when attention is fully focused, nothing except the attended can be distinctly perceived. This implies that whatever is distinctly perceived, attention is payed on it. Otherwise, if we can distinctly perceive an object while attention is elsewhere, then we can distinctly perceive other object when attention is fully focused, which contradicts the fact. So, by following what is distinctly perceived, we know where attention is.
 
   [^endless-loop]: You may think this as an endless loop that stabilizing attention is essential for obtaining the ability of stabilizing attention. It is like lighting a bunch of torches. You work hard to light the first torch. Then, with this torch, you can you light the others immediately. The practice mentioned here is lighting the first torch.
 
