@@ -11,9 +11,7 @@ Human brain consists of many individual neural circuits, concurrently processing
 
 ## Attention Is a Modulating Mechanism
 
-Attention modulates the behavior of the network. [^attention-types] Paying attention with intent sensitizes the synapses along the neural pathways that are relevant to what is attend. And ignoring, namely noticing without reacting by physical or mental deed, habituates the synapses along the neural pathways that are relevant to what is ignored. Importantly, both sensitization and habituation are chemically mediated. [^sensitization-and-habituation]
-
-  [^attention-types]: In fact, there are two kinds of attention, mediated by different neural mechanisms. Voluntary attention is top-down, modulating the neural circuits. Conversely, reflexive attention is bottom-up, aroused by the strong stimuli from the inner and outer worlds. But in this note, discussions are restricted to voluntary attention. See the section 7.5 of _Cognitive Neuroscience_.
+Attention modulates the behavior of the network. Paying attention with intent sensitizes the synapses along the neural pathways that are relevant to what is attend. And ignoring, namely noticing without reacting by physical or mental deed, habituates the synapses along the neural pathways that are relevant to what is ignored. Importantly, both sensitization and habituation are chemically mediated. [^sensitization-and-habituation]
 
   [^sensitization-and-habituation]: The word "sensitize" brings to mind that paying attention to a part of your body will enhance the feeling there, or that hearing becomes more sensitive when you are cued to pay attention to a certain type of voice. Contrarily, the word "habituate" reminds of the situation when you get used to the terrible smell of toilet, or to the background noise you do not care about.
 
@@ -58,6 +56,5 @@ To obtain the mental ability of knowing where attention is in the moment with li
 ## References
 
 1. _Principles of Neural Science_, by E. Kandel, et al., the 6th edition. ISBN: 1259642232.
-1. _Cognitive Neuroscience_, by M. Gazzaniga, et al., the 5th edition. ISBN: 0393603172.
 
 ---
