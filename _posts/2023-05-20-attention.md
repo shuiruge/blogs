@@ -47,7 +47,7 @@ To obtain the mental ability of knowing where attention is in the moment with li
 
   [^task]: That is, focus our attention to knowing what is distinctly perceived in the moment.
 
-    In fact, perception does not indicate attention. For example, when we focus our attention to a finger to discern the fingerprint, we can still perceive something around the finger. This kind of perception is broader, but not distinct. We call it _peripheral perception_ to distinguish from attention. So, when something is perceived, attention may not be there.
+    In fact, perception does not indicate attention. For example, when we focus our attention to a finger to discern the fingerprint, we can still perceive something else around the finger. This kind of perception is broader, but not distinct. We call it _peripheral perception_ to distinguish from attention. So, when something is perceived, attention may not be there.
 
     But, distinct perception does indicate attention. As a matter of fact, when attention is fully focused, nothing except the attended can be distinctly perceived. This implies that whatever is distinctly perceived, attention must be there. Otherwise, if we can distinctly perceive an object while attention is elsewhere, then we can distinctly perceive other object when attention is fully focused, which contradicts the fact. So, by following what is distinctly perceived, we know where attention is.
 
