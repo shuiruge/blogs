@@ -11,11 +11,9 @@ Human brain consists of many individual neural circuits, concurrently processing
 
 ## Attention Is a Modulating Mechanism
 
-Attention modulates the behavior of the network. Paying attention with intent sensitizes the synapses along the neural pathways that are relevant to what is attend. And ignoring, namely noticing without reacting by physical or mental deed, habituates the synapses along the neural pathways that are relevant to what is ignored. [^attention] Importantly, both sensitization and habituation are chemically mediated. [^sensitization-and-habituation]
+Attention modulates the behavior of the network. [^attention-types] Paying attention with intent sensitizes the synapses along the neural pathways that are relevant to what is attend. And ignoring, namely noticing without reacting by physical or mental deed, habituates the synapses along the neural pathways that are relevant to what is ignored. Importantly, both sensitization and habituation are chemically mediated. [^sensitization-and-habituation]
 
-  [^attention]: We often use light as a metaphor for attention. When we pay attention to an object in our mind, it stands out from the blurry background and becomes clear; and recedes back when attention moves to elsewhere.
-
-    For the details of modulation, see the section 7.4 of _Cognitive Neuroscience_.
+  [^attention-types]: In fact, there are two kinds of attention, mediated by different neural mechanisms. Voluntary attention is top-down, modulating the neural circuits. Conversely, reflexive attention is bottom-up, aroused by the strong stimuli from the inner and outer worlds. But in this note, discussions are restricted to voluntary attention. See the section 7.5 of _Cognitive Neuroscience_.
 
   [^sensitization-and-habituation]: The word "sensitize" brings to mind that paying attention to a part of your body will enhance the feeling there, or that hearing becomes more sensitive when you are cued to pay attention to a certain type of voice. Contrarily, the word "habituate" reminds of the situation when you get used to the terrible smell of toilet, or to the background noise you do not care about.
 
@@ -51,9 +49,9 @@ To obtain the mental ability of knowing where attention is in the moment with li
 
   [^task]: That is, focus our attention to knowing what is distinctly perceived in the moment.
 
-    In fact, perception does not indicate attention. For example, when we focus our attention to a finger to discern the fingerprint, we can still perceive what is in front of the finger. This kind of perception is broader, but not distinct. We call it _peripheral perception_ to distinguish from attention.
+    In fact, perception does not indicate attention. For example, when we focus our attention to a finger to discern the fingerprint, we can still perceive something around the finger. This kind of perception is broader, but not distinct. We call it _peripheral perception_ to distinguish from attention. So, when something is perceived, attention may not be there.
 
-    But, distinct perception does indicate attention. As a matter of fact, when attention is fully focused, nothing except the attended can be distinctly perceived. This implies that whatever is distinctly perceived, attention is payed on it. Otherwise, if we can distinctly perceive an object while attention is elsewhere, then we can distinctly perceive other object when attention is fully focused, which contradicts the fact. So, by following what is distinctly perceived, we know where attention is.
+    But, distinct perception does indicate attention. As a matter of fact, when attention is fully focused, nothing except the attended can be distinctly perceived. This implies that whatever is distinctly perceived, attention must be there. Otherwise, if we can distinctly perceive an object while attention is elsewhere, then we can distinctly perceive other object when attention is fully focused, which contradicts the fact. So, by following what is distinctly perceived, we know where attention is.
 
   [^endless-loop]: You may think this as an endless loop that stabilizing attention is essential for obtaining the ability of stabilizing attention. It is like lighting a bunch of torches. You work hard to light the first torch. Then, with this torch, you can you light the others immediately. The practice mentioned here is lighting the first torch.
 
