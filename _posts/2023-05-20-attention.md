@@ -41,7 +41,7 @@ What happened when we try to stabilize attention to some object? First, we have 
 
   [^example]: Here is an example illustrating how stabilizing attention works for cultivating loving-kindness and for uprooting hatred. To cultivate loving-kindness, first try to arouse a feeling of loving-kindness by, for instance, recalling something or someone related to loving-kindness; then stabilize attention onto this feeling, till the feeling shining alone in the mind. This triggers the neural plasticity that imprints loving-kindness on the mind, so that the feeling can persist. To uproot hatred, whenever hatred intrudes (it can be detected because of the ability of monitoring attention), simply direct attention away from it, or overcome it by loving-kindness. This habituates hatred and replaces it with loving-kindness.
 
-## Ability of Monitoring Attention Is Obtained by Stabilizing Attention
+## Ability of Monitoring Attention Is Obtained by Stabilizing Attention to Monitoring Attention
 
 To obtain the mental ability of knowing where attention is in the moment with little effort, we have to focus our attention to knowing where attention is in the moment [^task]. From time to time, however, attention will slip away by its own. And we bring it back again and again, till it is temporally tamed to autonomously stay at knowing where attention is in the moment. In this way, attention is stabilized and, then, neural plasticity can be triggered, by which the mental ability can be obtained. [^endless-loop]
 
