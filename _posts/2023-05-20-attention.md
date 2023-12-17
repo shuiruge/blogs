@@ -7,11 +7,13 @@ title: Attention, Synaptic Plasticity, and Mind Monitoring
 
 Human brain consists of many individual neural circuits, concurrently processing information that come from the inner and outer worlds. Neural circuits are then connected as a network. In this way, different neural circuits cooperate with each other to mediate complex behaviors such as bodily movements and thinking. To lift your hand, for instance, a neural pathway through multiple motor and sensory circuits is activated, which results in a steady hand lifting. [^modularized-network]
 
-  [^modularized-network]: See the chapter "The Brain and Behavior" of _Principles of Neural Science_.
+  [^modularized-network]: For details of human brain as modularized network, see chapter 1 of _Principles of Neural Science_.
 
 ## Attention Is a Modulating Mechanism
 
-Attention modulates the behavior of the network. Paying attention with intent sensitizes the synapses along the neural pathways that are relevant to what is attend. And ignoring, namely noticing without reacting by physical or mental deed, habituates the synapses along the neural pathways that are relevant to what is ignored. Importantly, both sensitization and habituation are chemically mediated. [^sensitization-and-habituation]
+Attention modulates the behavior of the network. [^attention-types] Paying attention with intent sensitizes the synapses along the neural pathways that are relevant to what is attend. And ignoring, namely noticing without reacting by physical or mental deed, habituates the synapses along the neural pathways that are relevant to what is ignored. Importantly, both sensitization and habituation are chemically mediated. [^sensitization-and-habituation]
+
+  [^attention-types]: In fact, there are two kinds of attention, mediated by different neural mechanisms. Voluntary attention is top-down, modulating the neural pathways. Conversely, reflexive attention is bottom-up, transiently aroused by attractive stimuli from the inner and outer worlds. Reflexive attention also contributes modulating neural pathways because it interrupts voluntary attention and may spontaneously re-direct voluntary attention. See the section 7.5 of _Cognitive Neuroscience_.
 
   [^sensitization-and-habituation]: The word "sensitize" brings to mind that paying attention to a part of your body will enhance the feeling there, or that hearing becomes more sensitive when you are cued to pay attention to a certain type of voice. Contrarily, the word "habituate" reminds of the situation when you get used to the terrible smell of toilet, or to the background noise you do not care about.
 
@@ -19,7 +21,7 @@ Attention modulates the behavior of the network. Paying attention with intent se
 
 ## Stable Attention Triggers Synaptic Plasticity
 
-Many stimuli from the inner and outer worlds are competing for your attention. Generally, attention is unstable; it is constantly being taken away by different stimuli, gross or subtle, so that neural circuits that are currently attended become ignored in the next moment, and that are temporally habituated soon become sensitized. In this situation, the chemical mediators cannot accumulate in synapses.
+Many stimuli from the inner and outer worlds are competing for your attention. Generally, attention is unstable; it is constantly being taken away by different stimuli, gross or subtle, so that neural pathways that are currently attended become ignored in the next moment, and that are temporally habituated soon become sensitized. In this situation, the chemical mediators cannot accumulate in synapses.
 
 If, however, attention can be brought back to what is going to attend in the first place whenever it is taken away, then the chemical mediators will accumulate enough to trigger synaptic plasticity, leading to anatomical changes in the synapses. [^synaptic-plasticity] The sensitization and the habituation then become long-lasting. In this way, we can plant what we want to cultivate, such as loving-kindness, and uproot what we want to eliminate, such as disturbing thoughts [^disturbing-thoughts].
 
@@ -35,7 +37,9 @@ If, however, attention can be brought back to what is going to attend in the fir
 
 ## Monitoring Attention Is the Only Ability Need for Stabilizing Attention
 
-What happened when we try to stabilize attention to some object? First, we have to know where attention is in the moment. Only then can we realize if it has been distracted. If so, let go the distraction and focus on the object with intent again. That is all. So, there are four abilities employed in this process: the ability of monitoring attention, of realizing distraction, of letting go distraction, and of focus with intent. But, not all these abilities are essential. If we can, at every moment, know where attention is in the moment, then distraction can be realized in the first place. Without further development, letting go the distraction and focus with intent will be quite natural. So, when the first ability is gained, the others are fulfilled on their own. The unique ability we need for stabilizing our attention is the ability of monitoring attention. [^universality] [^example]
+What happened when we try to stabilize attention to some object? First, we have to know where attention is [^where-attention-is] in the moment. Only then can we realize if it has been distracted. If so, let go the distraction and focus on the object with intent again. That is all. So, there are four abilities employed in this process: the ability of monitoring attention, of realizing distraction, of letting go distraction, and of focus with intent. But, not all these abilities are essential. If we can, at every moment, know where attention is in the moment, then distraction can be realized in the first place. Without further development, letting go the distraction and focus with intent will be quite natural. So, when the first ability is gained, the others are fulfilled on their own. The unique ability we need for stabilizing our attention is the ability of monitoring attention. [^universality] [^example]
+
+  [^where-attention-is]: As a matter of fact, consciousness has so limited capacity of data processing that, at each moment, only the data coming from a narrow perceptual field can be distinctly perceived by consciousness. This narrow perceptual field is where attention is. In fact, it is attention that makes the focusing possible. When we try to broaden the perceptual field, things become indistinct, and attention disperses. In addition, reflexive attention appears only when very distinct things arise. So, to know where attention is to know what is distinctly perceived by consciousness.
 
   [^universality]: It is also the only ability that is independent of the object on which our attention is stabilized.
 
@@ -43,18 +47,13 @@ What happened when we try to stabilize attention to some object? First, we have 
 
 ## Ability of Monitoring Attention Is Obtained by Stabilizing Attention to Monitoring Attention
 
-To obtain the mental ability of knowing where attention is in the moment with little effort, we have to focus our attention to knowing where attention is in the moment [^task]. From time to time, however, attention will slip away by its own. And we bring it back again and again, till it is temporally tamed to autonomously stay at knowing where attention is in the moment. In this way, attention is stabilized and, then, neural plasticity can be triggered, by which the mental ability can be obtained. [^endless-loop]
-
-  [^task]: That is, focus our attention to knowing what is distinctly perceived in the moment.
-
-    In fact, perception does not indicate attention. For example, when we focus our attention to a finger to discern the fingerprint, we can still perceive something else around the finger. This kind of perception is broader, but not distinct. We call it _peripheral perception_ to distinguish from attention. So, when something is perceived, attention may not be there.
-
-    But, distinct perception does indicate attention. As a matter of fact, when attention is fully focused, nothing except the attended can be distinctly perceived. This implies that whatever is distinctly perceived, attention must be there. Otherwise, if we can distinctly perceive an object while attention is elsewhere, then we can distinctly perceive other object when attention is fully focused, which contradicts the fact. So, by following what is distinctly perceived, we know where attention is.
+To obtain the mental ability of knowing where attention is in the moment with little effort, we have to focus our attention to knowing where attention is in the moment. From time to time, however, attention will slip away by its own. And we bring it back again and again, till it is temporally tamed to autonomously stay at knowing where attention is in the moment. In this way, attention is stabilized and, then, neural plasticity can be triggered, by which the mental ability can be obtained. [^endless-loop]
 
   [^endless-loop]: You may think this as an endless loop that stabilizing attention is essential for obtaining the ability of stabilizing attention. It is like lighting a bunch of torches. You work hard to light the first torch. Then, with this torch, you can you light the others immediately. The practice mentioned here is lighting the first torch.
 
 ## References
 
 1. _Principles of Neural Science_, by E. Kandel, et al., the 6th edition. ISBN: 1259642232.
+1. _Cognitive Neuroscience_, by M. Gazzaniga, et al., the 5th edition. ISBN: 0393603172.
 
 ---
