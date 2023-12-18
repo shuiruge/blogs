@@ -7,7 +7,7 @@ title: Attention, Synaptic Plasticity, and Mind Monitoring
 
 Human brain consists of many individual neural circuits, concurrently processing information that come from the inner and outer worlds. Neural circuits are then connected as a network. In this way, different neural circuits cooperate with each other to mediate complex behaviors such as bodily movements and thinking. To lift your hand, for instance, a neural pathway through multiple motor and sensory circuits is activated, which results in a steady hand lifting. [^modularized-network]
 
-  [^modularized-network]: For details of human brain as modularized network, see chapter 1 of _Principles of Neural Science_.
+  [^modularized-network]: For the details of human brain as modularized network, see chapter 1 of _Principles of Neural Science_.
 
 ## Attention Is a Modulating Mechanism
 
