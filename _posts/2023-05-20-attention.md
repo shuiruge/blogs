@@ -41,7 +41,7 @@ If, however, attention can be brought back to what is going to attend in the fir
 
 What happened when we try to stabilize attention to some object? First, we have to know what is currently present in the mind [^mind] at every moment. Only then can we realize if the mind has been distracted. If so, let go the distraction and focus on the object with intent again. That is all. So, there are four abilities employed in this process: the ability of monitoring the mind, of realizing distraction, of letting go distraction, and of focus with intent. But, not all these abilities are essential. In fact, if we can know what is currently present in the mind at every moment, then distraction can be realized in the first place. Without further development, letting go the distraction and focus with intent will be quite natural. So, when the first ability is gained, the others are fulfilled on their own. The unique ability we need for stabilizing our attention is the ability of monitoring the mind. [^universality] [^example]
 
-  [^mind]: Throughout this note, "mind" is used as a synonym for "consciousness".
+  [^mind]: Throughout this note, we use the word mind as an equivalent of consciousness.
 
   [^universality]: It is also the only ability that is independent of the object on which our attention is stabilized.
 
