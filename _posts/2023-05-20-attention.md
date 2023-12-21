@@ -11,7 +11,7 @@ Human brain consists of many individual neural circuits, concurrently processing
 
 ## Attention Is a Modulating Mechanism
 
-Attention modulates the behavior of the network. [^attention-types] Paying attention with intent sensitizes the synapses along the neural pathways that are relevant to what is attend. And ignoring, namely noticing without reacting by physical or mental deed, habituates the synapses along the neural pathways that are relevant to what is ignored. Importantly, both sensitization and habituation are chemically mediated. [^sensitization-and-habituation]
+Attention modulates the behavior of the network. [^attention-types] Paying attention with intent sensitizes the synapses along the neural pathways that are relevant to what is in focus. And ignoring, namely noticing without reacting by physical or mental deed, habituates the synapses along the neural pathways that are relevant to what is ignored. Importantly, both sensitization and habituation are chemically mediated. [^sensitization-and-habituation]
 
   [^attention-types]: In fact, there are two kinds of attention, mediated by different neural mechanisms. Voluntary attention is top-down, modulating the neural pathways. Conversely, reflexive attention is bottom-up, transiently aroused by attractive stimuli from the inner and outer worlds. Reflexive attention also contributes modulating neural pathways because it interrupts voluntary attention and may spontaneously re-direct voluntary attention.
 
@@ -23,9 +23,9 @@ Attention modulates the behavior of the network. [^attention-types] Paying atten
 
 ## Stable Attention Triggers Synaptic Plasticity
 
-Many stimuli from the inner and outer worlds are competing for your attention. Generally, attention is unstable; it is constantly being taken away by different stimuli, gross or subtle, so that neural pathways that are presently attended become ignored in the next moment, and that are temporally habituated soon become sensitized. In this situation, the chemical mediators cannot accumulate in synapses.
+Many stimuli from the inner and outer worlds are competing for your attention. Generally, attention is unstable; it is constantly being taken away by different stimuli, gross or subtle, so that neural pathways that are presently in focus become ignored in the next moment, and that are temporally habituated soon become sensitized. In this situation, the chemical mediators cannot accumulate in synapses.
 
-If, however, attention can be brought back to what is going to attend in the first place whenever it is taken away, then the chemical mediators will accumulate enough to trigger synaptic plasticity, leading to anatomical changes in the synapses. [^synaptic-plasticity] The sensitization and the habituation then become long-lasting. In this way, we can plant what we want to cultivate, such as loving-kindness, and uproot what we want to eliminate, such as disturbing thoughts. [^disturbing-thoughts]
+If, however, attention can be stabilized to what is going to focus on, then the chemical mediators will accumulate enough to trigger synaptic plasticity, leading to anatomical changes in the synapses. [^synaptic-plasticity] The sensitization and the habituation then become long-lasting. In this way, we can plant what we want to cultivate, such as loving-kindness, and uproot what we want to eliminate, such as disturbing thoughts. [^disturbing-thoughts] [^example]
 
   [^synaptic-plasticity]: The chemical mediators that leads to sensitization are the second messengers, such as protein kinase A, which will accumulate within neurons. If the period of accumulation becomes sufficient, then there would be possible that the mediators move into nucleus, triggering the expression of DNA that produces the proteins for building synapses. This leads to a long-term sensitization.
 
@@ -37,15 +37,15 @@ If, however, attention can be brought back to what is going to attend in the fir
 
   [^disturbing-thoughts]: Once what disturbs the mind is uprooted, long-lasting peacefulness is left.
 
+  [^example]: Here is an example illustrating how stabilizing attention works for cultivating loving-kindness and for uprooting hatred. To cultivate loving-kindness, first try to arouse a feeling of loving-kindness by, for instance, recalling something or someone related to loving-kindness; then stabilize attention onto this feeling, till the feeling shining alone in the mind. This triggers the neural plasticity that imprints loving-kindness on the mind, so that the feeling can persist. When loving-kindness persists in heart, hatred is naturally uprooted.
+
 ## Constant Mind Monitoring Is the Only Ability Need for Stabilizing Attention
 
-What happens when we try to stabilize attention to some object? First, we focus on the object with intent, which sensitizes the corresponding neural pathways so that the object comes to be distinct in the mind. [^mind] This effect of sensitization may increase with time on its own, but may also decrease if disturbed. To stabilizing attention is to keep this effect of sensitization from decrease. To do so, we have to constantly monitor the mind so as to re-focus whenever the object is less distinct. The sooner the decrease is detected, the less effort will it take for re-focus. So, the unique ability we need for stabilizing attention is the constant mind monitoring. [^universality] [^example]
+What happens when we try to stabilize attention to some object? First, we focus on the object with intent, which sensitizes the relevant neural pathways so that the object comes to be distinct in the mind. [^mind] This effect of sensitization may increase with time on its own, but may also decrease if disturbed. To stabilizing attention is to keep this effect of sensitization from decrease. To do so, we have to constantly monitor the mind so as to re-focus whenever the object is less distinct. The sooner the decrease is detected, the less effort will it take for re-focus. So, the unique ability we need for stabilizing attention is the constant mind monitoring. [^universality]
 
   [^mind]: Throughout this note, we use the word mind as an equivalent of consciousness.
 
   [^universality]: It is also the only ability that is independent of the object on which our attention is stabilized.
-
-  [^example]: Here is an example illustrating how stabilizing attention works for cultivating loving-kindness and for uprooting hatred. To cultivate loving-kindness, first try to arouse a feeling of loving-kindness by, for instance, recalling something or someone related to loving-kindness; then stabilize attention onto this feeling, till the feeling shining alone in the mind. This triggers the neural plasticity that imprints loving-kindness on the mind, so that the feeling can persist. When loving-kindness persists in heart, hatred is naturally uprooted.
 
 ## Ability of Constant Mind Monitoring Is Obtained by Stabilizing Attention to Mind Monitoring
 
