@@ -41,11 +41,7 @@ If, however, attention can be stabilized to what is going to focus on, then the 
 
 ## Constant Mind Monitoring Is the Only Ability Need for Stabilizing Attention
 
-What happens when we try to stabilize attention to some object? First, we focus on the object with intent, which sensitizes the relevant neural pathways so that the object comes to be distinct in the mind. [^mind] This effect of sensitization may increase with time on its own, but may also decrease if disturbed. To stabilizing attention is to keep this effect of sensitization from decrease. To do so, we have to constantly monitor the mind so as to re-focus whenever the object is less distinct. The sooner the decrease is detected, the less effort will it take for re-focus. So, the unique ability we need for stabilizing attention is the constant mind monitoring. [^universality]
-
-  [^mind]: Throughout this note, we use the word mind as an equivalent of consciousness.
-
-  [^universality]: It is also the only ability that is independent of the object on which our attention is stabilized.
+What happens when we try to stabilize attention to some object? First, we focus on the object with intent, which sensitizes the relevant neural pathways so that the object comes to be distinct in the mind. This effect of sensitization may increase with time on its own, but may also decrease if disturbed. To stabilizing attention is to keep this effect of sensitization from decrease. To do so, we have to constantly monitor the mind so as to re-focus whenever the object is less distinct. The sooner the decrease is detected, the less effort will it take for re-focus. So, the unique ability we need for stabilizing attention is the constant mind monitoring.
 
 ## Ability of Constant Mind Monitoring Is Obtained by Stabilizing Attention to Mind Monitoring
 
