@@ -45,7 +45,7 @@ What happens when we try to stabilize attention onto some object? First, we focu
 
     The process illustrated here holds not for the nasal sensation of breath alone, but for any kind of object, since the principle behind is the same.
 
-For successfully applying this process to any object, we have to know what is distinctly perceived at every moment. With this ability only, we can stabilize attention to any object we want.
+For successfully applying this process to any object, we have to know what is distinctly perceived at every moment. With this ability only, can we stabilize attention to any object we want.
 
 ## Ability of Persistent Introspection Is Obtained by Stabilizing Attention onto Persistent Introspection
 
