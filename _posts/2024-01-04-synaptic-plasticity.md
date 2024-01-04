@@ -11,7 +11,9 @@ Human brain consists of many individual neural circuits, concurrently processing
 
 ## Intention Modulates Neural Pathway
 
-Intention modulates the behavior of the network. It facilitates the synapses along a neural pathway in the network. For example, an intention of sensing the right toes makes the feeling of toes stand out from darkness immediately. The is the effect of modulating the neural pathway that senses the toes. Importantly, **modulation of neural pathway is chemical mediated**.
+Intention modulates the behavior of the network. It facilitates the synapses along a neural pathway in the network. For example, an intention of sensing the right toes makes the feeling of toes stand out from darkness immediately. The is the effect of modulating the neural pathway that senses the toes. Importantly, **modulation of neural pathway is chemical mediated**. [^modulation]
+
+  [^modulation]: TODO: explain how modulation is chmeical mediated.
 
 ## Sustained Intention Triggers Long-Lasting Synaptic Plasticity
 
