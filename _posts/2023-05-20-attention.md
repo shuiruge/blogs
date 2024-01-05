@@ -3,6 +3,8 @@ layout: blog-post
 title: Attention, Synaptic Plasticity, and Persistent Introspection
 ---
 
+**DEPRECATED**
+
 ## Human Brain Is a Modularized Network
 
 Human brain consists of many individual neural circuits, concurrently processing information that come from the inner and outer worlds. Neural circuits are then connected as a network. In this way, different neural circuits cooperate with each other to mediate complex behaviors such as bodily movements and thinking. To lift your hand, for instance, a neural pathway through multiple motor and sensory circuits is activated, which results in a steady hand lifting. [^modularized-network]
