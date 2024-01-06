@@ -7,13 +7,13 @@ title: Suggestion, Synaptic Plasticity, and Persistent Introspection
 
 Human brain consists of many individual neural circuits, concurrently processing information that come from the inner and outer worlds. Neural circuits are then connected as a network. In this way, different neural circuits cooperate with each other to mediate complex behaviors such as bodily movements and thinking. To lift your hand, for instance, a neural pathway through multiple motor and sensory circuits is activated, which results in a steady hand lifting. [^modularized-network]
 
-  [^modularized-network]: For the details of human brain as modularized network, see chapter 1 of _Principles of Neural Science_.
+  [^modularized-network]: For the details of human brain as modularized network, see chapter 1 of _Principles of Neural Science_. [^italic]
+
+  [^italic]: Throughout this note, italic font hints for proper noun or definition, and bold font for emphasis.
 
 ## Suggestion Modulates Neural Pathway
 
-_Suggestion_ [^italic] is an intention to response to a kind of stimuli by a specific behavior. To do so, suggestion modulates the network by facilitating the synapses along a neural pathway that mediates the behavior. In this way, it is ensured that, when the leading neurons are stimulated, it is the neural pathway that mediates the behavior rather than any other that is activated. Importantly, **modulation of neural pathway is chemically mediated**. [^modulation]
-
-  [^italic]: Throughout this note, italic font indicates either definition or proper noun.
+_Suggestion_ is an intention to response to a kind of stimuli by a specific behavior. To do so, suggestion modulates the network by facilitating the synapses along a neural pathway that mediates the behavior. In this way, it is ensured that, when the leading neurons are stimulated, it is the neural pathway that mediates the behavior rather than any other that is activated. Importantly, **modulation of neural pathway is chemically mediated**. [^modulation]
 
   [^modulation]: There are two kinds of receptors on synapses. One is ionotropic receptor, which _mediates_ behaviors by propagating electrical signals. The other is metabotropic receptor, which _modulates_ behaviors by modifying the strength of synapses. Metabotropic receptor, when activated, mobilizes chemical mediators in the synapse to facilitate the release or/and the reception of neurotransmitters. For details, see chapter 11 of _Principles of Neural Science_.
 
