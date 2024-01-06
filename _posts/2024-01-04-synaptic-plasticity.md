@@ -17,7 +17,7 @@ _Suggestion_ [^italic] is an intention to response to a kind of stimuli by a spe
 
   [^modulation]: There are two kinds of receptors on synapses. One is ionotropic receptor, which _mediates_ behaviors by propagating electrical signals. The other is metabotropic receptor, which _modulates_ behaviors by modifying the strength of synapses. Metabotropic receptor, when activated, mobilizes chemical mediators in the synapse to facilitate the release or/and the reception of neurotransmitters. For details, see chapter 11 of _Principles of Neural Science_.
 
-      Stimulating a neuron may activate many neural pathways that are successively connected to the neuron. To selectively activate a neural pathway, it is essential to facilitate the synapses along the neural pathway, so as to get sufficient probability of activation. The metabotropic receptors on those synapses have to be activated.
+      Stimulating a neuron may activate many neural pathways that are successively connected to the neuron. To selectively activate a neural pathway among the rest, it is essential to facilitate the synapses along the neural pathway, so as to get sufficient probability of activation. The metabotropic receptors on those synapses have to be activated.
 
       For example, when we are suggested to take care of red objects, the neural pathway that responsible for detecting red color is facilitated, so that whenever we see an object, this neural pathway has much higher probability of being activated, so that we can detect red object correctly but missing the objects with other colors. The famous "invisible gorilla" experiment made by Daniel Simons is another example.
 
