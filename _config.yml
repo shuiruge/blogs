@@ -40,3 +40,6 @@ paginate: 5
 
 # Gems
 gems: [jekyll-paginate]
+
+plugins:
+  - jekyll-relative-links
