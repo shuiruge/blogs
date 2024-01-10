@@ -7,4 +7,6 @@ Conflict arises when things happen so and we expect something else. So, for diss
 
 So, the problem of conflicts is the reaction to things. We have to be aware of the reaction to anything when it happens.
 
-Based on a [previous note](2024-01-04-synaptic-plasticity.md), to obtain the mental ability of persistent bare observation of mind, we have to sustain an anticipation where the stimulus is the thing that is perceived and the behavior is being aware of the raction to it.
+Based on a [previous note](2024-01-04-synaptic-plasticity.md), to obtain the mental ability of being aware of the reaction to things at each moment, we have to sustain an anticipation where the stimulus is the thing that is perceived and the behavior is being aware of the raction to it.
+
+---
