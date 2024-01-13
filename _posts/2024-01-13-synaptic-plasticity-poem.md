@@ -5,43 +5,43 @@ title: Anticipation, Synaptic Plasticity, and Persistent Introspection (A Poem)
 
 ## Anticipation
 
-_Anticipation_ is an intention:
-when stimuli of a kind is received,
-a specific behavior is followed. [^anticipation]
-Stimulating a neuron might activate
-many pathways that follows.
-But anticipation ensures
-only one pathway is activated,
-from the stimuli to the behavior.
-The synapses along has to be facilitated,
-so the pathway wins among the rests,
-whenever the stimuli is received.
-Facilitation by chemical mediators.
-They are produced in the synapses,
-at each moment it is anticipated.
-Persist for a while, soon metabolized. [^modulation]
+_Anticipation_ is an intention:  
+when stimuli of a kind is received,  
+a specific behavior is followed. [^anticipation]  
+Stimulating a neuron might activate  
+many pathways that follows.  
+But anticipation ensures  
+only one pathway is activated,  
+from the stimuli to the behavior.  
+The synapses along has to be facilitated,  
+so the pathway wins among the rests,  
+whenever the stimuli is received.  
+Facilitation by chemical mediators.  
+They are produced in the synapses,  
+at each moment it is anticipated.  
+Persist for a while, soon metabolized. [^modulation]  
 
 ## Synaptic Plasticity
 
-When continually anticipate
-an anticipation without a break,
-produced more than metabolized,
-the chemical mediators accumulate.
-Concentrations rush high and
-plasticity is triggered.
-In a short period it forms
-long-lasting change in the synapses. [^synaptic-plasticity]
-By simply sustaining it,
-anticipation becomes a reality.
-As reality is so plastic.
+When continually anticipate  
+an anticipation without a break,  
+produced more than metabolized,  
+the chemical mediators accumulate.  
+Concentrations rush high and  
+plasticity is triggered.  
+In a short period it forms  
+long-lasting change in the synapses. [^synaptic-plasticity]  
+By simply sustaining it,  
+anticipation becomes a reality.  
+As reality is so plastic.  
 
 ## Persistent Introspection
 
-But mind desires to wander around.
-It must be carefully watched,
-for an anticipation can be sustained.
-An introspection that is persistent.
-For plasticity it is important. [^breath-example]
+But mind desires to wander around.  
+It must be carefully watched,  
+for an anticipation can be sustained.  
+An introspection that is persistent.  
+For plasticity it is important. [^breath-example]  
 
   [^anticipation]: Throughout this note, we use the word "anticipation" in this narrow sense. For example, we can anticipate feeling more and more relaxed as the clock ticks, where the stimuli come from the clock ticks and the behavior is active relaxation. When practicing guitar, the stimuli come from playing a chord and the behavior is playing the successive one. Notice that anticipation is independent of the appearance of the stimuli; it is an intention, a mental activity.
 
