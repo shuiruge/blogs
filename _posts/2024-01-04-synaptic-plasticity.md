@@ -11,7 +11,7 @@ Human brain consists of many individual neural circuits, concurrently processing
 
 ## Anticipation Modulates Neural Pathway
 
-Stimulating a kind of neurons may activate many neural pathways that are successively connected to the neurons. To selectively activate a neural pathway among the rest, it is essential to facilitate the synapses along the neural pathway, so that the it has much higher probability of activation than the others. The synapses are facilitated by activating chemical mediators in them, which will accumulate for a while. In this way, the neural pathway is modulated. [^modulation]
+Stimulating a kind of neurons may activate many neural pathways that are successively connected to the neurons. To selectively activate a neural pathway among the rest, it is essential to facilitate the synapses along the neural pathway, so that the it has much higher probability of activation than the others. The synapses are facilitated by activating chemical mediators in them, which will accumulate before being fully metabolized after a while. In this way, the neural pathway is modulated. [^modulation]
 
   [^modulation]: There are two kinds of receptors on the membranes of synapses. One is ionotropic receptor, which _mediates_ behaviors by propagating electrical signals. Activation of ionotropic receptor is transient. The other is metabotropic receptor, which _modulates_ behaviors by modifying the strength of synapses. Metabotropic receptor, when activated, activates chemical mediators in the synapse to facilitate the release or/and the reception of neurotransmitters. Activation of metabotropic receptor will persist until the chemical mediators have been metabolized. For details, see chapter 11 of _Principles of Neural Science_.
 
