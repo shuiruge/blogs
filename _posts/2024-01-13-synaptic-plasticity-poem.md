@@ -6,10 +6,10 @@ title: Anticipation, Synaptic Plasticity, and Persistent Introspection (A Poem)
 Neurons are united as circuit,  
 together to mediate a function.  
 Then circuit by circuit,  
-and function by function,  
-pathway chains them as a string.  
+connected by synapses,  
+pathway chains them as beads.  
 
-_Anticipation_ is an intention:  
+Anticipation is an intention:  
 when stimuli of a kind is received,  
 a specific behavior is followed. [^anticipation]  
 Stimulating a circuit might activate  
@@ -18,7 +18,7 @@ But anticipation ensures
 only one pathway is to be activated,  
 that from the stimuli to the behavior.  
 Its synapses have to be facilitated,  
-so the pathway wins among the rests,  
+so the pathway can beat the rests,  
 whenever the stimuli is received.  
 Facilitation by chemical mediators.  
 They are produced in the synapses,  
