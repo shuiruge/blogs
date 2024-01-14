@@ -7,7 +7,7 @@ Neurons are united as circuit,
 together to mediate a function.  
 Then circuit by circuit,  
 and function by function,  
-pathway chains them like a string.  
+pathway chains them as a string.  
 
 _Anticipation_ is an intention:  
 when stimuli of a kind is received,  
