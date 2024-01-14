@@ -3,25 +3,27 @@ layout: blog-post
 title: Anticipation, Synaptic Plasticity, and Persistent Introspection (A Poem)
 ---
 
-## Anticipation
+Neurons are united as circuit,  
+together to mediate a function.  
+Then circuit by circuit,  
+and function by function,  
+pathway chains them like a string.  
 
 _Anticipation_ is an intention:  
 when stimuli of a kind is received,  
 a specific behavior is followed. [^anticipation]  
-Stimulating a neuron might activate  
+Stimulating a circuit might activate  
 many pathways that follows.  
 But anticipation ensures  
-only one pathway is activated,  
-from the stimuli to the behavior.  
-The synapses along has to be facilitated,  
+only one pathway is to be activated,  
+that from the stimuli to the behavior.  
+Its synapses have to be facilitated,  
 so the pathway wins among the rests,  
 whenever the stimuli is received.  
 Facilitation by chemical mediators.  
 They are produced in the synapses,  
 at each moment it is anticipated.  
 Persist for a while, soon metabolized. [^modulation]  
-
-## Synaptic Plasticity
 
 When continually anticipate  
 an anticipation without a break,  
@@ -34,8 +36,6 @@ long-lasting change in the synapses. [^synaptic-plasticity]
 By simply sustaining it,  
 anticipation becomes a reality.  
 As reality is so plastic.  
-
-## Persistent Introspection
 
 But mind desires to wander around.  
 It must be carefully watched,  
