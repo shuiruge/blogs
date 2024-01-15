@@ -1,6 +1,6 @@
 ---
 layout: blog-post
-title: Anticipation, Synaptic Plasticity, and Persistent Introspection (A Poem)
+title: A Poem about Anticipation, Synaptic Plasticity, and Introspection
 ---
 
 ## The Poem
