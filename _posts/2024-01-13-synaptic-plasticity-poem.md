@@ -24,7 +24,7 @@ that from the stimuli to the behavior. [^modulation]
 Its synapses have to be facilitated,  
 as the roads are broadened,  
 so the pathway can beat the others,  
-whenever the stimuli is received.  
+whenever the stimuli are received.  
 Facilitation by chemical modulators.  
 They are produced in the synapses,  
 at each moment it is anticipated.  
