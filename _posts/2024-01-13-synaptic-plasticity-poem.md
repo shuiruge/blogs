@@ -9,7 +9,7 @@ Neurons are united as circuit,
 together to mediate a function.  
 Then circuit by circuit,  
 connected by synapses,  
-pathway chains them as beads. [^circuit]  
+pathway chains them as beads. [^neuron-circuit-pathway]  
 
 Anticipation is an intention:  
 when stimuli of a kind is received,  
@@ -48,7 +48,7 @@ for an anticipation can be sustained.
 An introspection that is persistent.  
 For plasticity it is important. [^breath-example]  
 
-  [^circuit]: Neurons are the cells used for processing electrical signals. A neuron accepts signals from some others by its branch-like input terminals. It then integrates the signals, propagates the integrated along a long channel called axon, and transmits to other neurons at the ends of axon. For most neurons, at the output terminals, the electrical signal has to be converted to chemical signal, called neurotransmitter, released from the output terminal to the input terminal of the successive neuron. These terminals are called synapses.
+  [^neuron-circuit-pathway]: Neurons are the cells used for processing electrical signals. A neuron accepts signals from some others by its branch-like input terminals. It then integrates the signals, propagates the integrated along a long channel called axon, and transmits to other neurons at the ends of axon. For most neurons, at the output terminals, the electrical signal has to be converted to chemical signal, called neurotransmitter, released from the output terminal to the input terminal of the successive neuron. These terminals are called synapses.
 
     A neuron is too simple to mediate behavior. Neurons must work together. Connected by synapses, neurons are grouped as several local communities, called circuits. In a central nerve system, there are lots of circuits, each of which mediates a basic behavior. A complex behavior is a chain of basic behaviors. One thing is done, then another. Accordingly, circuits are chained by synapses, a chain named pathway.
 
