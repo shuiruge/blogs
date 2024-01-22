@@ -7,9 +7,10 @@ title: A Poem about Anticipation, Synaptic Plasticity, and Introspection
 
 Neurons are united as circuit,  
 together to mediate a function.  
-Then circuit by circuit,  
-connected by synapses,  
-pathway chains them as beads. [^neuron-circuit-pathway]  
+Connected by synapses,  
+like the roads between blocks.  
+A city of neurons has emerged.  
+A brain as it is called. [^neuron-circuit-network]  
 
 Anticipation is an intention:  
 when stimuli of a kind is received,  
@@ -48,9 +49,9 @@ for an anticipation can be sustained.
 An introspection that is persistent.  
 For plasticity it is important. [^breath-example]  
 
-  [^neuron-circuit-pathway]: Neurons are the cells used for processing electrical signals. A neuron accepts signals from some others by its branch-like input terminals. It then integrates the signals, propagates the integrated along a long channel called axon, and transmits to other neurons at the ends of axon. For most neurons, at the output terminals, the electrical signal has to be converted to chemical signal, called neurotransmitter, released from the output terminal to the input terminal of the successive neuron. These terminals are called synapses.
+  [^neuron-circuit-network]: Neurons are the cells used for processing electrical signals. A neuron accepts signals from some others by its branch-like input terminals. It then integrates the signals, propagates the result along a long channel called axon, and transmits to other neurons at the ends. For most neurons, at the output terminals of axon, the electrical signals have to be converted to chemical signals, called neurotransmitters, released from the output terminals to the input terminals of the successive neurons. These terminals are called synapses.
 
-    A neuron is too simple to mediate behavior. Neurons must work together. Connected by synapses, neurons are grouped as several local communities, called circuits. In a central nerve system, there are lots of circuits, each of which mediates a basic behavior. A complex behavior is a chain of basic behaviors. One thing is done, then another. Accordingly, circuits are chained by synapses, a chain named pathway.
+    A neuron is too simple to mediate behavior. Neurons must work together. Connected by synapses, neurons are grouped as several local communities, called circuits. In a central nervous system, there are lots of circuits, each of which mediates a basic behavior. A complex behavior is a chain of basic behaviors. One thing is done, then another. To do so, circuits are connected by synapses to form a greater circuit, a network. It is the central nervous system, including brain. A complex behavior is then mediated by a sequential activation of circuits in the network, a pathway.
 
     For details, see chapter 1 of _Principles of Neural Science_.
 
