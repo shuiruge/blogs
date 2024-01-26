@@ -55,7 +55,7 @@ For plasticity it is important. [^breath-example]
 
     For details, see chapter 1 of _Principles of Neural Science_.
 
-  [^anticipation]: Throughout this note, we use the word "anticipation" in this narrow sense. For example, we can anticipate feeling more and more relaxed as the clock ticks, where the stimuli come from the clock ticks and the behavior is active relaxation. When practicing guitar, the stimuli come from playing a chord and the behavior is playing the successive one. Notice that anticipation is independent of the appearance of the stimuli; it is an intention, a mental activity.
+  [^anticipation]: Throughout this note, we use the word "anticipation" in this narrow sense. When we are looking for something red, we anticipate finding red object, where the stimuli come from seeing an object and the behavoir is identifying if it is red. Before sleep, we anticipate feeling more and more relaxed as the clock ticks, where the stimuli come from hearing the clock ticks and the behavior is active relaxation. When practicing guitar, the stimuli come from playing a chord and the behavior is playing the successive one. Notice that anticipation is independent of the appearance of the stimuli; it is an intention, a mental activity.
 
   [^modulation]: As an example, when we are cued to detect red objects, the pathway that responsible for detecting red color is facilitated, so that whenever we see an object, this pathway has much higher probability of being activated, so that we can detect red object correctly but missing the objects with other colors. The famous "invisible gorilla" experiment made by Daniel Simons is another example.
 
