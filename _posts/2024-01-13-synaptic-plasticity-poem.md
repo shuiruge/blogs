@@ -5,20 +5,20 @@ title: A Poem about Anticipation, Synaptic Plasticity, and Introspection
 
 ## The Poem
 
-Neurons are united as circuit,  
-together to mediate a function.  
+Neurons are united together.  
+to mediate a complex behavior.  
 Connected by synapses,  
 like the roads between blocks.  
 A city of neurons has emerged.  
-A brain as it is called. [^neuron-circuit-network]  
+A brain as it is called. [^neural-network]  
 
 Anticipation is an intention:  
 when stimuli of a kind is received,  
 a specific behavior is followed. [^anticipation]  
-Stimulating a circuit might activate  
+Stimulating a neuron might activate  
 many pathways that succeeds.  
 As many paths you can choose  
-at any corner in a city.  
+to go from a block in the city.  
 But anticipation ensures  
 only one pathway is to be activated,  
 that from the stimuli to the behavior. [^modulation]  
@@ -49,9 +49,9 @@ for an anticipation can be sustained.
 An introspection that is persistent.  
 For plasticity it is important. [^breath-example]  
 
-  [^neuron-circuit-network]: Neurons are the cells used for processing electrical signals. A neuron accepts signals from some others by its branch-like input terminals. It then integrates the signals, propagates the result along a long channel called axon, and transmits to other neurons at the ends. For most neurons, at the output terminals of axon, the electrical signals have to be converted to chemical signals, called neurotransmitters, released from the output terminals to the input terminals of the successive neurons. These terminals are called synapses.
+  [^neural-network]: Neurons are the cells used for processing electrical signals. A neuron accepts signals from some others by its branch-like input terminals. It then integrates the signals, propagates the result along a long channel called axon, and transmits to other neurons at the ends. For most neurons, at the output terminals of axon, the electrical signals have to be converted to chemical signals, called neurotransmitters, released from the output terminals to the input terminals of the successive neurons. These terminals are called synapses.
 
-    A neuron is too simple to mediate behavior. Neurons must work together. Connected by synapses, neurons are grouped as several local communities, called circuits. In a central nervous system, there are lots of circuits, each of which mediates a basic behavior. A circut, for example, distinguishes if what is seen is red. A complex behavior is a chain of basic behaviors. One thing is done, then another. To do so, circuits are connected by synapses to form a network. A complex behavior is then mediated by a sequential activation of circuits in the network, a pathway.
+    A neuron is too simple to mediate behavior. Neurons must work together. Connected by synapses, they form a network. It is like a city. Neurons are tightly connected locally, like a lot of small towns. Between them are connections of longer distance, the highways. A complex behavior is then mediated by activating a cascade of neurons, a pathway in the network, like a path in the city, along which information is propagated and processed.
 
     For details, see chapter 1 of _Principles of Neural Science_.
 
