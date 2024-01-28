@@ -53,11 +53,13 @@ For plasticity it is important. [^breath-example]
 
     A neuron is too simple to mediate behavior. Neurons must work together. Connected by synapses, they form a network. It is like a city. Neurons are tightly connected locally, like a lot of small towns. Between them are connections of longer distance, the highways. A complex behavior is then mediated by activating a cascade of neurons, a pathway in the network, like a path in the city, along which information is propagated and processed.
 
-    For details, see chapter 1 of _Principles of Neural Science_.
+    For details, see chapter 3 of _Principles of Neural Science_.
 
   [^anticipation]: Throughout this note, we use the word "anticipation" in this narrow sense. When we are looking for something red, we anticipate finding red object, where the stimuli come from seeing an object and the behavoir is identifying if it is red. Before sleep, we anticipate feeling more and more relaxed as the clock ticks, where the stimuli come from hearing the clock ticks and the behavior is active relaxation. When practicing guitar, the stimuli come from playing a chord and the behavior is playing the successive one. Notice that anticipation is independent of the appearance of the stimuli; it is an intention, a mental activity.
 
-  [^modulation]: As an example, when we are cued to detect red objects, the pathway that responsible for detecting red color is facilitated, so that whenever we see an object, this pathway has much higher probability of being activated, so that we can detect red object correctly but missing the objects with other colors. The famous "invisible gorilla" experiment made by Daniel Simons is another example.
+  [^modulation]: As an example, when we are cued to detect red objects, the pathway that responsible for detecting red color is facilitated, so that whenever we see an object, this pathway has much higher probability of being activated, so that we can detect red object correctly but missing the objects with other colors. For details, see the paper _Attention enhances synaptic efficacy and signal-to-noise in neural circuits._
+
+    The famous "invisible gorilla" experiment made by Daniel Simons is another example.
 
   [^chemical-modulators]: Neurotransmitters are received by receptors on the membranes of synapses. There are two kinds of receptors. One is ionotropic receptor, which mediates the propagation of electrical signals. It opens ion channels which in turn changes the membrane potential, converting chemical signals back to electrical signals. The other is metabotropic receptor, which modulates the propagation by modifying the strength of synapses. When specific molecules bind to a metabotropic receptor, it changes its shape and reveals some sites. These sites will activate specific enzyme-like substances, which then diffuse in the synapse to catalyze a series of chemical reactions that facilitate or inhibit the release or the reception of neurotransmitters. An activated metabotropic receptor is like a coffee machine, and inactive enzyme-like substances are exhausted workers. They drift to the coffee machine, drink espresso, and become energetic and capable of work. They will keep energetic for a while, from hundreds of milliseconds to minutes, then becomes exhausted again. The energetic workers are called modulators. Any time when a metabotropic receptor is activated, certain amount of the modulators are produced in the synapse.
 
@@ -76,5 +78,6 @@ For plasticity it is important. [^breath-example]
 ## References
 
 1. _Principles of Neural Science_, by E. Kandel, et al., the 6th edition. ISBN: 1259642232.
+2. _Attention enhances synaptic efficacy and signal-to-noise in neural circuits_, by Briggs, F., Mangun, G. R., and Usrey, W. M. (2013). DOI:10.1038/nature12276
 
 ---
