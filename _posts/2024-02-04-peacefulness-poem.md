@@ -29,5 +29,3 @@ No disturbance from subconscious.
 The mind goes back to peace.  
 Like the surface of a lake.  
 The wind has gone, stillness is left.  
-
----
