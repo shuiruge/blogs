@@ -1,0 +1,33 @@
+---
+layout: blog-post
+title: A Poem about Peacefulness
+---
+
+As plastic as a wooden board,  
+mind is craved by the departed.  
+Dormant imprints in subconscious.  
+Woken up by similar situations.  
+
+A mind without focus is driven to  
+do what have been done in the past,  
+as if an automatic light.  
+When someone passes by, it is bright.  
+
+Focusing on single object,  
+mind forbids the others.  
+Imprint keeps dormant,  
+but not disappears.  
+
+Focusing on each moment,  
+mind is busy with perceiving.  
+No room for anything else.  
+Nor for an imprint to arise.  
+Similar situation turns to loosen  
+the imprint that would be woken.  
+
+No disturbance from subconscious.  
+The mind goes back to peace.  
+Like the surface of a lake.  
+The wind has gone, stillness is left.  
+
+---
