@@ -8,10 +8,10 @@ mind is craved by the departed.
 Dormant imprints in subconscious.  
 Woken up by similar situations.  
 
-A mind without focus is driven to  
-do what have been done in the past,  
-as if an automatic light.  
-When someone passes by, it is bright.  
+A mind without focus is thus driven to  
+to do what have been done in the past.  
+Whenever the switch is turned on,  
+the lamp becomes bright.  
 
 Focusing on single object,  
 mind forbids the others.  
