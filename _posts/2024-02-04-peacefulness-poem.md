@@ -20,7 +20,7 @@ but not disappears.
 
 Focusing on each moment,  
 mind is busy with perceiving.  
-No room for anything else.  
+No mind for anything else.  
 Nor for an imprint to arise.  
 Similar situation turns to loosen  
 the imprint that would be woken.  
