@@ -1,9 +1,9 @@
 ---
 layout: blog-post
-title: A Poem about Anticipation, Synaptic Plasticity, and Introspection
+title: Anticipation, Synaptic Plasticity, and Introspection
 ---
 
-## The Poem
+## A Poem
 
 Neurons are united together.  
 to mediate a complex behavior.  
