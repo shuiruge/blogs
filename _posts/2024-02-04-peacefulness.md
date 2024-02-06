@@ -10,7 +10,7 @@ mind is craved by the departed.
 Dormant memories in subconscious.  
 Woken up by similar situations.[^1]  
 
-  [^1]: First introduce that the mind is plastic. What has passed is not past at all, but stored in subconscious. Whenever a similar situation appears, the dormant memory is woken up.
+  [^1]: First introduce that the mind is plastic. What has passed is not past at all, but stored in subconscious. Whenever a situation, which is similar to that in which the memory was formed, appears, the dormant memory is woken up.
 
 When a dormant memory is woken,  
 a mind without focus is driven  
