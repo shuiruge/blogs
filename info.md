@@ -13,7 +13,7 @@ I am a Linux user. After using a lisp-like language, Mathematica, for seven year
 
 I usually write blogs in Chinese, but sometimes in English.
 
-If you want to e-mail to me, my address is shuiruge@whu.edu.cn.
+If you want to e-mail to me, my address is <shuiruge@whu.edu.cn>.
 
 ---
 
