@@ -24,19 +24,22 @@ They patiently wait
 for the focus to relax.  
 
 Focusing on each moment,  
-mind is busy with perceiving. (TODO: describe this by a proper image.)  
+mind is busy with perceiving,  
+like a hand dipped in a stream.  
 No mind for anything else.  
 Nor for a memory to arise.  
 Similar situation turns to loosen  
-the memory that would be woken.[^insight] [^viveka]  
+the memory that would be woken.[^mental-noting] [^viveka]  
 
-  [^insight]: Focusing on each moment is the center theme of _Manual of Insight_.
+  [^mental-noting]: While trying to know what is in your mind at the moment, you may be confused by the knowing. This is because you are not familiar with using your awareness, even though it is your innate ability. It may be found helpful to make a mental label on what is in your mind at the moment, not audibly, but in a gentle and relaxed way, using simple daily language. For example, when you clearly hear sounds, label as "hearing"; when you feel painful, label as "pain"; and when it is found that you are thinking, label as "thinking". With concrete mental labels, it is guaranteed that you have known what was in your mind at that moment. But be caution that this trick is just a tool that gives you some familiarity with using awareness. It is like using a finger to point out the moon. The figure is not the moon itself. Mental labeling is not awareness too. In fact, awareness is innate, light, and swift, while mental labeling is factitious, heavy, and delayed. So, remove the mental labels if your confusion have ceased, just be aware.
 
-  [^viveka]: In _Yoga Sutra of Patanjali_, this is described in stanza 3.52:
+    For the details of this mental noting technique, see _Manual of Insight_. In fact, focusing mind on each moment is the center theme of Theravada Buddhism. From it arises impermanence. Then from impermanence, suffering and non-self arise successively.
+
+  [^viveka]: Focusing mind on each moment is also a key of _Yoga Sutra of Patanjali_, in which it is called "viveka", described in stanza 3.52:
 
     > From samyama on the moment and its succession, there is knowledge born of discrimination.
 
-    Here, "samyama" is the combination of concentration, meditation, and samadhi. And the "knowledge born of discrimination" is viveka.
+    The "samyama" is the combination of concentration, meditation, and one-pointedness. The "knowledge born of discrimination" is viveka.
 
 No disturbance from subconscious,  
 the mind goes back to peace.  
