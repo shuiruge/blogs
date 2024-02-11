@@ -50,7 +50,7 @@ The wind has gone, stillness is left.[^example]
 
 ## References
 
-1. _The Yoga Sutras of Patanjali_ by Christopher Chapple, Yogi Ananda Viraj. ISBN: 8170302447.
 1. _Manual of Insight_ by by Mahasi Sayadaw. ISBN: 9781614292777.
+1. _The Yoga Sutras of Patanjali_ by Christopher Chapple, Yogi Ananda Viraj. ISBN: 8170302447.
 
 ---
