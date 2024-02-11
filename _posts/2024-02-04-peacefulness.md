@@ -8,38 +8,46 @@ title: The Way to Peacefulness
 As plastic as a wooden board,  
 mind is craved by the departed.  
 Dormant memories in subconscious.  
-Woken up by similar situations.[^1]  
-
-  [^1]: First introduce that the mind is plastic. What has passed is not past at all, but stored in subconscious. The dormant memory is woken up whenever a situation, which is similar to that in which the memory was formed, appears.
+Woken up by similar situations.  
 
 When a dormant memory is woken,  
 a mind without focus is driven  
 to do what have been done before.  
-The memory is deepened more.[^2]  
-
-  [^2]: Then, when the mind is not focused, and when a memory is woken up by facing similar situation, the mind is driven by the memory to do what have been done before. This is autonomous and involuntary. With this action, the memory is consolidated. There will be more probability that the memory is triggered when facing a similar situation in the next time.
+A process that is involuntary.  
+The memory is deepened more.  
 
 Focusing on single object,  
 mind forbids the others.  
 Memory keeps dormant,  
-but not disappears.[^3]  
-
-  [^3]: But focusing the mind on single object will not help. You can sit in quiet and focus your mind on your breath or an image in your mind. It avoids waking up the memory by forbidding any situation. Even though not being woken up, the memory does not vanish. It waits for opportunity when the focus slackens. A mind focusing on single object cannot do anything else. And when there is something to do, the focus must be slack. The dormant memory now awake.
+but not disappears.  
+They patiently wait  
+for the focus to relax.  
 
 Focusing on each moment,  
-mind is busy with perceiving.  
+mind is busy with perceiving. (TODO: describe this by a proper image.)  
 No mind for anything else.  
 Nor for a memory to arise.  
 Similar situation turns to loosen  
-the memory that would be woken.[^4]  
+the memory that would be woken.[^insight] [^viveka]  
 
-  [^4]: While by focusing on each moment, the mind can perform actions without slackening the focus. Each moment is new. The mind is busy with perceiving all that is perceived at each moment, such that there is no mind for anything else, thus no opportunity for a memory to arise, even when similar situation appears. The causality of triggering and thus deepening the memory is now broken. The similar situation is no more a trigger to wake up the memory, but an opportunity to loosen the causality.
+  [^insight]: Focusing on each moment is the center theme of _Manual of Insight_.
+
+  [^viveka]: In _Yoga Sutra of Patanjali_, this is described in stanza 3.52:
+
+    > From samyama on the moment and its succession, there is knowledge born of discrimination.
+
+    Here, "samyama" is the combination of concentration, meditation, and samadhi. And the "knowledge born of discrimination" is viveka.
 
 No disturbance from subconscious,  
 the mind goes back to peace.  
 Like the surface of a lake.  
-The wind has gone, stillness is left.[^5]  
+The wind has gone, stillness is left.[^example]  
 
-  [^5]: For example, when we meet something that makes us angry, we feel angry. What makes us angry may not make a baby angry too. It makes us angry because of the dormant memory of us is woken up by it. Rationality will not help. We cannot control it with rationality since it sits in subconscious. Even worse, the emotion will trigger a series of thoughts, which in turn enlarge the emotion, as if pouring oil on the flames. We lost temper, even going mad. Our mind is greatly disturbed, even though it was peaceful seconds ago. The memories stored in subconscious are the sources of disturbance of peace. When they are uprooted, nothing will disturb the mind. Like the surface of a lake. The wind that troubles has gone, it goes back to be still naturally. The mind without being disturbed falls into peace on its own.
+  [^example]: For example, when we meet something that makes us angry, we feel angry. What makes us angry may not make a baby angry too. It makes us angry because of the dormant memory of us is woken up by it. Rationality will not help. We cannot control it with rationality since it sits in subconscious. Even worse, the emotion will trigger a series of thoughts, which in turn enlarge the emotion, as if pouring oil on the flames. We lost temper, even going mad. Our mind is greatly disturbed, even though it was peaceful seconds ago. The memories stored in subconscious are the sources of disturbance of peace. When they are uprooted, nothing will disturb the mind. Like the surface of a lake. The wind that troubles has gone, it goes back to be still naturally. The mind without being disturbed falls into peace on its own.
+
+## References
+
+1. _The Yoga Sutras of Patanjali_ by Christopher Chapple, Yogi Ananda Viraj. ISBN: 8170302447.
+1. _Manual of Insight_ by by Mahasi Sayadaw. ISBN: 9781614292777.
 
 ---
