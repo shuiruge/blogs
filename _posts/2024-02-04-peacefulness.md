@@ -51,7 +51,7 @@ The wind has gone, stillness is left.
 
 ## Example
 
-For example, when we meet something that makes us angry, we feel angry. What makes us angry may not make a baby angry too. It makes us angry because of the dormant memory of us is woken up by it. We cannot control it with rationality since it sits in subconscious. Even worse, the emotion will trigger a series of thoughts, which in turn enlarge the emotion, as if pouring oil on the flames. We lost temper, even going mad. Our mind is greatly disturbed, even though it was peaceful seconds ago. The memories stored in subconscious are the sources of disturbance of peace. When they are uprooted, nothing will disturb the mind. Like the surface of a lake. The wind that troubles has gone, it goes back to be still naturally. The mind without being disturbed falls into peace on its own.
+For example, when we meet something that makes us angry, we feel angry. What makes us angry may not make a baby angry too. It makes us angry because of the dormant memory of us is woken up by it. We cannot control it with rationality since the memory lays its roots in subconscious. Even worse, the emotion will trigger a series of thoughts, which in turn mobilize the emotion further, as if pouring oil on the flames. We lost temper, even going mad. Our mind is greatly disturbed, even though it was peaceful seconds ago. The memories stored in subconscious are the sources of disturbance of peace. When they are uprooted by focusing mind on each moment, the mind without being disturbed falls into peace on its own.
 
 ## References
 
