@@ -5,8 +5,8 @@ title: The Way to Peacefulness
 
 ## A Poem
 
-As plastic as a wooden board,  
-mind is craved by the departed.  
+As plastic as a wax tablet,  
+mind is marked by the departed.  
 Dormant memories in subconscious.  
 Woken up by similar situations.  
 
@@ -53,7 +53,7 @@ The wind has gone, stillness is left.
 
 For example, when we meet something that makes us angry, we feel angry. What makes us angry may not make a baby angry too. It makes us angry because of the dormant memory of us is woken up by it. We cannot control it with rationality since the memory lays its roots in subconscious. Even worse, the emotion will trigger a series of thoughts, which in turn mobilize the emotion further, as if pouring oil on the flames. We lost temper, even going mad. Our mind is greatly disturbed, even though it was peaceful seconds ago. The wake-up of the memory then re-consolidates itself, deepens its roots in subconscious, and intensifies the wake-up in the future.
 
-If mind is busy with perceiving those arising from the six sensory organs at each successive moment, then whenever the thing that makes us angry is met, it will be simply perceived as a thing. No mind for the angry feeling to arise. Even if the angry feeling do arise occasionally, it will be simply perceived as a feeling. No mind for the thoughts to arise. Even if the thoughts do arise occasionally, they will be simply perceived as thoughts, thus lose their power, and cease. In this way, the thing will not trigger or develop the angry feeling and the thoughts. Then, the memory in subconscious will be slackened. There will be less opportunity to feel angry when we meet similar things in the future. And gradually, it will be uprooted in the end.
+Every moment is a new one. If mind is busy with perceiving those arising from the six sensory organs at each successive moment, then whenever the thing that makes us angry is met, it will be simply perceived as a thing. No mind for the angry feeling to arise. Even if the angry feeling do arise occasionally, it will be simply perceived as a feeling. No mind for the thoughts to arise. Even if the thoughts do arise occasionally, they will be simply perceived as thoughts, thus lose their power, and cease. In this way, the thing will not trigger or develop the angry feeling and the thoughts. Then, the memory in subconscious will be slackened. There will be less opportunity to feel angry when we meet similar things in the future. And gradually, it will be uprooted in the end.
 
 ## References
 
