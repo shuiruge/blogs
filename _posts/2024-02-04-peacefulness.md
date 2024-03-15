@@ -30,7 +30,7 @@ like the hand dipped in stream.
 No mind for anything else.  
 Nor for a memory to arise.  
 Similar situation turns to loosen  
-the memory that would be woken. [^mental-noting] [^viveka]  
+the memory that would be woken. [^mental-noting] [^viveka] [^practice]  
 
 No disturbance from subconscious,  
 Mind goes back to peace.  
@@ -49,6 +49,8 @@ The wind has gone, stillness is left.
 
     The "samyama" is the combination of concentration, meditation, and one-pointedness. The "knowledge born of discrimination" is viveka.
 
+  [^practice]: How to obtain the ability of focusing mind on each moment? An example can be found in a [previous note](2024-01-13-synaptic-plasticity.md#example).
+
 ## Example
 
 For example, when we meet something that makes us angry, we feel angry. What makes us angry may not make a baby angry too. It makes us angry because of the dormant memory of us is woken up by it. We cannot control it with rationality since the memory lays its roots in subconscious. Even worse, the emotion will trigger a series of thoughts, which in turn mobilize the emotion further, as if pouring oil on the flames. We lost temper, even going mad. Our mind is greatly disturbed, even though it was peaceful seconds ago. The wake-up of the memory then re-consolidates itself, deepens its roots in subconscious, and intensifies the wake-up in the future.
@@ -57,7 +59,7 @@ Every moment is a new one. If mind is busy with perceiving those arising from th
 
 ## References
 
-1. _Manual of Insight_ by by Mahasi Sayadaw. ISBN: 9781614292777.
+1. _Manual of Insight_ by Mahasi Sayadaw. ISBN: 9781614292777.
 1. _The Yoga Sutras of Patanjali_ by Christopher Chapple, Yogi Ananda Viraj. ISBN: 8170302447.
 
 ---
