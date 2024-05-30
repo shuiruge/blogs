@@ -30,18 +30,18 @@ for the focus to relax.
 
 Focusing on each moment,  
 mind is busy with knowing  
-those from six sensory organs. [^six-sensory-organs]  
+those from six sensory organs. [^six-sensory-organs] [^mental-noting]  
 No mind for anything else.  
 Nor for a memory to arise.  
 Similar situation turns to loosen  
-the memory that would be woken. [^mental-noting] [^viveka] [^practice]  
+the memory that would be woken. [^viveka] [^practice]  
 
 No disturbance from subconscious,  
 Mind goes back to peace.  
 Like the surface of a lake.  
 The wind has gone, stillness is left.  
 
-  [^six-sensory-organs]: There are six sensory organs in our body, vividly termed as "six sensory doors": eyes that mediate vision, ears that mediate hearing, nose that mediates smell, tongue that mediates taste, body that mediates bodily sensations, and mind that mediates emotions and thoughts. There are always a plenty of objects arising from the six sensory organs in a very short time.
+  [^six-sensory-organs]: There are six sensory organs in our body, vividly termed as "six sensory doors": eyes that mediate vision, ears that mediate hearing, nose that mediates smell, tongue that mediates taste, body that mediates bodily sensations, and mind that mediates emotions and thoughts. There are always a plenty of objects arising from the six sensory organs in a very short time (moment).
 
   [^mental-noting]: While trying to know what is in your mind at the moment, you may be confused by the knowing. This is because you are not familiar with using your awareness, even though it is your innate ability. It may be found helpful to make a mental label on what is in your mind at the moment, not audibly, but in a gentle and relaxed way, using simple daily language. For example, when you clearly hear sounds, label as "hearing"; when you feel painful, label as "pain"; and when it is found that you are thinking, label as "thinking". With concrete mental labels, it is guaranteed that you have known what was in your mind at that moment. But be caution that this trick is just a tool that gives you some familiarity with using awareness. It is like using a finger to point out the moon. The figure is not the moon itself. Mental labeling is not awareness too. In fact, awareness is innate, light, and swift, while mental labeling is factitious, heavy, and delayed. So, remove the mental labels if your confusion have ceased, just be aware.
 
@@ -59,7 +59,7 @@ The wind has gone, stillness is left.
 
 For example, when we meet something that makes us angry, we feel angry. What makes us angry may not make a baby angry too. It makes us angry because of the dormant memory of us is woken up by it. We cannot control it with rationality since the memory lays its roots in subconscious. Even worse, the emotion will trigger a series of thoughts that in turn mobilize the emotion further, as if pouring oil on the flames. We lose temper, even going mad. Our mind is greatly disturbed, even though it was peaceful seconds ago. The wake-up of the memory then re-consolidates itself, deepens its roots in subconscious, and intensifies the wake-up in the future.
 
-Every moment is new. If mind is busy with knowing those arising from the six sensory organs at each successive moment, then whenever the thing that makes us angry is met, it will be simply perceived as a thing. After this, mind turns to perceive the next moment immediately. No mind for the angry feeling to arise. Even if the angry feeling do arise occasionally, it will be simply perceived as a feeling. After this, mind turns to perceive the next moment immediately. No mind for the thoughts to arise. Even if the thoughts do arise occasionally, they will be simply perceived as thoughts. After this, mind turns to perceive the next moment immediately. Thus, the thoughts lose their power, and cease. In this way, the thing will not trigger or develop the angry feeling and the related thoughts. Then, the memory in subconscious will be slackened. There will be less opportunity to feel angry when we meet similar things in the future. And gradually, it will be uprooted in the end.
+Every moment is new. If mind is busy with knowing those arising from the six sensory organs at each successive moment, then whenever the thing that makes us angry is met, it will be simply known as a thing. After this, mind turns to the next moment immediately. No mind for the angry feeling to arise. Even if the angry feeling do arise occasionally, it will be simply known as a feeling. After this, mind turns to the next moment immediately. No mind for the thoughts to arise. Even if the thoughts do arise occasionally, they will be simply known as thoughts. After this, mind turns to the next moment immediately. Thus, the thoughts lose their power, and cease. In this way, the thing will not trigger or develop the angry feeling and the related thoughts. Then, the memory in subconscious will be slackened. There will be less opportunity to feel angry when we meet similar things in the future. And gradually, it will be uprooted in the end.
 
 ## References
 
