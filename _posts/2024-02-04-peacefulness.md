@@ -28,7 +28,7 @@ but not disappears.
 They patiently wait  
 for the focus to relax.  
 
-Focusing on each moment,  
+Focusing on each current moment,  
 mind is busy with knowing  
 those from six sensory organs. [^six-sensory-organs] [^mental-noting]  
 No mind for anything else.  
