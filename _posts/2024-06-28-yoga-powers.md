@@ -28,7 +28,7 @@ title: Yoga Powers
 
     > [...] resolving, “Let that which is light become dark,” or vice-versa.
 
-进入jhana需要冥想对象，那么这里的冥想对象是什么？是“kasinas”，即几种不同颜色的圆盘，用来代表不同的元素（例如，蓝色圆盘表示“空”元素）。对于不同的能力，也需要使用不同的kasina进入jhana。[^examples-2]当然，这不是绝对的，正如第三本手册中提到的：“one does not have to use an elephant kasiṇa to create an elephant”。所以，冥想对象原则上可以是任意的。或者说，重要的不是冥想对象，而是刚刚从jhana出来时柔软、可塑的内心（“mental suppleness and malleability of the fourth jhana”）。
+进入jhana需要冥想对象，那么这里的冥想对象是什么？是“kasinas”，即几种不同颜色的圆盘，用来代表不同的元素（例如，蓝色圆盘表示“空”元素）。对于不同的能力，也需要使用不同的kasina进入jhana。[^examples-2]当然，这不是绝对的，正如第三本手册中提到的：“one does not have to use an elephant kasina to create an elephant”。所以，冥想对象原则上可以是任意的。或者说，重要的不是冥想对象，而是刚刚从jhana出来时柔软、可塑的内心（“mental suppleness and malleability of the fourth jhana”）。
 
   [^examples-2]: 例如，要获得穿越坚固的障碍物的能力，需要以“空”元素的kasina作为冥想对象进入jhana，然后依旧从jhana出来，并意愿：
 
