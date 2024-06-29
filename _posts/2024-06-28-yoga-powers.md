@@ -20,7 +20,7 @@ title: Yoga Powers
 
 ### 1 超自然能力
 
-要获得超常力量、分身、隐身、飞行等等超自然力量，首先需要依次进入四jhanas。在抵达第四jhana之后，从jhana出来，并意愿：“愿我获得力量”云云。如此，就获得了这种超自然能力。[^examples-1]
+要获得超常力量、分身、隐身、飞行等等超自然力量，首先需要依次进入四个jhanas。在抵达第四jhana之后，从jhana出来，并意愿：“愿我获得力量”云云。如此，就获得了这种超自然能力。[^examples-1]
 
   [^examples-1]: 例如，文中提到如何获得分身的能力：
 
@@ -83,8 +83,6 @@ title: Yoga Powers
 
 但不论是哪一类yoga power，**都以jhana为核心**。这六个类别，正是**按冥想对象分类**的，每一类对应一种冥想对象。[^jhana]
 
-  [^jhana]: 至于如何进入各个jhana，Mahasi Sayadaw在《Manual of Insight》第5章的后半部分做了充足的说明，包括：在尝试进入第一jhana时会遇到什么困难，又如何克服；如何判断是否进入了jhana；各个jhana之间有何异同；以及如何脱离当前的jhana，进入到更高的jhana。
-
-    当然，Mahasi Sayadaw的说明是围绕着第六类yoga power（洞见无常）展开的，但它也适用于其它的yoga powers，只需略作替换。
+  [^jhana]: 至于如何进入各个jhana，TODO
 
 ---
