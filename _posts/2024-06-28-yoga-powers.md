@@ -3,9 +3,9 @@ layout: blog-post
 title: Yoga Powers
 ---
 
-前两天读了[《Yoga Powers: Extraordinary Capacities Attained Through Meditation and Concentration》](https://book.douban.com/subject/19840050/)这本书中的第三章，“The Cultivation of Yogic Powers in the Pali Path Manuals of Theravada Buddhism”，非常有趣。作者Bradly S. Clough总结了三本手册中关于yoga powers的内容，即通过冥想而获得的非凡能力，尤其是具体的练习方法。这三本手册分别是公元前2世纪的《Patisambhidamagga》，公元1世纪的《Vimuttimagga》，以及公元5世纪的《Visuddhimagga》，也就是著名的《清净道论》。这三本手册据称也是**唯一详述具体练习方法的古代文献**。[^manuals]
+前两天读了[《Yoga Powers: Extraordinary Capacities Attained Through Meditation and Concentration》](https://book.douban.com/subject/19840050/)这本书中的第三章，“The Cultivation of Yogic Powers in the Pali Path Manuals of Theravada Buddhism”，非常有趣。作者Bradly S. Clough总结了三本手册中关于yoga powers的内容，即通过冥想而获得的非凡能力，尤其是具体的练习方法。这三本手册分别是公元前2世纪的《Patisambhidamagga》，公元1世纪的《Vimuttimagga》，以及公元5世纪的《Visuddhimagga》，也就是著名的《清净道论》。这三本手册据称也是**唯一详述具体练习方法的古代文献**。[^quotes]
 
-  [^manuals]: 作者的引用大多出自《Visuddhimagga》的第12、13章。
+  [^quotes]: 作者的引用大多出自《Visuddhimagga》的第12、13章。
 
 根据这三本手册，yoga powers分为六类：
 
