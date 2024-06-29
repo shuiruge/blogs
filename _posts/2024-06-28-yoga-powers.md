@@ -3,7 +3,9 @@ layout: blog-post
 title: Yoga Powers
 ---
 
-前两天读了[《Yoga Powers: Extraordinary Capacities Attained Through Meditation and Concentration》](https://book.douban.com/subject/19840050/)这本书中的第三章，“The Cultivation of Yogic Powers in the Pali Path Manuals of Theravada Buddhism”，非常有趣。作者Bradly S. Clough总结了三本手册中关于yoga powers的内容，即通过冥想而获得的非凡能力，尤其是具体的练习方法。这三本手册分别是公元前2世纪的《Patisambhidamagga》，公元1世纪的《Vimuttimagga》，以及公元5世纪的《Visuddhimagga》，也就是著名的《清净道论》。这三本手册据称也是**唯一详述具体练习方法的古代文献**。
+前两天读了[《Yoga Powers: Extraordinary Capacities Attained Through Meditation and Concentration》](https://book.douban.com/subject/19840050/)这本书中的第三章，“The Cultivation of Yogic Powers in the Pali Path Manuals of Theravada Buddhism”，非常有趣。作者Bradly S. Clough总结了三本手册中关于yoga powers的内容，即通过冥想而获得的非凡能力，尤其是具体的练习方法。这三本手册分别是公元前2世纪的《Patisambhidamagga》，公元1世纪的《Vimuttimagga》，以及公元5世纪的《Visuddhimagga》，也就是著名的《清净道论》。这三本手册据称也是**唯一详述具体练习方法的古代文献**。[^manuals]
+
+  [^manuals]: 作者的引用大多出自《Visuddhimagga》的第12、13章。
 
 根据这三本手册，yoga powers分为六类：
 
@@ -79,6 +81,10 @@ title: Yoga Powers
 
 第一类yoga power类似于自我催眠：通过将内心变得柔软、可塑，获得任何精神上的能力。但这种能力是暂时的，离开了催眠状态就会消失。其它五类则是类似于练琴：通过极度的专注于能力本身，获得非凡且持久的成就。
 
-但不论是哪一类yoga power，**都以jhana为核心**。这六个类别，正是**按冥想对象分类**的，每一类对应一种冥想对象。
+但不论是哪一类yoga power，**都以jhana为核心**。这六个类别，正是**按冥想对象分类**的，每一类对应一种冥想对象。[^jhana]
+
+  [^jhana]: 至于如何进入各个jhana，Mahasi Sayadaw在《Manual of Insight》第5章的后半部分做了充足的说明，包括：在尝试进入第一jhana时会遇到什么困难，又如何克服；如何判断是否进入了jhana；各个jhana之间有何异同；以及如何脱离当前的jhana，进入到更高的jhana。
+
+    当然，Mahasi Sayadaw的说明是围绕着第六类yoga power（洞见无常）展开的，但它也适用于其它的yoga powers，只需略作替换。
 
 ---
