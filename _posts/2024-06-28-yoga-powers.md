@@ -79,6 +79,8 @@ title: Yoga Powers
 
 第一类yoga power类似于自我催眠：通过将内心变得柔软、可塑，获得任何精神上的能力。但这种能力是暂时的，离开了催眠状态就会消失。其它五类则是类似于练琴：通过极度的专注于能力本身，获得非凡且持久的成就。
 
-但不论是哪一类yoga power，**都以jhana为核心**。这六个类别，正是**按冥想对象分类**的，每一类对应一种冥想对象。
+但不论是哪一类yoga power，**都以jhana为核心**。[^jhana]这六个类别，正是**按冥想对象分类**的，每一类对应一种冥想对象。
+
+  [^jhana]: 关于jhana的说明，可以参考Bhikkhu Bodhi写的《A Comprehensive Manual of Abhidhamma》。这里提到的jhana都是指fine-material jhana，而不是immaterial jhana。
 
 ---
