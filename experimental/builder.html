@@ -1,0 +1,210 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+
+    <meta name="version" content="1.0"/>
+    <meta name="author" content="shuiruge@hotmail.com"/>
+    <meta name="repository" content="https://github.com/shuiruge/blogs"/>
+
+    <title>Let's Build Blogs</title>
+
+    <style>
+      body {
+       cursor: url(./images/cursor.png), auto;
+       background-color: #c7edcc;
+       max-width: 700px;
+       margin-left: auto;
+       margin-right: auto;
+       padding: 1em;
+     }
+     span.comment {
+       font-size: 0.8em;
+     }
+    </style>
+
+    <!-- literate -->
+    <link rel="stylesheet" type="text/css" href="literate.html/literate.css"/>
+    <script type="text/javascript" src="literate.html/literate.js"></script>
+
+    <script>
+      window.onload = weaveAll;
+    </script>
+  </head>
+
+  <body>
+    <h1>Let's Build Blogs</h1>
+
+    <p>
+      We are to write a static website for showing interesting (may be inspiring
+      too) articiles on the internet. That is, a blog server. It "compiles" the
+      articles written in Markdown or HTML to the webpage.
+    </p>
+
+    <h2>Design</h2>
+
+    <h3>File Name</h3>
+    <p>
+      We only deal with Markdown and HTML files. For Markdown, we directly use
+      the H1 title as the blog title, so a Markdown file shall have one and only
+      one H1 title. The same for HTML file. For this reason, the file name can
+      be irrelavent to the blog title. Although, we use the standard format
+      <code>YYYY-MM-DD-ABBRV.EXT</code> for each file, where <code>YYYY</code>
+      represents year in four digits, <code>MM</code> for month in two digits,
+      <code>DD</code> for days of month in two digits, <code>ABBRV</code> for
+      abbreviation of the blog title, and <code>EXT</code> for either
+      <code>md</code> or <code>html</code>. The abbreviation is like the variable
+      name in progamming: it is short but still reflects the meaning it represents.
+      It may contain multiple words, but shall be connected by a hyphen, such as
+      <code>this-is-an-example</code>.
+    </p>
+
+    <h3>Homepage</h3>
+    <p>
+      The homepage has a header, including the avatar of myself (an abstract
+      image for me), and a link to
+      <a href="https://shuiruge.github.io">my homepage</a>.
+      Below the header is the newest articles, displayed in chunks. Each chunk
+      involves the blog title, the first N words of the content (N is a global
+      variable). Chunks are stacked, in the center part of homepage.
+    </p>
+
+    <h3>Navigator</h3>
+    <p>
+      On the left hand side, there is a sidebar for navigation. I think the
+      sidebar in <a href="https://9front.org/">9front.org</a> looks clean and
+      efficient. So, we mimic it for our website. (The mouse is also pretty cool,
+      we copy it too.) This navigator is also applied to each blog page.
+    </p>
+
+    <h3>Blog Page</h3>
+    <p>
+      Blog page just display the content of the article. The styles and scripts
+      involved in the article (if it is written by HTML) are also inherited by
+      its blog page. The article is centered. On the right hand side, we add a
+      table of content.
+    </p>
+
+    <h3>Table of Content</h3>
+    <p>
+      TODO
+    </p>
+
+    <h2>Implementation</h2>
+
+    <h3>Develop Environment</h3>
+    <p>
+      To determine which tools are employed for our purpose, I think the first
+      version shall be made simple. So, we use Python.
+      <div class="chunk" name="shell.nix">
+        with import &lt;nixpkgs&gt; { };
+        let
+          pythonPackages = python3Packages;
+        in pkgs.mkShell rec {
+          name = "booksEnv";
+          buildInputs = [
+            <span class="chunkref">dependent modules</span>
+          ];
+        }
+      </div>
+      We need a script that parse the blog files (including HTML and Markdown
+      files) and then insert the content into a HTML template. To do so, we
+      need a module to convert Markdown to HTML. We use <code>mistune</code>
+      for this task.
+
+      Some Markdown file may involve a YAML-style front matter, for which
+      <code>mistune</code> cannot handle. We need another module, called
+      <code>python-frontmatter</code> to deal with this, and pass only the body
+      to <code>mistune</code>.
+
+      And a module to parse HTML and fetch the body. I think
+      <code>beautifulsoup4</code> (or <code>bs4</code>) is more thans sufficient.
+      We also add <code>ipykernel</code> for fast debugging. So, we include:
+      <div class="chunk" name="dependent modules">
+        pythonPackages.mistune
+        pythonPackages.python-frontmatter
+        pythonPackages.beautifulsoup4
+        pythonPackages.ipykernel
+      </div>
+    </p>
+    <p>
+      We will not explain this configuration further, just accept it, save it
+      to <code>shell.nix</code> in the current folder, and run
+      <code>nix-shell</code> in command line.
+      Then, in the script, import:
+      <div class="chunk" name="build.py" append-newline="2">
+        import mistune
+        import frontmatter
+        from bs4 import BeautifulSoup
+      </div>
+    </p>
+
+    <h3>Homepage Template</h3>
+    <p>
+      <div class="chunk" name="build.py">
+        def get_homepage(dir_path: str) -> str:
+            <span class="chunkref">get homepage body</span>
+            html = f'''
+                &lt;!doctype html&gt;
+                &lt;head&gt;
+                  &lt;meta charset="UTF-8"&gt;
+                  &lt;meta name="viewport" content="width=device-width, initial-scale=1.0"&gt;
+                  &lt;title&gt;shuiruge's blogs&lt;/title&gt;
+                  &lt;style&gt;
+                    <span class="chunkref">homepage style</span>
+                  &lt;/style&gt;
+                &lt;/head&gt;
+                &lt;body&gt;
+                  {body}
+                &lt;/body&gt;
+                &lt;/html&gt;
+            '''
+            <span class="chunkref">prettify homepage html</span>
+            return html
+      </div>
+      <div class="chunk" name="prettify homepage html">
+        html = BeautifulSoup(html, 'html.parser').prettify()
+      </div>
+      <div class="chunk" name="homepage style">
+        body {
+          cursor: url(./images/cursor.png), auto;
+          background-color: #c7edcc;
+          max-width: 700px;
+          margin-left: auto;
+          margin-right: auto;
+          padding: 1em;
+        }
+      </div>
+      <div class="chunk" name="get homepage body">
+      </div>
+    </p>
+
+    <h3>Blog Page Template</h3>
+
+    <h3>Convert Markdown</h3>
+    <p>
+      <div class="chunk" name="build.py" append-newline="2">
+        def convert_markdown(file_path: str) -> str:
+            <span class="chunkref">convert markdown</span>
+      </div>
+      <div class="chunk" name="convert markdown">
+        with open(file_path, 'r') as f:
+            obj = frontmatter.load(f)
+        html = mistune.html(obj.content)
+      </div>
+      <div class="chunk" name="convert markdown">
+        title = obj.metadata.get('title', None)
+        if title:
+            html = f'&lt;h1&gt;{title}&lt;/h1&gt;\n\n' + html
+        return html
+      </div>
+    </p>
+
+    <h3>Process HTML</h3>
+    <p>
+    </p>
+
+
+  </body>
+</html>
